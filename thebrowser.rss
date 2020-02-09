@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    >
+    <channel>
+        <title>thebrowser</title>
+        <atom:link href="https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 09 Feb 2020 15:05:55 CST</lastBuildDate>
+        <description>thebrowser</description>
+        <link>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss</link>
+        
+        <item>
+            <title>Seven Wonders Of The Week</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=1702588befd0a958</guid>
+            <description>Seven Wonders Of The Week</description>
+            <pubDate>Sat, 08 Feb 2020 09:59:18 CST</pubDate>
+            <content:encoded>
+                <![CDATA[<html><head><title>Seven Wonders Of The Week</title><style>
+@media screen and (max-width:480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  .share-button-container {
+    height: 38px;
+  }
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  .post .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post .markup a.spotify-wrap,.post .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post-silhouette {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+  .post-preview>.post-preview-image {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width:370px) {
+  table.post-meta tr td.post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  body .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-preview-silhouette .post-preview-silhouette-image {
+    display: none;
+  }
+  body .markup a.spotify-wrap,body .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 6px;
+  }
+}
+
+
+@media screen and (max-width:420px) {
+  body .subscription-receipt table .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width:480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  table.thread-head .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .footer {
+    outline: #f8f8f8 solid 8px !important;
+  }
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+  table.thread-head .markup a.spotify-wrap,table.thread-head .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+    min-width: 112px;
+  }
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+</style></head><body style="color: #505050; font-family: helvetica; font-kerning: auto;"><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">Things we learned while reading for The Browser&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;</div><table width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table width="100%" border="0" cellSpacing="0" cellPadding="0" class="header graphic-header" style="padding: 15px 0;"><tr><td style="text-align: center;"></td><td align="center" style="text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUV1v4jAQ_DXJW5CdT_LgByCgwpFU1_J1T5FjL-Am2JHjNBd-fU05qTppVyuNZ2dWHkYNXJQeSas64_Yd6FJwEgcIoyR1OeFpfIY4cEVXnjXAjYqGGN2D2_ZVIxg1QsnHBp6i0L2SM06giqZRxeOUY-qfaYCThPEwCdOE8sh92JS05wIkAwKfoEclwW3I1Zi2c4KZ469smStUWg32nAlTNwu0tjtLl96gJAfdeersWZY3ANRewFInWBlVg3SCDMYNZv5hPPlNvf5Qfn6f_c0zFm0Xm6EKCvQPH4tsHxQf-259a658sY7z3T7Md8uguO9xPg6Cnoq75Qn2chDb3TLMs9_Catz5cS1exVNre9o0f44Fose0X0s0mZWX10XGD5v6RXuf4Rs7Ze_VL70a6qKVy_eUeW8rdOznRZ67gvjIR7amOIpSPJ3gSYqS2SKex1mSxSHOVk6Iur7qDGW1P_n_U1xNjLrVOJw6_vznyW5cHil9U2xIpZ23XgozliBp1QAnrnmm_Z2FGVsgEoauAWNAP0EbqB9GSRy51p0rqyfJj8UXrWu9_A"><img width="550" src="https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2c61b63-fd58-48ce-a4c9-c60e4876990e_800x160" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; width: 100%;"></a></td><td style="text-align: center;"></td></tr></table><div class="post-header " style="font-size: 16px; line-height: 26px;"><h3 class="subtitle" style="color: #757575; font-family: Bitter,Georgia,serif; font-size: 19px; font-weight: 400; line-height: 1.16em; margin: 4px 0 0;">Things we learned while reading for The Browser</h3><table cellpadding="0" cellspacing="0" class="post-meta   custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item post-date" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; padding: 7px 12px 7px 0; position: relative; text-decoration: none; text-transform: none; vertical-align: middle;">Feb 8</td><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 0; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVUk1vozAQ_TVwIzLf4eBDEhI12UC1bb72hIwZEhewkTFlya9f06SqVhpf3ryZ9zwzlCi4CjniVnTK7DuQGStw4CIbhZFZ4CIKSghck3VZKQEawmqsZA9m2-c1o0QxwacKe44884bDHAChKJoTL7J9QGHukzICG5W5XyKky7RMRvqCAaeA4RPkKDiYNb4p1XaGuzCcjQ51g1yKQduZUdFooNWv03RuDYIXIDtLlJZmWQNAZbk0MtyNEhVww41h3NnUOY0Xp662H8JJ7ou_SUz9_Wo35G6KnviYxkc3_Th226a-FattkByOXnJYu-n9aCfjwMglvWseoy8ntj-svST-zXSPe3Heslf26LW_7Oo_5xSRc9RvOZotsuvrKi5Ou-pFWp_eG73E7_kvuRmqtOXr94habxt07pdpkhhO0Ksm60QvKWjbXZ93itDqiTdQsL6ZvjMN_QlSwRVwNbFvRIJGCZ1W8A2YDDvIQTrmtu9H9nxmzyIULlbBMojDOPDseGN46FvKmf0_aFNiJZrK9uaGs_xJ6YrrZOKLohevbTRNz5kaM-Akr6HApnpc0Nd-1dgC5jB0NSgF8gHqI3E8Pwx8U6sXQvfj-EfiH7xp280" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_40,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D20%26stroke%3D%2523999999" width="11" height="20" style="border: none !important; float: left; height: 20px; max-width: 11px; width: auto;" alt=""></a></span></td></tr></table></div><div class="post" style="font-size: 16px; line-height: 26px; padding: 9px 0;"><div class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 12px; word-break: break-word;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-top: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFkN2OgyAQhZ9G7jDgD-oFF-02fQ2DMCpZBQPDGt9-aXvRZBIOA4czfFohLD5c8vARSYoQRmukqBln3UCMNIOYQdTExnEOALuym8SQgBxp2qxWaL17OXjPGrJKMXE11G1ft4xBp0B3DWsHrmfRgJ7mmbxiRpWMBadBwh-Eyzsgm1wRj1jUt6J65jrPszymWPqw5J2DM64-hSyjfjuzMn6J9PD-oNZRtdnF7eCQnhZXCirgGumuFgdoNZ0tbIZGTObK2plIrKxYxXL1vM0D9iUvB9bdfsRdPLqHaPjjWTQspimi0r9ViStMwZ-ZT6n9ToJEv__ypi-q-_coO5YXofeVDGjM656cxWsEp6YNjCT4If3mgNcB8vW5DRAhfJoZZtW0nWhJTjc-v-fkN-IfJNWVWw" style="color: #eb4102; text-decoration: none;">Dogs prefer to excrete</a> along a north-south axis</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">There is more competition <a href="http://email.substack2.thebrowser.com/c/eJxFkNGugyAMhp9m3GEAFfWCi-0sew2D2B2JDBaox_j2p9suljQpLfz9y-cswm_Kh3mmgmwrkEc_G10LKbqBzWYe9B10zXwZ7xngYX0wmDdgz20K3ln0Kb4UshcNW0jYdP2g3WCFnGuAWWjleqUbWbdqcI69bEa7zR6iAwN_kI8UgQWzID7LqT6f1I0CF1i2ggEql6jcl4N75CmGgzuaULgUK8fE0x655W7xbuV3H-h8zzZSXYBkzBsllKDoZdsOsq9kNYju_KMv-tpdaavr7dSIsk0FrVtVRbZTTjtRIN8HywbTY5VNf1KX7xUpfl8c3k8Iw0j5sUWPxwjRTgFmw_DD8_1bPJ5gIuwlACLkT5OQqabtdMvIfU40L5qvxT_6DImK" style="color: #eb4102; text-decoration: none;">to run a Chick-fil-A franchise</a> than to work at Goldman Sachs</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">France staged its <a href="http://email.substack2.thebrowser.com/c/eJxFkMuOwyAMRb8m7BpBHiRZsGin6m9EPNwGlUAEZjr5-yHtopIlS762j321RHiEuIstJCQ5QZytEbyljA4TMcJM_A68JTbN9wiwSusExgxky8pZLdEGf0ywkXZkEYrqkalpNEybtjWd4qNR915N3agbKg05MLPMxoLXIOAX4h48ECcWxC1V7blqbiWijLDYhCEWhtuWgCHVOqxFcjLh6UM_wR_ofJxwemTrXEDr4cSmdip9xIqGNrTEyPp-YmPN6okO5x9-4dfhyjt2vVUdTVkllPrZ1LiAiuFVLDhIJAoM65N1Y9VcvlKZeBwmvFvKFXPJa_YW9xm8VA6MIPgx8_0q7hsID6_kABHip1j8arp-4D0pdBPKPi--iH-904q2" style="color: #eb4102; text-decoration: none;">last public execution, by guillotine</a>, in 1939</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">A locust eats <a href="http://email.substack2.thebrowser.com/c/eJxFkNGOgyAQRb-mvGnAKuoDD-02_Q2DMFZSZQyMS_z7xfZhk0nIvcxwh2M0wQvDoTaMxPYIYXBWySsXvO2ZVbaXE8grc3GYAsCq3aIo7MC2fVyc0eTQnxOi4zWbFRdNM7UWtJVVM47WWClGaU0te-hs37MzZtC7deANKPiFcKAHtqiZaLtcb5fqmSulVE4aSwyvrCZEW5hZO1-Y4KKL2ZsxFQmKhOGd1bZoT8UWkMCcG2VrQbNHOlvhlMypilc8V5dX7EVXirLn7e1H3uWjfchaPJ6Xmsd9jKTNuypphjFgykBKgysLinB9i7q7VPf_qzzxOpF8WjKRIZ_r7h0dA3g9LmAVoy_az8fp2EB5SHEBIghfM9Or6qaVDcvpFvN7Xv1H_AGHuo6g" style="color: #eb4102; text-decoration: none;">its own weight in food each day</a></p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">The average American <a href="http://email.substack2.thebrowser.com/c/eJxNUV2vgyAM_TXypgGmqA88bHfZ3zAgdSNDMIAz_vtbt-TuJk3a9OOc9nRUGe4h7nIJKZM1QRyskeJEGW17YqTpxQTiRGwapggwK-tkjiuQZdXOjirb4I8J1tGaPCSHadKmVV1jODAQY82pauoOYKK6FzU5aAa1Ggt-BAkviHvwQJx85Lyk4nQu-A1t27Zq1MnDlqoxzJg5QnTO6qiihVTOIUK5hGV1Kpb5oTxmXn8FNUPE9XwqN_C5jKBMqUN4pn-tGAKeH1PJKevLu3JuXRDSOSQiVnLKKVrHmqZnXcWqnrbnH3ER1_Yqana9FTVNq05ZjU9eIZiOYUMFj41JlDnMT1Z3Bb98SzhxPzR8t6CEA_p59TbvA3ilHRhJ8ucXb6XyvoA8TneQcdNPEuXmddOKhiC7CYjn5ZfiF-Pwob8" style="color: #eb4102; text-decoration: none;">goes to the library</a> more often than they go to the cinema</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><a href="http://email.substack2.thebrowser.com/c/eJxNkE2OwyAMhU8TdkSQ_yxYtFP1GhEBJ0VNIAKnVW4_TruYkSwh2X5-H89ohDnEQ20hIdsTxMFZ1ZRCirZnVtm-maApmUvDFAFW7RaFcQe27ePijEYX_KmQnajYQ_XSdJU0xdjrSYpJlGIydTuKsmx13XUlO20GvVsH3oCCF8QjeGCLeiBuKSsvWXGnStEEn1B7dD4_NQ_9Ap-bsNJQz87P3HmESM2TIPEphpWHxULk_8gSJyFyC-lc5Zp7ePMlhCdzqhCFoOpkXfeyy2Xei_by01ybW3trKnm7Z5VI-0gQ5lnk-IAxhjfdOSFYVBjWp6y6rLj-jUgxnwl9VghjoHfdvcNjAK_HBaxi-E36kwMeGyhCSgsgfebbpDCLqm6bmpG7DXTPqz-LX8eBlhM" style="color: #eb4102; text-decoration: none;">Shining light on a duck's head</a> makes its testes grow</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0;"></p></div></div><table cellpadding="0" cellspacing="0" class="post-meta big  custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 16px; font-weight: 400; height: 30px; line-height: 30px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 16px; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVUk1vozAQ_TVwIzLf4eBDEhI12UC1bb72hIwZEhewkTFlya9f06SqVhpf3ryZ9zwzlCi4CjniVnTK7DuQGStw4CIbhZFZ4CIKSghck3VZKQEawmqsZA9m2-c1o0QxwacKe44884bDHAChKJoTL7J9QGHukzICG5W5XyKky7RMRvqCAaeA4RPkKDiYNb4p1XaGuzCcjQ51g1yKQduZUdFooNWv03RuDYIXIDtLlJZmWQNAZbk0MtyNEhVww41h3NnUOY0Xp662H8JJ7ou_SUz9_Wo35G6KnviYxkc3_Th226a-FattkByOXnJYu-n9aCfjwMglvWseoy8ntj-svST-zXSPe3Heslf26LW_7Oo_5xSRc9RvOZotsuvrKi5Ou-pFWp_eG73E7_kvuRmqtOXr94habxt07pdpkhhO0Ksm60QvKWjbXZ93itDqiTdQsL6ZvjMN_QlSwRVwNbFvRIJGCZ1W8A2YDDvIQTrmtu9H9nxmzyIULlbBMojDOPDseGN46FvKmf0_aFNiJZrK9uaGs_xJ6YrrZOKLohevbTRNz5kaM-Akr6HApnpc0Nd-1dgC5jB0NSgF8gHqI3E8Pwx8U6sXQvfj-EfiH7xp280" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_60,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D30%26stroke%3D%2523999999" width="16.5" height="30" style="border: none !important; float: left; height: 30px; max-width: 16.5px; width: auto;" alt=""></a></span></td></tr></table><div class="container-border" style="border-top: 1px solid #f6eddf; box-sizing: border-box; font-size: 16px; line-height: 26px; margin: 32px 0 0; width: 100%;"></div><div class="post-cta" style="font-size: 16px; line-height: 26px; margin: 24px 0 40px;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; margin-top: 0;"><span>You&#8217;re on the free list for <a href="http://email.substack2.thebrowser.com/c/eJxVUMGugyAQ_Bo5GkAEPXBon-lvGIRtJVUwsL7Gv3_YHpqXTLLJ7s7OzFqD8Ijp0FvMSPYMafROy4YyqnritOvlHWRDfB7vCWA1ftGYdiDbPi3eGvQxnAzWUUFmbamZOJVcglM9NdK1wJXouO2cdAIMOWVGszsPwYKGX0hHDEAWPSNuuWouFb8V4AxTiq9ip7ZxLQ3iNaecFnSsbXvW1azuqbr8yKsc1CAFG26VoHmfMhr75PX_CyRpjOuTia7i1--oMB5npPdKSTSWuu7B4zFCMNMCThP8vOZtHI8NdIBXXgAR0qdZ0nPRKtmSou5iuRf0V-IPwmt3uQ" style="color: #eb4102; text-decoration: none;">The Browser</a>. For the full experience, <a href="http://email.substack2.thebrowser.com/c/eJxVUsuSmzAQ_Bq4xcVTwEEH26wdXIatZPFj9-ICaTCKQSJCxIavj9jN1laq5tRSd8_0DCkUXIUccSd6ZQ49yAujGLmWbQWRSTGNUAXINVl_qSRAW7AGKzmA2Q1lw0ihmOAzww4tz6xxgDzLrSIISOAFRQQ-iryCelVVBo5j09CcbS7FQBlwAhj-gBwFB7PBtVJdb7hLw9noUjWUUtx1OwsiWg30Q9kTyUow3I0SN-CGG8O4s4lzHM9Oc0t-CSedlo80Jv5-vePFNproUzSU32_smf8c6enQJ21T03WC0vzgpfmTm00HOx3v7O1c3zX_keXXKZte_Sw_TFqjI27KntnuTk-JSvPrPVsnfcIz-5UlKGkz8XbKZOkerYRbC-iGIgnqjfXgch_EXpdXofq93p5X-5y-5PWP7HQ6vnxLjtub4aBBtZdeDJLoceJ5NFWQT7wFyoZ2Hm8O-x9IBFfAlUbnAIkqTIYdy7F0hbbvR3a4sBeRFSzXaIXiIEaeHW8Mz_rUdhb_J2pKrER7s73QcFZfT5pxnV3fv-gNa9-2HThT4wV4UTZAsak-TuV9kWrsAHO49w0oBfID1NfgeH6AfFO7U6H1OP6y-At_I9XD" style="color: #eb4102; text-decoration: none;">become a paying subscriber.</a></span></p><p class="cta-box" style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUsuSmzAQ_Bq4xcVTwEEH26wdXIatZPFj9-ICaTCKQSJCxIavj9jN1laq5tRSd8_0DCkUXIUccSd6ZQ49yAujGLmWbQWRSTGNUAXINVl_qSRAW7AGKzmA2Q1lw0ihmOAzww4tz6xxgDzLrSIISOAFRQQ-iryCelVVBo5j09CcbS7FQBlwAhj-gBwFB7PBtVJdb7hLw9noUjWUUtx1OwsiWg30Q9kTyUow3I0SN-CGG8O4s4lzHM9Oc0t-CSedlo80Jv5-vePFNproUzSU32_smf8c6enQJ21T03WC0vzgpfmTm00HOx3v7O1c3zX_keXXKZte_Sw_TFqjI27KntnuTk-JSvPrPVsnfcIz-5UlKGkz8XbKZOkerYRbC-iGIgnqjfXgch_EXpdXofq93p5X-5y-5PWP7HQ6vnxLjtub4aBBtZdeDJLoceJ5NFWQT7wFyoZ2Hm8O-x9IBFfAlUbnAIkqTIYdy7F0hbbvR3a4sBeRFSzXaIXiIEaeHW8Mz_rUdhb_J2pKrER7s73QcFZfT5pxnV3fv-gNa9-2HThT4wV4UTZAsak-TuV9kWrsAHO49w0oBfID1NfgeH6AfFO7U6H1OP6y-At_I9XD" class="button primary" style="-moz-box-sizing: content-box; -webkit-box-sizing: content-box; background-color: #f90; border: 0 solid #f90; border-radius: 4px; border-width: 13px 20px 13px 18px; box-sizing: content-box; color: #fff; cursor: pointer; display: inline-block; font-family: Lato,sans-serif; font-size: 17px; font-style: normal; font-weight: 300; height: 24px; line-height: 24px; margin: 0; opacity: 1; outline: 0; padding: 0; text-decoration: none !important; vertical-align: middle;">Subscribe</a></p></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Robert Cottrell, Editor<br>Caroline Crampton, Audio Editor<br>Uri Bram, CEO [<a href="mailto:uri@thebrowser.com" style="color: #eb4102; text-decoration: none;">uri@thebrowser.com</a>]</p><div class="footer" style="background: #f8f8f8 !important; color: #bcbcbc; font-size: 16px; line-height: 26px; padding: 32px; text-align: center;"><p class="small" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 30px;">&#169; 2020 <span>The Browser</span> <a href="http://email.substack2.thebrowser.com/c/eJxVUU1v4jAQ_TXxrcgfiZMccgikrGAL7K5aaHqJHGcoJh-OYmch_Po19FCtNNKMxvPmjd-TwsKnHqak18ai0cBQqCrhDBMcxqhKqpgfgTOkTHEcAFqhmsQOI6B-LBslhVW6uyNIhH10csAjC4WsqvLIhKA-K3FEOQsDEUYBwRTdaQoxVgo6CQn8hWHSHaAmOVnbG4-lHl26sCcoB31x58ykbl1DyDuTKyplRNlA8TjFY8teV1IY67HMo9zqGjpXwrQmku6nd9rUq7Omm1t63WQyeFms-_z9t9qdn8kue75ub5JsXzdm1TY3Oa34qpuTXOHrLkvxSl2UZHvl8OrjR3PLD2vzsY-b8rDsy8U6nvk_F5d5zvLjtnmCV0p-PZ0XbVrUL2_-un2rA_B3HNv0z8FekEoopthFRIIgJtGMzGIcpgs-51mYcZ9kS8_HZiyNFbKms___j4bE6rYmfuTR-feTQ3zeVXiMOD8Kl9uxU3YqoLuLVCXIfhn7kN1OPSQdXEwD1sLw1XTeUT8IeYAce6Xdvi75pvgH9dy2tQ" style="color: #bcbcbc; text-decoration: none;"><span style="color: #bcbcbc; text-decoration: underline;">Unsubscribe</span></a><br>Suite 25, 19-21 Crawford Street, London W1H 1PJ</p><p class="small powered-by-substack" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFUNGOgyAQ_Bp5bAAV9IGH65n-hkFcW1IBA8s1_v2hd02TfdnZnZ3ZMRrhHuKutpCQ5ARxtLMSNWVU9mRWcy8WEDWxaVwigNN2VRgzkC1PqzUabfAHg3W0IQ9lOqrZUjPJDJWLNJMUZq4XvgDtDO87csiMOs8WvAEFPxD34IGs6oG4par-qvitVMpTQm2eFxNcafUUMlb1LaMbU8jRQFUP752KiwN3MNvsCn6a_AdN8Ai-UIclBIRIrOKU01Ida9uedRd26an8-hZXMchBNGy4VQ19n-YXfMAUw6vkclghUWFwT9Z0Fb9-RoVxP0TPlRJMkXUue4v7CF5PK8yK4F_C5_-4b6A8vNIKeJg6wRIib1opWlLU51DuefWR-AXPjZGj" style="color: #bcbcbc; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_340,c_limit,f_auto,q_auto:good/https%3A%2F%2Fsubstack.com%2Fimg%2Fpublish-on-substack.png" width="170" style="border: none !important; margin-top: 3px; max-width: 550px;"></a></p></div></div></td><td></td></tr></table><img width="1px" height="1px" alt="" src="http://email.substack2.thebrowser.com/o/eJxFj8uOwjAMRb-GLKu8my6yGKjmN6o8DES0SZXHoP79BFggWbJk-_qe60yFW8qH3lOpqBXIS_BaMkzwOCGv_SSvIBkKZblmgM2EVdfcAO3NrsGZGlJ8KYjCHN01ZhIYYZY6KzBhXrARLJVESqaMUxy9bBbTfIDoQMMf5CNFQEFTTHEvRYSYiBrIMOHx5yLPch5nycn8e-K4NFuqcQ861DvYnJ4dd3BpQ1nXtD0IVyd6_q664vYCfp903qX3rcVQjwWisSt4jeon-BurHjvoCM-yQq2QP8OejXIxSoG6u0_9X9Rfi386KGvI"></body></html>]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <title>Top Of The Week</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=17024e68d8016f37</guid>
+            <description>Top Of The Week</description>
+            <pubDate>Sat, 08 Feb 2020 07:01:33 CST</pubDate>
+            <content:encoded>
+                <![CDATA[<html><head><title>Top Of The Week </title><style>
+@media screen and (max-width:480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  .share-button-container {
+    height: 38px;
+  }
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  .post .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post .markup a.spotify-wrap,.post .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post-silhouette {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+  .post-preview>.post-preview-image {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width:370px) {
+  table.post-meta tr td.post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  body .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-preview-silhouette .post-preview-silhouette-image {
+    display: none;
+  }
+  body .markup a.spotify-wrap,body .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 6px;
+  }
+}
+
+
+@media screen and (max-width:420px) {
+  body .subscription-receipt table .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width:480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  table.thread-head .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .footer {
+    outline: #f8f8f8 solid 8px !important;
+  }
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+  table.thread-head .markup a.spotify-wrap,table.thread-head .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+    min-width: 112px;
+  }
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+</style></head><body style="color: #505050; font-family: helvetica; font-kerning: auto;"><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">A selection from recent editions of The Browser&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;&#160;&#8204;</div><table width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table width="100%" border="0" cellSpacing="0" cellPadding="0" class="header graphic-header" style="padding: 15px 0;"><tr><td style="text-align: center;"></td><td align="center" style="text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVkVuP2jAQhX9N8hbkS3CSBz9wqxpEQLSwsE-RcSZgcnGaOJsNv75mqbSqNJKlMzPnWPNJYeCq25E3ujNu30GbqowzijAKIjfjWcRyYNRVXZq3AJVQJTdtD27TX0olhVG6fm7gEPnujQeMBEGASYCmzEcCwjD3JSFZJHLJRDR1nzGp6DMFtQQOH9COuga35Ddjms6hM4f8sGVucGn1YL8zkbqyQvMUdePp3LM9bwAovNDHDrVqAbVDlzCusSRv45mURXzXJHnMPpOlnG4W6-FCt-ifPm7vEu8OSRdX5S1bxCw5HP3ksCLb-9XfLQYlztuHnVPy55vaHFZ-stwr6_HITrHaqZfX5rwu309bJE5RH9doMo0rAi1Sx2H3mUebX0zu2fvqWB09b__74_SHHuq471Uxa6-u4gQRZCvE9sqUTvAkxLOAzvFyFswpZiR0fNT1l84IWZDJ_6dwW250VWA_dMj8u2U3rk82XyMWTWrfqq-VGVOoxaWEjLvmxfiLgBkb4DUMXQnGQPsSLUbCgmlEXZueaetX8--Iv8ZyuSo"><img width="550" src="https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2c61b63-fd58-48ce-a4c9-c60e4876990e_800x160" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; width: 100%;"></a></td><td style="text-align: center;"></td></tr></table><div class="post-header " style="font-size: 16px; line-height: 26px;"><h3 class="subtitle" style="color: #757575; font-family: Bitter,Georgia,serif; font-size: 19px; font-weight: 400; line-height: 1.16em; margin: 4px 0 0;">A selection from recent editions of The Browser</h3><table cellpadding="0" cellspacing="0" class="post-meta   custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item post-date" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; padding: 7px 12px 7px 0; position: relative; text-decoration: none; text-transform: none; vertical-align: middle;">Feb 8</td><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 0; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVkk2TojAQhn8N3LRIAgiHHPzaWizRcldH52SF0GoEEjaEYfDXTxhnamqr-vSku9833c2ZgavSPa1VY9y2AX0WOQ2Jh7xJ7OY0j8MLhMQVzfmiASomSmp0C27dZqXgzAglhwoUeb57ozjLM4gzzCY-cC-IGOIoCBAnUQgE_MwdZM6szQVIDhTeQPdKglvSmzF145Cpg3_ZMDfItOqsnTFXlQX1AFU9UpeRfRt1AMUo8pFDLC1AOmQB_Qpx_NKfcFkkd4XTx_Q9XfBgPV91Gdl4X7zf3Dna7tMmqcpbPk_CdH_w0_0Sb-5XfzvvBDttHjZP8N8vYr1f-uliJ2yPR35MxFY8e61Pq_L1uPHYMW4T6Y2DpMKgPXHotu-XeP0n5LvwdXmoDqPR7u_b8R_Zy6RtRTHVVweHranOjWo1B2u7abPGMF588Qpy0VbDd4ZRf0GupAFphuwb02Ap48Pgv4ErKPawZyNCdnOEjNE4QtMJmaHFdDIjKMSR43vfUnj8_3hdTY2qCuRHDp79PNmK62DiM8Wu29qoqlYK059BsqyEnLrmeTefWzV9DVRC15RgDOgntKeBw0kQE9eq58r2k_RH4gNEhNfb" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_40,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D20%26stroke%3D%2523999999" width="11" height="20" style="border: none !important; float: left; height: 20px; max-width: 11px; width: auto;" alt=""></a></span></td></tr></table></div><div class="post" style="font-size: 16px; line-height: 26px; padding: 9px 0;"><div class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 12px; word-break: break-word;"><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em; margin-top: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFkNGOhCAMRb9G3sYIKOoDDzPZ7G8YhDqSVTBQ1_j3W2c2maSB5EJ776k1CM-YTr3FjGzPkAbvtJIVr9qeOe16NYGSzOdhSgCr8YvGtAPb9nHx1qCP4ergXVWzWRsQ9UQHN00_QdMbq5pWdHwSrreK1-yyGczuPAQLGn4hnTEAW_SMuOVC3gvxTXUcRzn7jJQMozNnaeNK8r90Ww0ipEzKZijzzQR3g2kCi8xrUYmKquMEIWXJy47fW_ngX_f2IbkSXVFXeR8zGvsjSpxhTPEg8MuDJY1x_eF1V4jH54k6nhf66wuRD3Sve_B4DhDMuIDTDN8rfAHiuYEOcOQFrqBvkbYkVNv0kpG7izQv6I_FH_1chvs" style="color: #0a0a0a; text-decoration: none;">Pause And Effect</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Florence Hazrat | History Today | 24th January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">On the history and logic of punctuation, which began in antiquity as a way of indicating where pauses should be made when reading aloud. Medieval scholars divided textual pauses into three main types: Between elements of a single sentence whose sense was not complete (which would become the comma); between elements whose sense was complete (the future colon); and between sentences (the full stop). The first recorded use of brackets was in 1399, and of the semicolon in 1494 (<a href="http://email.substack2.thebrowser.com/c/eJxFkNGOhCAMRb9G3sYIKOoDDzPZ7G8YhDqSVTBQ1_j3W2c2maSB5EJ776k1CM-YTr3FjGzPkAbvtJIVr9qeOe16NYGSzOdhSgCr8YvGtAPb9nHx1qCP4ergXVWzWRsQ9UQHN00_QdMbq5pWdHwSrreK1-yyGczuPAQLGn4hnTEAW_SMuOVC3gvxTXUcRzn7jJQMozNnaeNK8r90Ww0ipEzKZijzzQR3g2kCi8xrUYmKquMEIWXJy47fW_ngX_f2IbkSXVFXeR8zGvsjSpxhTPEg8MuDJY1x_eF1V4jH54k6nhf66wuRD3Sve_B4DhDMuIDTDN8rfAHiuYEOcOQFrqBvkbYkVNv0kpG7izQv6I_FH_1chvs" style="color: #eb4102; text-decoration: none;">1,300 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFUcuOwyAM_JpyIyLQJumBQ6vV_kZEwClsCUTgbJW_X6d7qGTJwo-Z8WANwiOXXa-5ItsqlDE43SnRiv7KnHbXboZOsVDHuQAsJkSNZQO2blMM1mDI6dhoB3FmXl_EdVKDG6TpxDRPQlrjLjP0vXNKCnlmB81oNhcgWdDwC2XPCVjUHnGtJ3U7yW8KDyaib34yviDGxuaFiiHxtZhQgeeZe1NrhMpffuflLSOkB0df8vbwPCSb0y-kNw1fzM4nSrkAB_QkO9KkSTyjh8IXsPQIdal8zoWbGPNxGMFZU4CIWdAkXlAMLTmjVNM2Q3vr1b39uvV31XZyOJ1F3aaKxj5lQ7BTyS9y85DOisa8PNvzcJL3T4s2Hoef7xGyc6S8bCngPkIyUwSnGf7_y9s13FfQCV50NiKU_yJZL7v-clWM2F0mvKQ_FH8HZKap" style="color: #0a0a0a; text-decoration: none;">Rationing Through Inconvenience</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Carl Coleman | Jotwell | 10th January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">The potential demand for free and subsidised healthcare is almost unlimited; yet charging market prices to everybody, rich and poor, strikes most of us as heartless. The argument made here is that <em>de facto</em>&nbsp;rationing of free and subsidised healthcare, by making such healthcare highly inconvenient to obtain, is fair and humane. Queues, delays and intrusive formalities will deter frivolous consumers, and will encourage the better-off to buy healthcare more conveniently at market prices (<a href="http://email.substack2.thebrowser.com/c/eJxFUcuOwyAM_JpyIyLQJumBQ6vV_kZEwClsCUTgbJW_X6d7qGTJwo-Z8WANwiOXXa-5ItsqlDE43SnRiv7KnHbXboZOsVDHuQAsJkSNZQO2blMM1mDI6dhoB3FmXl_EdVKDG6TpxDRPQlrjLjP0vXNKCnlmB81oNhcgWdDwC2XPCVjUHnGtJ3U7yW8KDyaib34yviDGxuaFiiHxtZhQgeeZe1NrhMpffuflLSOkB0df8vbwPCSb0y-kNw1fzM4nSrkAB_QkO9KkSTyjh8IXsPQIdal8zoWbGPNxGMFZU4CIWdAkXlAMLTmjVNM2Q3vr1b39uvV31XZyOJ1F3aaKxj5lQ7BTyS9y85DOisa8PNvzcJL3T4s2Hoef7xGyc6S8bCngPkIyUwSnGf7_y9s13FfQCV50NiKU_yJZL7v-clWM2F0mvKQ_FH8HZKap" style="color: #eb4102; text-decoration: none;">1,330 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFUMtuwyAQ_Bpzc8TDxfaBQ6Kqv2Fh2MQoGBK8pHW_vuv2UGmlQQvzYJxFuOWym0fekNUNyhS80YoL3o_MGz_qK2jFwjZdC8BqQzRYKrBHnWNwFkNOB0MMvGOL0d2s-dCrrpPcyplEhOLOinGE8cp7yQ6byVYfIDkw8IKy5wQsmgXxsTXq3MgPGlwgV4whwcnllRYHj2DQShK8cqwJbdnbpa42tfCFIbkjS7vmF6yQsPVgcWl9CS9oXQwrfbR1i003aNTHt2_UOynp70CH7lmjuj-RBSO55DQDxRZKncRpEOdeXcT7ub8ooeXQdHyr84bW3eWJYs4lf1JrR0xWDOb1LrqhkZf_K2Lcjt5-n1BtE-FaU8B9gmTnCN4w_Ov_tx3cH2ASfG4REKH8Laliqfu3UTFy95n0kvm3-AEsS5nd" style="color: #0a0a0a; text-decoration: none;">Voluntary Human Extinction</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Tom Whyman | Outline | 31st January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Some philosophers, and some religious cults, have argued at various times that human life is a burden, or that reproduction should be forbidden. They have been dismissed as cranks and crazies. Yet how do we explain our current indifference to climate change &#8212; or, at least, our refusal to take any radical action against it &#8212; except as a revealed preference for the end of the human race? We are saying, in effect, that we are happy to increase the risk of our extinction, so long as we have a good time (<a href="http://email.substack2.thebrowser.com/c/eJxFUMtuwyAQ_Bpzc8TDxfaBQ6Kqv2Fh2MQoGBK8pHW_vuv2UGmlQQvzYJxFuOWym0fekNUNyhS80YoL3o_MGz_qK2jFwjZdC8BqQzRYKrBHnWNwFkNOB0MMvGOL0d2s-dCrrpPcyplEhOLOinGE8cp7yQ6byVYfIDkw8IKy5wQsmgXxsTXq3MgPGlwgV4whwcnllRYHj2DQShK8cqwJbdnbpa42tfCFIbkjS7vmF6yQsPVgcWl9CS9oXQwrfbR1i003aNTHt2_UOynp70CH7lmjuj-RBSO55DQDxRZKncRpEOdeXcT7ub8ooeXQdHyr84bW3eWJYs4lf1JrR0xWDOb1LrqhkZf_K2Lcjt5-n1BtE-FaU8B9gmTnCN4w_Ov_tx3cH2ASfG4REKH8Laliqfu3UTFy95n0kvm3-AEsS5nd" style="color: #eb4102; text-decoration: none;">1,660 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_JrmBsqDRzjk0Gq1v4ECMRAVEpSYrfj7Ne2hkhVbtmcmntEizDGdZo8Z2ZEh9d6ZRnHB244547pmgkYxn_spAWzWrwbTAWw_htWPFn0MF0JoXrHFVE3dDd1UT5rrTmtXt1ZJLnXb1q4bG8cumd4ezkMYwcAfpDMGYKtZEPd8U_eb_KXY7L77MPs5xGRps4xppjZRcUpcXLWkBxcoVr95zEWcisXPS5F3AFck-ijNmTcXhkILukmpUpRa3Fv1ED_39qFEI_Wt4vkYMtrxKUsiHFJ8kQ_lGDeWDMbtKSp9k4_viBDz5cR7hYzoKW9H8Hj2EOywgjMMP46-78VzBxPglVdAhPRpkmmyaetOMVJ3kfiC-Ur8AyDDh_4" style="color: #0a0a0a; text-decoration: none;">The Limits Of High-Speed Rail</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Ivan Rivera | Mapping Ignorance | 22nd January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">How fast can a train go? For mag-lev trains, we do not yet know. For electric trains, the limit is around 600 kilometres per hour, constrained by maintaining a connection to the overhead power supply. For diesel trains, we may already have found the limit: The current record of 287km/hr was set in 1987. All of these top speeds assume test tracks. For a commercial train, powered by overhead electricity but serving stations and carrying passengers, the limit is probably around 400 km/hr (<a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_JrmBsqDRzjk0Gq1v4ECMRAVEpSYrfj7Ne2hkhVbtmcmntEizDGdZo8Z2ZEh9d6ZRnHB244547pmgkYxn_spAWzWrwbTAWw_htWPFn0MF0JoXrHFVE3dDd1UT5rrTmtXt1ZJLnXb1q4bG8cumd4ezkMYwcAfpDMGYKtZEPd8U_eb_KXY7L77MPs5xGRps4xppjZRcUpcXLWkBxcoVr95zEWcisXPS5F3AFck-ijNmTcXhkILukmpUpRa3Fv1ED_39qFEI_Wt4vkYMtrxKUsiHFJ8kQ_lGDeWDMbtKSp9k4_viBDz5cR7hYzoKW9H8Hj2EOywgjMMP46-78VzBxPglVdAhPRpkmmyaetOMVJ3kfiC-Ur8AyDDh_4" style="color: #eb4102; text-decoration: none;">4,700 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxdUl2v2yAM_TXhLVWAfPUhD-2qq-1lD5O2qz1FBJwGNYEKnEX99zNptztNQvhwjG2OsVYIVx8e3d1HZGuE0FvT1bLgRXNkpjPHeoRaMhv7MQAsys4dhhXYfR1mqxVa71IEb4uSTWRE01YUKmpRKS2kGLnSgxkboQpoJEtlerUaC05DB78gPLwDNncT4j1m8pSJN1rbth3cY_D-Fg_aL8SogFbPEAmKQhRkCpFwQ9tNBZVvar5ByLdJYW58vgExDvPJRiR9OfrE0r6mFJl8W3HpFzB2XTJ52YVlok6kVstd2asj-uvPb5moqF79x-cdgsP_XOcfECI1ghC9__zpy6XXQ8NNBUqWuhRlNZZiUHVVHls18LEazStf9GvQkNLBFmdAhPDyEEoPeyc5e52L3807PA1J28Hnp7wdo__35uv0PTLbpY7Rajn9q5QHfmj5qZFnfjk1Z8lr0WZlEdchotI3ccAJhuA3moXUexY69MuNly1J-3BRxDU1bb9Cw0CtWZbVWXz04NQwg-kYPqdq_3N83KFzf1U-SRocUTfVUTKqbjzlc91Hid9UK9iG" style="color: #0a0a0a; text-decoration: none;">What Do We Want From History?</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Zadie Smith | New York Review Of Books | 7th February 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">In praise of Kara Walker, at once the Hogarth and the Goya of our age. &#8220;Walker operates on the premise that when you make history truly visible, both your own and that of your people or nation, there exists a challenge to show all of it, the unholy mix, the conscious knowledge and the subconscious reaction, the traumatic history and the trauma it has created, the unprocessed and the unprocessable. If you manage this it will be, by definition,&nbsp;<em>de trop.</em>&nbsp;But then again, too much for whom?&#8221; (<a href="http://email.substack2.thebrowser.com/c/eJxdUl2v2yAM_TXhLVWAfPUhD-2qq-1lD5O2qz1FBJwGNYEKnEX99zNptztNQvhwjG2OsVYIVx8e3d1HZGuE0FvT1bLgRXNkpjPHeoRaMhv7MQAsys4dhhXYfR1mqxVa71IEb4uSTWRE01YUKmpRKS2kGLnSgxkboQpoJEtlerUaC05DB78gPLwDNncT4j1m8pSJN1rbth3cY_D-Fg_aL8SogFbPEAmKQhRkCpFwQ9tNBZVvar5ByLdJYW58vgExDvPJRiR9OfrE0r6mFJl8W3HpFzB2XTJ52YVlok6kVstd2asj-uvPb5moqF79x-cdgsP_XOcfECI1ghC9__zpy6XXQ8NNBUqWuhRlNZZiUHVVHls18LEazStf9GvQkNLBFmdAhPDyEEoPeyc5e52L3807PA1J28Hnp7wdo__35uv0PTLbpY7Rajn9q5QHfmj5qZFnfjk1Z8lr0WZlEdchotI3ccAJhuA3moXUexY69MuNly1J-3BRxDU1bb9Cw0CtWZbVWXz04NQwg-kYPqdq_3N83KFzf1U-SRocUTfVUTKqbjzlc91Hid9UK9iG" style="color: #eb4102; text-decoration: none;">5,900 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><strong>Video Of The Week: </strong><a href="http://email.substack2.thebrowser.com/c/eJxFULuOgzAQ_BpcIj-IMYULUHTdFXfFFdcgg5fECtjIXl_E35-TFJFWmtW-ZmZng3AJ8dB7SEhygjg6q6WgjLYdsdp2cgEpiEvjEgE241aNMQPZ87S62aAL_rHBFG3IVSt2mroGukUqwwtSI-3ClAUzS36iijxoRpOtAz-Dhj-IR_BAVn1F3FMl-op_lDhCxlxPUNL5a2i--9-fz6UhTnPKaQnFikIhalYr1rdiYOe-HQSTXFUNTXlKaOYbr_EKUwz34qqew0aixrDdWKMqPrxbZePy8PUcKbbGglv2Do8RvJlWsJrg6z9P9XjsoD3c0wqIEF_F8gIu21MnSGG3odzz-k3xDzQXeDw" style="color: #eb4102; text-decoration: none;">Turtle Journey | Aardman</a>. Touching short film by Aardman Animations, for Greenpeace, highlighting the dangers that are bringing sea turtles to the brink of extinction (<a href="http://email.substack2.thebrowser.com/c/eJxFULuOgzAQ_BpcIj-IMYULUHTdFXfFFdcgg5fECtjIXl_E35-TFJFWmtW-ZmZng3AJ8dB7SEhygjg6q6WgjLYdsdp2cgEpiEvjEgE241aNMQPZ87S62aAL_rHBFG3IVSt2mroGukUqwwtSI-3ClAUzS36iijxoRpOtAz-Dhj-IR_BAVn1F3FMl-op_lDhCxlxPUNL5a2i--9-fz6UhTnPKaQnFikIhalYr1rdiYOe-HQSTXFUNTXlKaOYbr_EKUwz34qqew0aixrDdWKMqPrxbZePy8PUcKbbGglv2Do8RvJlWsJrg6z9P9XjsoD3c0wqIEF_F8gIu21MnSGG3odzz-k3xDzQXeDw" style="color: #eb4102; text-decoration: none;">1m 49s</a>)</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><strong>Poem Of The Week:</strong> <a href="http://email.substack2.thebrowser.com/c/eJxFkN2KgzAQhZ_G3K3kR2O8yEVL2deQaMY2VBNJxhXffqftReHAgfn7mDM5hHvKp91SQbYXyEPwVisueNczb32vZ9CKhTLMGWB1YbGYd2DbPi5hchhSfG0Iwxv2sG1rnJe6Hx0HY9rO8NlzpSfdjr5RMLMXZnC7DxAnsPAH-UwR2GIfiFup1KWSv6TjOOotAeZzTnv0b0yd8p1aVF4LeauUlOTr5FN0iy8_gbQSoIRxARas5JKTjKBvlKpFbcSlU1dxu3RXJbQ0VcPLPhZ001PW-IAxp4MSqKe0smwxrU_RmEpevy3auL8yeI9QBAP5useA5wDREdZbhp8s35_iuYGNcJQFECF_ihSX1F3bK0Z0n-hetF_EP87MiQw" style="color: #eb4102; text-decoration: none;">McDonalds Is Impossible</a>, by Chelsea Martin, at <a href="http://email.substack2.thebrowser.com/c/eJxFkN2KgzAQhZ_G3K3kR2O8yEVL2deQaMY2VBNJxhXffqftReHAgfn7mDM5hHvKp91SQbYXyEPwVisueNczb32vZ9CKhTLMGWB1YbGYd2DbPi5hchhSfG0Iwxv2sG1rnJe6Hx0HY9rO8NlzpSfdjr5RMLMXZnC7DxAnsPAH-UwR2GIfiFup1KWSv6TjOOotAeZzTnv0b0yd8p1aVF4LeauUlOTr5FN0iy8_gbQSoIRxARas5JKTjKBvlKpFbcSlU1dxu3RXJbQ0VcPLPhZ001PW-IAxp4MSqKe0smwxrU_RmEpevy3auL8yeI9QBAP5useA5wDREdZbhp8s35_iuYGNcJQFECF_ihSX1F3bK0Z0n-hetF_EP87MiQw" style="color: #eb4102; text-decoration: none;">Poetry Foundation</a>:</p><blockquote style="border-left: 4px solid #f90; margin: 1em 0;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-left: 1em;">Eating food from McDonald's is mathematically impossible.<br>Because before you can eat it, you have to order it.<br>And before you can order it, you have to decide what you want.<br>And before you can decide what you want, you have to read the menu.<br>And before you can read the menu, you have to be in front of the menu.<br>And before you can be in front of the menu, you have to wait in line.</p></blockquote><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><strong>Editor&#8217;s note:</strong> Cecily, our giraffe, was getting a touch restless, sitting there at the top of the page all day; so she has decided to try her hand as a creative director. Her first offering is the irresistible Cecily T-shirt that you can find <a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_BpyRHnQEA45lK32vH-AQuLSqJCgxCxiv35De6hk2ZYfMx5bgzDFdOg1ZiRbhjR4p6WgjLYdcdp18g5SEJ-HewJYjJ81pg3Iuo2ztwZ9DOcGU7QhD80bDrbl1PCOMS47I4UsSKK1Ql644uSkGczmPAQLGn4hHTEAmfUDcc2VuFb8u9i-77VZzF8MtY1LKUxrcWuKbrNYsp6q5qtr2tsP8ZpTTospVq4Woma1YtdW9Ox2bXvBJFdVQ_M2ZjT2yWt8wJjiXpSe0CRpjMuTNari_adVNqZT62ukSB1KXLbg8RggmHEGpwm-f_ZShMcKOsCeZ0CE9C6Wt3DZXjpBCruLBS_oD8U_FnR9NQ" style="color: #eb4102; text-decoration: none;">on Amazon&#8217;s US website</a> and <a href="http://email.substack2.thebrowser.com/c/eJxFkMlugzAQhp8G30BewMDBh5Aq7aG35o68DMEK2MiYIvr0dZJDpNGMNNs382sZ4ebDIRa_RrStEHprBGeY4LpFRpiWD8AZsms_BIBZ2knEsAFaNjVZLaP17jFBGlyiUWhGKWFUD4ZXHAzjGFo8KFmpUimgFXpgerkZC06DgF8Ih3eAJjHGuKwZO2X0kmzf90LO8s-7Qvtiu6fUdYS8C35PJ-Zn0HY68k8b5DBAfs1_RhtiajJLch1uygutrl_fyAqKKU7WkPQSYwUpGnKqWUc-TnXHCKdNVuJ1U2uU-k6LOIJ6MRJ3RkFEP99J2WS0e5fSxO0hxLMl6dCnOG_OxqMHJ9UERqD4EvT5bjwWEA72dYIYIbySSTPK66plKNGNT_uceCP-ASciiOg" style="color: #eb4102; text-decoration: none;">also on Amazon&#8217;s UK website</a>. What should be next on Cecily&#8217;s to-do list. Tote bags? Pencils? Posters? Please send ideas and requests to Uri [uri@thebrowser.com]</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"></p><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 1.6em auto; margin-bottom: 0; mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="550" style="text-align: center;"><a class="image-link" target="_blank" href="http://email.substack2.thebrowser.com/c/eJxFUd3OnCAQfRq50wCDihdc7Lbpaxh-xl2yCn6C3W6fvqhpvoQwJ8PMmcMcqzM-4vZRa0yZ7Am30TvVAWW0H4hTbugm7ID4NE4b4qL9rPK2I1l3M3urs4_h6GCSCvJUw9QjGDahm7qWGes60BYEpdRy6npGjjGj3p3HYFHhb9w-MSCZ1TPnNVVwq_ivcqwLTdpNytq-GhuXkvKLfmCJE2b7PErG2S8-V_zHVAhzLODrAnB7xOhKycXJ24O1PXjLZXb7woy41UhbY6wUtdEaagE91kPLZK2dAW6w7wcpmgSNXvTfGPQ7XUIKx_X3E56q0gmtAOm45IWldbWgg6mNFKyehGUAk0UuzSg5_TO0XbOGB_GKU07LkazsG6BhjWS3Hu7s562_A-u4rAT9vwbe5CeaLb6LR4cSsqkclxcTsuL376fS8ThcOkuK0LHEZQ8-f0YM2szoFMmX26cX-bOiCvhOM-aM25UshvKubwcgZbqLhS-o7xH_AMS1tzs" style="border: none; display: block; height: auto; margin: 0; padding: 0; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c438d282-955d-409b-b841-f4c133fce28b_820x956.png&quot;,&quot;height&quot;:956,&quot;width&quot;:820,&quot;bytes&quot;:413567,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" width="550" class="wide-image" src="https://cdn.substack.com/image/fetch/w_1640,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc438d282-955d-409b-b841-f4c133fce28b_820x956.png" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; width: 100%;"></a></td><td style="text-align: center;"></td></tr></tbody></table></div></div><table cellpadding="0" cellspacing="0" class="post-meta big  custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 16px; font-weight: 400; height: 30px; line-height: 30px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 16px; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVkk2TojAQhn8N3LRIAgiHHPzaWizRcldH52SF0GoEEjaEYfDXTxhnamqr-vSku9833c2ZgavSPa1VY9y2AX0WOQ2Jh7xJ7OY0j8MLhMQVzfmiASomSmp0C27dZqXgzAglhwoUeb57ozjLM4gzzCY-cC-IGOIoCBAnUQgE_MwdZM6szQVIDhTeQPdKglvSmzF145Cpg3_ZMDfItOqsnTFXlQX1AFU9UpeRfRt1AMUo8pFDLC1AOmQB_Qpx_NKfcFkkd4XTx_Q9XfBgPV91Gdl4X7zf3Dna7tMmqcpbPk_CdH_w0_0Sb-5XfzvvBDttHjZP8N8vYr1f-uliJ2yPR35MxFY8e61Pq_L1uPHYMW4T6Y2DpMKgPXHotu-XeP0n5LvwdXmoDqPR7u_b8R_Zy6RtRTHVVweHranOjWo1B2u7abPGMF588Qpy0VbDd4ZRf0GupAFphuwb02Ap48Pgv4ErKPawZyNCdnOEjNE4QtMJmaHFdDIjKMSR43vfUnj8_3hdTY2qCuRHDp79PNmK62DiM8Wu29qoqlYK059BsqyEnLrmeTefWzV9DVRC15RgDOgntKeBw0kQE9eq58r2k_RH4gNEhNfb" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_60,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D30%26stroke%3D%2523999999" width="16.5" height="30" style="border: none !important; float: left; height: 30px; max-width: 16.5px; width: auto;" alt=""></a></span></td></tr></table><div class="container-border" style="border-top: 1px solid #f6eddf; box-sizing: border-box; font-size: 16px; line-height: 26px; margin: 32px 0 0; width: 100%;"></div><div class="post-cta" style="font-size: 16px; line-height: 26px; margin: 24px 0 40px;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; margin-top: 0;"><span>You&#8217;re on the free list for <a href="http://email.substack2.thebrowser.com/c/eJxVUMmOgzAM_RpyRFkohEMOoGp-A2UxJSokKDFT8fcT2kM1kiVLz_ZbbDXCI6ZT7TEjOTKkyTvVCspo1xOnXN_O0Ari8zQngE37VWE6gOyHWb3V6GO4LpikDVmU5NzcLGVsnqXgs9CtYb0WzFkOpgNBLplJH85DsKDgF9IZA5BVLYh7rsRQ8Z9SuIBJ8VXs1DZuBSBeccppKcmKOSFqVks2dGJk96EbBWu5rBqaD5NR2yev_zOQpDBuT9bIio_fUbl4XJHeKyXRVPp2BI_nBEGbFZwi-HnN2zieO6gAr7wCIqQPWNLztrv1ghR1FwtfUF-JP4vDd3A" style="color: #eb4102; text-decoration: none;">The Browser</a>. For the full experience, <a href="http://email.substack2.thebrowser.com/c/eJxVUl1vozAQ_DXwdhHYrkMe_JDPO9JCpFPStH2JwN6AA9gR2KHk19e0PVUn7dPYM7M7uzwzUOh2YFfdGd920J6kYBQHYTCd-YKJGT0Dxb7sTucWoMlkzUxrwb_avJY8M1KrkRFGAfFLRknOz-fplGSCIMoFjqKARjQQKCOCnIU_2pwyKyQoDgxu0A5agV-z0phr5-G5hzauTAl5q3vXzoTrxgGdzTveyhw8vDG6AuXhFQzbkKPn4QXVVXzRKLnP35MVf3hablX2e3YX65nN_1Ryp_4O4njo4qYuxTKmyf5Akv0apZeC7Ja9fHspe8d_T_fFPb0fyG5VEKdx5TiRO7ntxTE2yb7o02XcxSoNX2VM4ybVb8e0zfFzEKtgYvW6TJ4egaMIkl992gx5dVnEt9cbigO1tHP0ckzs42Vz0B6i1jSnTtuWu3FW42gm49U33oCQthnHG8P-BrlWBpRx6BggN5kvGQpQ4CoK3bIwnoSTKJxP8SJczacLHFIUeST4p40m_yfqt8zopgpJ5KHFz5NjFKPr5xe3YefbNFZJM5xAZXkNgvnm61Q-F2mGKzAFfVeDMdB-ge4aEJ0-zLDv3IV2eor9WHwAuc_VvA" style="color: #eb4102; text-decoration: none;">become a paying subscriber.</a></span></p><p class="cta-box" style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUl1vozAQ_DXwdhHYrkMe_JDPO9JCpFPStH2JwN6AA9gR2KHk19e0PVUn7dPYM7M7uzwzUOh2YFfdGd920J6kYBQHYTCd-YKJGT0Dxb7sTucWoMlkzUxrwb_avJY8M1KrkRFGAfFLRknOz-fplGSCIMoFjqKARjQQKCOCnIU_2pwyKyQoDgxu0A5agV-z0phr5-G5hzauTAl5q3vXzoTrxgGdzTveyhw8vDG6AuXhFQzbkKPn4QXVVXzRKLnP35MVf3hablX2e3YX65nN_1Ryp_4O4njo4qYuxTKmyf5Akv0apZeC7Ja9fHspe8d_T_fFPb0fyG5VEKdx5TiRO7ntxTE2yb7o02XcxSoNX2VM4ybVb8e0zfFzEKtgYvW6TJ4egaMIkl992gx5dVnEt9cbigO1tHP0ckzs42Vz0B6i1jSnTtuWu3FW42gm49U33oCQthnHG8P-BrlWBpRx6BggN5kvGQpQ4CoK3bIwnoSTKJxP8SJczacLHFIUeST4p40m_yfqt8zopgpJ5KHFz5NjFKPr5xe3YefbNFZJM5xAZXkNgvnm61Q-F2mGKzAFfVeDMdB-ge4aEJ0-zLDv3IV2eor9WHwAuc_VvA" class="button primary" style="-moz-box-sizing: content-box; -webkit-box-sizing: content-box; background-color: #f90; border: 0 solid #f90; border-radius: 4px; border-width: 13px 20px 13px 18px; box-sizing: content-box; color: #fff; cursor: pointer; display: inline-block; font-family: Lato,sans-serif; font-size: 17px; font-style: normal; font-weight: 300; height: 24px; line-height: 24px; margin: 0; opacity: 1; outline: 0; padding: 0; text-decoration: none !important; vertical-align: middle;">Subscribe</a></p></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Robert Cottrell, Editor<br>Caroline Crampton, Audio Editor<br>Uri Bram, CEO [<a href="mailto:uri@thebrowser.com" style="color: #eb4102; text-decoration: none;">uri@thebrowser.com</a>]</p><div class="footer" style="background: #f8f8f8 !important; color: #bcbcbc; font-size: 16px; line-height: 26px; padding: 32px; text-align: center;"><p class="small" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 30px;">&#169; 2020 <span>The Browser</span> <a href="http://email.substack2.thebrowser.com/c/eJxVUU1v4jAQ_TXxbZE_yNfBh9CUKqgsy2Gh9BI5zgAmJk5jBwi_fg09VCuN7NGMn9_Me1I4OJh-5J2xDg0W-lLVPGKY4DhFNa_TaA8RQ8qW-x7gLJTmrh8AdUOllRROmfaBIAmeoiOP4zD2iDDCYZRWoT9ESqdE1EKGKYlD9KApxVAraCVwuEA_mhaQ5kfnOhuwLKBzH-4IVW-ufpyJNGdfEPLB5JNaWVFpKJ-jBGzemVoK6wKWBzRypoHWpzAuiKSb8YPqpjgZurxnt2Uuw_eXRbf7WKvV6ZWs8tfb79NuusoPtjjruxyLqGhnZKfwbZVnuFBXJdlGebz6fNP33XZhPzeprrbzrnpZpJPmstKhttkyNSd2ggse91r_ks1W4FlebP7E-uu9Xiddtv6LFKeYYh8J8dIyNiGThGQxm5E8i2eMRDQJptgOlXVCNnTy__6o586cGzJNAjr7aXnE4aHC84n3o_T3eWiVG0toHyLVHLlvY5-yu7ED3sLVanAO-u-i945GcZgy5Nlr4_9r-Q_FP6tWtv8" style="color: #bcbcbc; text-decoration: none;"><span style="color: #bcbcbc; text-decoration: underline;">Unsubscribe</span></a><br>Suite 25, 19-21 Crawford Street, London W1H 1PJ</p><p class="small powered-by-substack" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_BpyRHlAgEMOrar-BgqJaaNCghJnK_5-A7tVJV889njGYzTCI8RdbSEhyQni6KySgjLaDcQqO8gZpCAujXMEWLVbFMYMZMvT4oxGF_zBYD1tyFN1ls9MyLnRbUtNoyUMRg-0AWvadoKJHDKjztaBN6DgB-IePJBFPRG3VIlLxe-lUp4SavOqTVhLq6eQsRL3jOuYQo4GKnH77FRcHvgK1uW14KfJf9AEj-AL9TaHgBCJU5xyWqpn5Uchalb37NKJK7tduqtgkvdVQz-neY1PmGJ4l1wOKyQqDOuLNX3Fr99RYTwO0XOlBFNk1zV7h_sIXk8LWEXwL-Hzf9w3UB7eaQE8TJ1gCZHLrh0EKeo2lHtefSV-ARfukcI" style="color: #bcbcbc; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_340,c_limit,f_auto,q_auto:good/https%3A%2F%2Fsubstack.com%2Fimg%2Fpublish-on-substack.png" width="170" style="border: none !important; margin-top: 3px; max-width: 550px;"></a></p></div></div></td><td></td></tr></table><img width="1px" height="1px" alt="" src="http://email.substack2.thebrowser.com/o/eJxFj8muwyAMRb-mLCOmAFmwaNT_iBjcFjWBiOFV-ftH2kUlS5ZsX597nanwSPnQeyoVtQJ5CV4LhgmWE_LaT-IOgqFQlnsG2ExYdc0N0N7sGpypIcVTQRTm6KmJdIDV3XjhJz5yg7GhI2Oj9VZxLhk6MYtpPkB0oOEP8pEioKAppriXIh3N2EAGRa6SzeR2lTMjgqoLx6XZUo170aE-web07nYHlzaUdU3bi3B1ofNv1RWP0_DnpPtdet9aDPVYIBq7gteofoN_bNVjBx3hXVaoFfJ32LNRIceJoU73qf-L-of4B3Sja_Q"></body></html>]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <title>Yalta, Smoke, Queues, Homer, Air</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=17012704f8234246</guid>
+            <description>Yalta, Smoke, Queues, Homer, Air</description>
+            <pubDate>Tue, 04 Feb 2020 17:01:22 CST</pubDate>
+            <content:encoded>
+                <![CDATA[<html><head><title>Yalta, Smoke, Queues, Homer, Air</title><style>
+@media screen and (max-width:480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  .share-button-container {
+    height: 38px;
+  }
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  .post .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post .markup a.spotify-wrap,.post .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post-silhouette {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+  .post-preview>.post-preview-image {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width:370px) {
+  table.post-meta tr td.post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  body .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-preview-silhouette .post-preview-silhouette-image {
+    display: none;
+  }
+  body .markup a.spotify-wrap,body .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 6px;
+  }
+}
+
+
+@media screen and (max-width:420px) {
+  body .subscription-receipt table .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width:480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  table.thread-head .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .footer {
+    outline: #f8f8f8 solid 8px !important;
+  }
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+  table.thread-head .markup a.spotify-wrap,table.thread-head .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+    min-width: 112px;
+  }
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+</style></head><body style="color: #505050; font-family: helvetica; font-kerning: auto;"><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">Day One At Yalta Diana Preston | Literary Hub | 4th February 2020 Diary of the Yalta Conference, 75 years ago this week, at which Stalin, Roosevelt and Churchill met to decide the political future of Europe after the final defeat of Nazi Germany, then just weeks away. &#8220;Stalin waters his vodka and tries out English expressions that he has learned watching American films. Churchill says the great powers must respect the right of smaller nations. Stalin insists only those who have borne the brunt of the fighting can have a say in determining the peace&#8221; (</div><table width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table width="100%" border="0" cellSpacing="0" cellPadding="0" class="header graphic-header" style="padding: 15px 0;"><tr><td style="text-align: center;"></td><td align="center" style="text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUV2PqjAU_DX0TVLK90MfRJcVIxgTr7pPpJSjVIGyUNbFX3_repPNTU7TkzmdmeYMZwousp9oJweFxgH6XJTUs7GF_RCVtAy9M3g2EkN-7gEaJmqq-hFQNxa14EwJ2T4ZVoAdVFGbkeDsawbjBfZcUgSu5YBvF-fSLZjloadNzsZSQMuBwhf0k2wB1bRSqhsMe26QWJeqoOjlXX_H5LLRQKfPxGrFZkMjbzD7HGGEYVbJBvoZE71hx0rjrWEvYVpbnBymE6lvyVWS9DH_Tpfc3SzW98LO8D98yq4JSfe7IWnqqlwkXrr_46TLi5U9Enu7uAt20t1VCr46iM3-Tc92Qms8ymMituKltTmt649jhtkxHJMWm2TF42PpnFZZE3wmj9zdv_vzZTETX9E2r3i1rXJ-yN53onWQoAQTrMshet2EmJYZO2EYRj5x43mE3ejNcPAwFoNi_EbM_3eCeqpkc7OcwCDR70gzLs-Qfp7ojHJ9N2Mr1JRDy4oaSorUK-yfKNTUAW3hPtSgFPQvUOdJPOJZDtLupdR6Lf21-Au9LL4b"><img width="550" src="https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2c61b63-fd58-48ce-a4c9-c60e4876990e_800x160" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; width: 100%;"></a></td><td style="text-align: center;"></td></tr></table><div class="post-header " style="font-size: 16px; line-height: 26px;"><table cellpadding="0" cellspacing="0" class="post-meta   custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item post-date" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; padding: 7px 12px 7px 0; position: relative; text-decoration: none; text-transform: none; vertical-align: middle;">Feb 4</td><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 0; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVUtuOqjAU_Rp405RyER764GUcMV5i4lHPEyllI1XaOqWMB79-yuhkcpI2ada-rNW9NqMGzkp35KYa47YN6IwXJPKRh0aJW5AiiUqIfJc3WakBBOU1MboF99bmNWfUcCX7Ci9GgVsRHyVQxmWAvSCEMMxREue4YAAxzUsalW5Pk9G24CAZEPgE3SkJbk0qY26N448dPLfHVJBrdbdyhkwJC9zs7Wht6KAR6gqDjxZaaAaVEqAHlGvHnxuLS8efQbf0GD50J1xf04vC68f433rGwtV0ec_9DXrh3eaS4vV-16SiroppGq33f4L17OxtHqm_nd45PdnXRXG2OPDV_s3Gdtz2eBTHlG_5s9fqtKz_HjeIHpM2lWiIF2x-LILTYiPij_SRhfv30XiWD_jnZJtVrNpWGTts3ndcBg6OWiOyRrWagZXdtHljKLu-cAEFb0X_nX7mL5ApaUCaPruiGixKWe_AD-ByghFG9gTYWojx0BvOgyRJJiMczscTFE7enAD9UOHh_3N2NTFKXL0gdvDkN2Qrzr2I7xTru5UhRCu56TKQNK-hIK55LtC3vaa7AZFwb2owBvQTtDuCIxx5gWvZC2X7SfJL8QV0rdw0" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_40,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D20%26stroke%3D%2523999999" width="11" height="20" style="border: none !important; float: left; height: 20px; max-width: 11px; width: auto;" alt=""></a></span></td></tr></table></div><div class="post" style="font-size: 16px; line-height: 26px; padding: 9px 0;"><div class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 12px; word-break: break-word;"><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em; margin-top: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFkN2OgyAQhZ9G7jBI_akXXNRk-xoGYaxsEQyM2_j2O7YXTSYhw5k5Bz6jER4xHWqLGdmeIY3OqvYiKtH1zCrbtzO0F-byOCeAVTuvMO3Atn3yzmh0MZwb1VXUbKFxY2tbNY2WTdOKfuqgl1VnzDzP1dQJdsaMercOggEFf5COGIB5tSBuubjcCnmn8g6XfSpNXKmx-uA0xDXyQ3vUHBfgJoYZ0ulCLSl50RvYt_SKyVtugT_07v2pu_DMfIHMf6MOPM5cJ0PGzCkppKCqJf1YyrIq73Xf90Mnm_ttEM3wU9Qi71NGbZ6yJPcpxRdROp_GksK4Pqv6WsjhK9HG4-T0HiFMI53rHhweIwQ9ebCK4Yf3mwYeG6gAr-wBEdLnkpDKVrZVzSjdRvIL6hvxDwUelnU" style="color: #0a0a0a; text-decoration: none;">Day One At Yalta</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Diana Preston | Literary Hub | 4th February 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Diary of the Yalta Conference, 75 years ago this week, at which Stalin, Roosevelt and Churchill met to decide the political future of Europe after the final defeat of Nazi Germany, then just weeks away. &#8220;Stalin waters his vodka and tries out English expressions that he has learned watching American films. Churchill says the great powers must respect the right of smaller nations. Stalin insists only those who have borne the brunt of the fighting can have a say in determining the peace&#8221; (<a href="http://email.substack2.thebrowser.com/c/eJxFkN2OgyAQhZ9G7jBI_akXXNRk-xoGYaxsEQyM2_j2O7YXTSYhw5k5Bz6jER4xHWqLGdmeIY3OqvYiKtH1zCrbtzO0F-byOCeAVTuvMO3Atn3yzmh0MZwb1VXUbKFxY2tbNY2WTdOKfuqgl1VnzDzP1dQJdsaMercOggEFf5COGIB5tSBuubjcCnmn8g6XfSpNXKmx-uA0xDXyQ3vUHBfgJoYZ0ulCLSl50RvYt_SKyVtugT_07v2pu_DMfIHMf6MOPM5cJ0PGzCkppKCqJf1YyrIq73Xf90Mnm_ttEM3wU9Qi71NGbZ6yJPcpxRdROp_GksK4Pqv6WsjhK9HG4-T0HiFMI53rHhweIwQ9ebCK4Yf3mwYeG6gAr-wBEdLnkpDKVrZVzSjdRvIL6hvxDwUelnU" style="color: #eb4102; text-decoration: none;">2,070 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFUM3OgyAQfBq51QD-VA8cavL1NQzi0pIiGFxqfPtvbQ9NNmEz7MzsrNEIj5gOtcYNWd4gjW5WbcUFv_ZsVnPfWmgr5rbRJoBFO68wZWBrnrwzGl0MJ0N0vGZPZQV0hle2u5JAY6ywve0a3daWQJCCnTajzrODYEDBG9IRAzCvnohrUd0Keafa971cnH9BSPB2sJcxPQjWCZ3xsFGbwwzpgk-4uGB9PtWYU5JLTlVL2l_KUpT3uu_74Sqb-23gzfBX1HzL04bavGRJ7CnFnTKXJi4sKYzLS9RdIYffFzEeZ-rPCIUe6V1ycHiMEPTkYVYMv9f7ZMNjBRVg3zwgQvqCdCDZylbUjNznSHpB_Sz-AdsZhM8" style="color: #0a0a0a; text-decoration: none;">Under The Influence</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Robert Frank | Milken Review | 23rd January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Classic liberalism holds that government should intervene to stop people from harming others, but not from harming themselves. On that basis, it is reasonable to ban smoking in public places, where others share the air; but not to ban smoking outright. This logic, however, neglects a stronger argument for intervention: The contagious effect that bad behaviour has on others. We can harm others merely by setting them a bad example. If our peers smoke, we are more likely to do the same (<a href="http://email.substack2.thebrowser.com/c/eJxFUM3OgyAQfBq51QD-VA8cavL1NQzi0pIiGFxqfPtvbQ9NNmEz7MzsrNEIj5gOtcYNWd4gjW5WbcUFv_ZsVnPfWmgr5rbRJoBFO68wZWBrnrwzGl0MJ0N0vGZPZQV0hle2u5JAY6ywve0a3daWQJCCnTajzrODYEDBG9IRAzCvnohrUd0Keafa971cnH9BSPB2sJcxPQjWCZ3xsFGbwwzpgk-4uGB9PtWYU5JLTlVL2l_KUpT3uu_74Sqb-23gzfBX1HzL04bavGRJ7CnFnTKXJi4sKYzLS9RdIYffFzEeZ-rPCIUe6V1ycHiMEPTkYVYMv9f7ZMNjBRVg3zwgQvqCdCDZylbUjNznSHpB_Sz-AdsZhM8" style="color: #eb4102; text-decoration: none;">4,690 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFUcuugyAQ_ZqywyhSWxcsanL7GwZxFO5FMDC28e_vaBdNJpkwj3POHIxGmGPa1Rozsi1D6t2omrqsylvLRjW2zQRNzVzupwSwaOcVpg3Yug3eGY0uhmOjupeSWdUO5gpjLavayKup6-Zel0IP011WUyWMZAdNr7fRQTCg4AVpjwGYVxZxzZf6cRFPCgvaoy1-I77B-8LEhYou8DVpl4HHiVuds4fM33bn6ZThwszRprjNlrtgYnhBOGn4onc-UIoJOKAl2Z4mdeARLSS-gKGHy0vmU0xcex-PwwjO6AREzJwSpSgppCBnhCiq4inbtu1u4vp8dOW1-7nIMm9DRm3-REGwQ4pvcvOQzpLCuPxV8n4R3bdFG_Ph5zlCdvaUly043HsIevAwKoaffzldw30FFeBNZyNC-hTJetGIppKM2MdIeEF9Kf4Bk8imag" style="color: #0a0a0a; text-decoration: none;">Rationing Through Inconvenience</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Carl Coleman | Jotwell | 10th January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">The potential demand for free and subsidised healthcare is almost unlimited; yet charging market prices to everybody, rich and poor, strikes most of us as heartless. The argument here is that the <em>de facto</em> rationing of free and subsidised healthcare, by making such healthcare highly inconvenient to obtain, is fair and humane. Queues, delays and intrusive formalities will deter frivolous consumers, and will encourage the better-off to buy healthcare more conveniently at market prices (<a href="http://email.substack2.thebrowser.com/c/eJxFUcuugyAQ_ZqywyhSWxcsanL7GwZxFO5FMDC28e_vaBdNJpkwj3POHIxGmGPa1Rozsi1D6t2omrqsylvLRjW2zQRNzVzupwSwaOcVpg3Yug3eGY0uhmOjupeSWdUO5gpjLavayKup6-Zel0IP011WUyWMZAdNr7fRQTCg4AVpjwGYVxZxzZf6cRFPCgvaoy1-I77B-8LEhYou8DVpl4HHiVuds4fM33bn6ZThwszRprjNlrtgYnhBOGn4onc-UIoJOKAl2Z4mdeARLSS-gKGHy0vmU0xcex-PwwjO6AREzJwSpSgppCBnhCiq4inbtu1u4vp8dOW1-7nIMm9DRm3-REGwQ4pvcvOQzpLCuPxV8n4R3bdFG_Ph5zlCdvaUly043HsIevAwKoaffzldw30FFeBNZyNC-hTJetGIppKM2MdIeEF9Kf4Bk8imag" style="color: #eb4102; text-decoration: none;">1,330 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;">The <a href="http://email.substack2.thebrowser.com/c/eJxFkMmOgzAMhp-G3EAh7IccijR9DZTFlGggQYlph7cf0x4qWbbk7bc_oxAeIZ5yDwnZkSBOzsq24iXvBmalHdoZ2oq5NM0RYFNulRgPYPuhV2cUuuCvibLnNVukUE3b1Ub0tuvnRteD1oK3duiMqrRuNbtkJnVYB96AhCfEM3hgq1wQ95RVt0zcyWblUSUkAa_MEoN3aStM2KgkuOAUeEmu7Mgt6un8I1-UzX3I9wgWDKQUYo4hd5tDepHanLfwVyy4rczJawlZLehRIYqyuNfDMIydaO63kTfjT1bzdOiEyvyKAhfQMbwIznUDixLD9lvWfSbGb4kmHheedwvRmShuh3d4TuCVXsFKhh_Mbwh47iA9vNIKiBA_SSIpWtGWNSN1G2ifl1-Jf_OmkYQ" style="color: #0a0a0a; text-decoration: none;">Homeric Question  </a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Alvaro de Menard | Fantastical Anachronism | 17th January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Who was Homer? The weight of opinion has swung to and fro over the centuries between those who believed that the Iliad and the Odyssey were composed but a single author, and those who believed that the epics aggregated works by several authors. Current orthodoxy holds that &#8220;Homer&#8221; was a single author, but one who could assembled his poems using a &#8220;vast repertoire&#8221; of phrases and formulae, all of them part of a wider oral tradition, which he could fit together &#8220;like lego blocks*  (<a href="http://email.substack2.thebrowser.com/c/eJxFkMmOgzAMhp-G3EAh7IccijR9DZTFlGggQYlph7cf0x4qWbbk7bc_oxAeIZ5yDwnZkSBOzsq24iXvBmalHdoZ2oq5NM0RYFNulRgPYPuhV2cUuuCvibLnNVukUE3b1Ub0tuvnRteD1oK3duiMqrRuNbtkJnVYB96AhCfEM3hgq1wQ95RVt0zcyWblUSUkAa_MEoN3aStM2KgkuOAUeEmu7Mgt6un8I1-UzX3I9wgWDKQUYo4hd5tDepHanLfwVyy4rczJawlZLehRIYqyuNfDMIydaO63kTfjT1bzdOiEyvyKAhfQMbwIznUDixLD9lvWfSbGb4kmHheedwvRmShuh3d4TuCVXsFKhh_Mbwh47iA9vNIKiBA_SSIpWtGWNSN1G2ifl1-Jf_OmkYQ" style="color: #eb4102; text-decoration: none;">4,570 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_BpyCwrh0XLIoUjLb6AkmBIVEpSYZfn7Ne2hkpVYnhmPPFYjPEM81RYSsj1BHNyomlIU4tayUY1tM0FTMpeGKQKs2i0K4w5s283irEYX_KUo7qJiswJpirI2AmxtoDD1fdLGjG09CdtWtpbsshn0PjrwFhT8QjyDB7aoGXFLWfnIZE91HEeeLJHQTeSyQqTX5zasBOqIzi5AnQ-c1JwgDn_bop3nx3xy6jwknlCfnEY4A9cuEp85JYUUVJWkE6XMi7yv2rbtbrLuH52ou5-sEmk3pLUvmZPUxHBQLJc3iwrD-iqqeya7L0SK5xXMm0K5DPSvu3d4DuC1WWBUDD8Bv8_HcwPl4UgLIEL8DClD2cimqBi5j4H2efW1-AcDxpG5" style="color: #0a0a0a; text-decoration: none;">Why Do Planes Stay In The Air</a>?</h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Ed Regis | Scientific American | 1st February 2020 </p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Even now, scientists disagree about what generates &#8220;lift&#8221;, the force that keeps aeroplanes aloft. There are two main theories, neither of them complete. The first builds on work by 18C Swiss mathematician Daniel Bernoulli; it holds that the curved cross-sectional shape of an aircraft wing creates a zone of low pressure above the wing, pulling the aircraft up. The second theory relies on Newton&#8217;s third law of motion: The wing pushes down on the air, creating an opposite forced which pushes the aircraft up (<a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_BpyCwrh0XLIoUjLb6AkmBIVEpSYZfn7Ne2hkpVYnhmPPFYjPEM81RYSsj1BHNyomlIU4tayUY1tM0FTMpeGKQKs2i0K4w5s283irEYX_KUo7qJiswJpirI2AmxtoDD1fdLGjG09CdtWtpbsshn0PjrwFhT8QjyDB7aoGXFLWfnIZE91HEeeLJHQTeSyQqTX5zasBOqIzi5AnQ-c1JwgDn_bop3nx3xy6jwknlCfnEY4A9cuEp85JYUUVJWkE6XMi7yv2rbtbrLuH52ou5-sEmk3pLUvmZPUxHBQLJc3iwrD-iqqeya7L0SK5xXMm0K5DPSvu3d4DuC1WWBUDD8Bv8_HcwPl4UgLIEL8DClD2cimqBi5j4H2efW1-AcDxpG5" style="color: #eb4102; text-decoration: none;">3,700 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><strong>Video:</strong> <a href="http://email.substack2.thebrowser.com/c/eJxFULGOwyAM_ZowRkBIaAaGRr2uXU6n2yICTouaQATmqvz90XaoZMmW7efn94xGuIa4qy0kJDlBHJ1VXUMZlT2xyvbdDF1DXBrnCLBqtyiMGciWp8UZjS74J4IdqCA31Wh7kJLNrYWuZaLprdQdF3I2lEljOHnSjDpbB96Agj-Ie_BAFnVD3FLVHCt-LrGHjLmeoJTf4SIvvyf3Uwic4pTTEoKXDzmvWX0Wfd8Pkrfn40Db4asSNOUpoTZ3XuMNphgeRVVtwkqiwrDemThUfPiMCuL61PVaKbLGktfsHe4jeD0tYBXBtz-v73HfQHl4pAUQIb6bxQLe8Y4JUthtKPe8-lD8AxcweCc" style="color: #eb4102; text-decoration: none;">Happy Birthday Variations | Nahre Sol</a>. A pianist&#8217;s masterclass, analysing and comparing the styles of ten composers from J.S. Bach to Steve Reich (<a href="http://email.substack2.thebrowser.com/c/eJxFULGOwyAM_ZowRkBIaAaGRr2uXU6n2yICTouaQATmqvz90XaoZMmW7efn94xGuIa4qy0kJDlBHJ1VXUMZlT2xyvbdDF1DXBrnCLBqtyiMGciWp8UZjS74J4IdqCA31Wh7kJLNrYWuZaLprdQdF3I2lEljOHnSjDpbB96Agj-Ie_BAFnVD3FLVHCt-LrGHjLmeoJTf4SIvvyf3Uwic4pTTEoKXDzmvWX0Wfd8Pkrfn40Db4asSNOUpoTZ3XuMNphgeRVVtwkqiwrDemThUfPiMCuL61PVaKbLGktfsHe4jeD0tYBXBtz-v73HfQHl4pAUQIb6bxQLe8Y4JUthtKPe8-lD8AxcweCc" style="color: #eb4102; text-decoration: none;">18m 20s</a>)</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><strong>Audio:</strong> <a href="http://email.substack2.thebrowser.com/c/eJxFUMFuwyAM_ZpyjIAQUg4cGmnVtsPuO0UE3AY1gQjMqvz9aHuo9CRLtp-f37MG4RrTrreYkZQMafROy5Yy2ivitFPyArIlPo-XBLAav2hMBchWpsVbgz6GB4MdqSCzVo61fceVpB13gtmOMkXlsbed44o6Th4yoynOQ7Cg4Q_SHgOQRc-IWz60pwM_V8Q6sCZjc1mfjeGzfHn49j-_xGtOOa0QvH7JecOas1BKDT3vzqeBdsPHQdBcpozG3niDM0wp3quzxsaVJI1xvTFxrEffo8q4Prw9V6q1sda1BI_7CMFMCzhN8JXR0wHuG-gA97wAIqRXs8bAJZdMkKruYr0X9FviHylpeM8" style="color: #eb4102; text-decoration: none;">Table 101 | Planet Money</a>. Restaurant design consultant Stephani Robson explains how small changes in layout can produce big changes in customer behaviour  (<a href="http://email.substack2.thebrowser.com/c/eJxFUMFuwyAM_ZpyjIAQUg4cGmnVtsPuO0UE3AY1gQjMqvz9aHuo9CRLtp-f37MG4RrTrreYkZQMafROy5Yy2ivitFPyArIlPo-XBLAav2hMBchWpsVbgz6GB4MdqSCzVo61fceVpB13gtmOMkXlsbed44o6Th4yoynOQ7Cg4Q_SHgOQRc-IWz60pwM_V8Q6sCZjc1mfjeGzfHn49j-_xGtOOa0QvH7JecOas1BKDT3vzqeBdsPHQdBcpozG3niDM0wp3quzxsaVJI1xvTFxrEffo8q4Prw9V6q1sda1BI_7CMFMCzhN8JXR0wHuG-gA97wAIqRXs8bAJZdMkKruYr0X9FviHylpeM8" style="color: #eb4102; text-decoration: none;">23m 18s</a>)</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0;"><strong>Afterthought:</strong> <br>&#8221;Silences have a climax, when you have got to speak&#8221;<br>&#8212; Elizabeth Bowen</p></div></div><table cellpadding="0" cellspacing="0" class="post-meta big  custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 16px; font-weight: 400; height: 30px; line-height: 30px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 16px; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVUtuOqjAU_Rp405RyER764GUcMV5i4lHPEyllI1XaOqWMB79-yuhkcpI2ada-rNW9NqMGzkp35KYa47YN6IwXJPKRh0aJW5AiiUqIfJc3WakBBOU1MboF99bmNWfUcCX7Ci9GgVsRHyVQxmWAvSCEMMxREue4YAAxzUsalW5Pk9G24CAZEPgE3SkJbk0qY26N448dPLfHVJBrdbdyhkwJC9zs7Wht6KAR6gqDjxZaaAaVEqAHlGvHnxuLS8efQbf0GD50J1xf04vC68f433rGwtV0ec_9DXrh3eaS4vV-16SiroppGq33f4L17OxtHqm_nd45PdnXRXG2OPDV_s3Gdtz2eBTHlG_5s9fqtKz_HjeIHpM2lWiIF2x-LILTYiPij_SRhfv30XiWD_jnZJtVrNpWGTts3ndcBg6OWiOyRrWagZXdtHljKLu-cAEFb0X_nX7mL5ApaUCaPruiGixKWe_AD-ByghFG9gTYWojx0BvOgyRJJiMczscTFE7enAD9UOHh_3N2NTFKXL0gdvDkN2Qrzr2I7xTru5UhRCu56TKQNK-hIK55LtC3vaa7AZFwb2owBvQTtDuCIxx5gWvZC2X7SfJL8QV0rdw0" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_60,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D30%26stroke%3D%2523999999" width="16.5" height="30" style="border: none !important; float: left; height: 30px; max-width: 16.5px; width: auto;" alt=""></a></span></td></tr></table><div class="container-border" style="border-top: 1px solid #f6eddf; box-sizing: border-box; font-size: 16px; line-height: 26px; margin: 32px 0 0; width: 100%;"></div><div class="post-cta" style="font-size: 16px; line-height: 26px; margin: 24px 0 40px;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; margin-top: 0;"><span>You&#8217;re on the free list for <a href="http://email.substack2.thebrowser.com/c/eJxVUEuOgzAMPQ1ZouCEAIssijRcAwVi2qiQoMRMxe0ntItqJEuWnu338WwI7yGeeg-J2JEwjs5qJXjFm45ZbTu1oBLMpXGJiJtxq6Z4INuPaXWzIRf8dVG1XLKHbkQtWmFhMTOXi4EJpLBCqqmFBa0Q7JIZzWEd-hk1_mI8g0e26gfRngpxK2DIRQ-cYnhlO-Uctgwwp4EDzyUhmwMoq3KQXdf1DdTDred1_1NIno4pkZmfUP5nYFFT2J6VbAvov6N8cb8ivVdyojH37fCOzhG9mVa0mtHnNW_jdO6oPb7SikQYP2BODwpUJVlWtyHzef2V-AN8pndn" style="color: #eb4102; text-decoration: none;">The Browser</a>. For the full experience, <a href="http://email.substack2.thebrowser.com/c/eJxVUl1vozAQ_DXwdpFtCIQHHvJ5JSpEqdKk7Qsy9gacYDsH5ij59TVtT9VJ-zT2zOzOLqMGSt0M8U23xu1aaHLB48BDGIWRy2MeBWcIPFe0-bkBkFTUsWk6cG9dUQtGjdBqZOAZ8t0qDgsagc_An_qoYDycYVqEBHu8iNAZY-yONjntuADFIIa_0AxagVvHlTG31vHmDtnYMhUUje5tOxOmpQXarmhZIwpwvI3RV1COt4Jhixk5Di-kviYXTdL7_D1dsenjcqvo7-jO11FXPFzFTj0N_PTcJrKu-DIJ0sOzn65KnN0Tb7fsxdtL1Vv-e3Yo79lqP00vzLcaN-alYie2PT8lJj2UfbZM2kRl-FUkQSIz_XbKmsI7okShyZnOnlT4tIbD_mFd6mPwWtJlzmX-57G9s8MZXYbWk78qBHuHBJ2Reau7htlxVuNohrLrNy6Bi06O441hf4NMKwPKWHQMkBnqipgggmz5xC6LkAmebPwoihYhmW7mCzRdrB0f_dMmk_8TdZvYaHnF_swhi58nyyhH188vdsPWV8pOCTPkoGhRA49d83Uqn4s0ww1iBX1bgzHQfIH2GkhAAuy71p1rq6fiH4sPvUHV5A" style="color: #eb4102; text-decoration: none;">become a paying subscriber.</a></span></p><p class="cta-box" style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUl1vozAQ_DXwdpFtCIQHHvJ5JSpEqdKk7Qsy9gacYDsH5ij59TVtT9VJ-zT2zOzOLqMGSt0M8U23xu1aaHLB48BDGIWRy2MeBWcIPFe0-bkBkFTUsWk6cG9dUQtGjdBqZOAZ8t0qDgsagc_An_qoYDycYVqEBHu8iNAZY-yONjntuADFIIa_0AxagVvHlTG31vHmDtnYMhUUje5tOxOmpQXarmhZIwpwvI3RV1COt4Jhixk5Di-kviYXTdL7_D1dsenjcqvo7-jO11FXPFzFTj0N_PTcJrKu-DIJ0sOzn65KnN0Tb7fsxdtL1Vv-e3Yo79lqP00vzLcaN-alYie2PT8lJj2UfbZM2kRl-FUkQSIz_XbKmsI7okShyZnOnlT4tIbD_mFd6mPwWtJlzmX-57G9s8MZXYbWk78qBHuHBJ2Reau7htlxVuNohrLrNy6Bi06O441hf4NMKwPKWHQMkBnqipgggmz5xC6LkAmebPwoihYhmW7mCzRdrB0f_dMmk_8TdZvYaHnF_swhi58nyyhH188vdsPWV8pOCTPkoGhRA49d83Uqn4s0ww1iBX1bgzHQfIH2GkhAAuy71p1rq6fiH4sPvUHV5A" class="button primary" style="-moz-box-sizing: content-box; -webkit-box-sizing: content-box; background-color: #f90; border: 0 solid #f90; border-radius: 4px; border-width: 13px 20px 13px 18px; box-sizing: content-box; color: #fff; cursor: pointer; display: inline-block; font-family: Lato,sans-serif; font-size: 17px; font-style: normal; font-weight: 300; height: 24px; line-height: 24px; margin: 0; opacity: 1; outline: 0; padding: 0; text-decoration: none !important; vertical-align: middle;">Subscribe</a></p></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Robert Cottrell, Editor<br>Caroline Crampton, Audio Editor<br>Uri Bram, CEO [<a href="mailto:uri@thebrowser.com" style="color: #eb4102; text-decoration: none;">uri@thebrowser.com</a>]</p><div class="footer" style="background: #f8f8f8 !important; color: #bcbcbc; font-size: 16px; line-height: 26px; padding: 32px; text-align: center;"><p class="small" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 30px;">&#169; 2020 <span>The Browser</span> <a href="http://email.substack2.thebrowser.com/c/eJxVUU1vozAQ_TVwW2QbQuKDDyEJEahNtdpuPnpBxp4mTgym2GxKfn2d9FCtNNKMZub5jd8T3MHR9CPrjHXhYKGvlGRpjDCa0lAySdN3SONQ2eq9B2i40sz1A4TdUGsluFOmvSPwDCXhiaUpmlGJMAcOMcYS6imJE8pTLKgA4WGepuKDVNAKYPAP-tG0EGp2cq6zQTwPSO7DnaDuzdWfEwnT-AYXdyZfSGV5raF6nBLEeWek4NYF8TIgqTMXaH0JY4kF2Y57oi_F2ZDn2_zzeSkmT4uyO-x_q5fzCr8s58nmVYyb29EWjb6JsUiLNsMHhT79DBXqqkS8VR6v3tb6dtiV9m1Ldb3Lu3pR0ujXcbMYz9M_moiOq_1Hrcvl7twWpDuR11W-qHhd5dt1uZZ_Q8UIIshHQry0hEQ4yhNKaTYlk3yeoUm2ChJkh9o6Li4k-v__Yc-caS44mQUk-xl5xPGuwmPF-1H53AytcmMF7V0kyUL3bexDdjd2wFq4Wg3OQf_d9N6RlKQ4CT27NP69lv1QfAHJALg-" style="color: #bcbcbc; text-decoration: none;"><span style="color: #bcbcbc; text-decoration: underline;">Unsubscribe</span></a><br>Suite 25, 19-21 Crawford Street, London W1H 1PJ</p><p class="small powered-by-substack" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFUMuOwyAM_JpwjIC8DxwatfmNiIDbogaIwGyVv1-S3aqSLx57PONREuHhwy42H5GkCGE2WrQVZbQbiBZ6aO_QVsTE-R4ArDSrwJCAbGlZjZJovDsYrKc1eQqpGa86BaAHygbOWFN3S8-aCqhqG9aTQ2aWSRtwCgT8QNi9A7KKJ-IWi-pS8ClXTEtEqV6l8ja3cvEJi2pKaOfoU1BQVNfPTsHbA7egTbIZP03-g8o7BJep17v3CIEYwSmnuWqef-S8ZOVUD8MwdryZLiNtxltR089pXuITluDfOZfDCgkCvX2xui_4-B1lxuMQPVdyMFnW2uQM7jM4uaygBcG_hM__cd9AOHjHFfAwdYI5RN7yltUkq2uf7znxlfgFxQ6Qvg" style="color: #bcbcbc; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_340,c_limit,f_auto,q_auto:good/https%3A%2F%2Fsubstack.com%2Fimg%2Fpublish-on-substack.png" width="170" style="border: none !important; margin-top: 3px; max-width: 550px;"></a></p></div></div></td><td></td></tr></table><img width="1px" height="1px" alt="" src="http://email.substack2.thebrowser.com/o/eJxFj0GOwyAMRU9TlhG4hCQLFhNpeo2IgNOiJhCBmSq3H9IuKlmyZPv7_W8N4T2mQ-8xEysZ0-SdVlcueDcwp92gFlRX5vO0JMTN-FVTKsj2Mq_eGvIxnArRc8ke2s7WwmJs10t5lWZQtuPQil61gNKhZSdmMsV5DBY1_mE6YkDmNXDgtSRUNEAjmpschmHsoL39jLwdfy-S5zJnMvYJDT1wTvFV7TY2bixpittTyP4C43dVFffT8Puk-p1q30rwdEwYzLyi04w-wd-26NhRB3zlFYkwfYY1GyhQQrJKd7H-C_qL-AfpNmx9"></body></html>]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <title>Brains, Plato, Talent, Scruton, Games</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=16fe874756ae5dd9</guid>
+            <description>Brains, Plato, Talent, Scruton, Games</description>
+            <pubDate>Mon, 27 Jan 2020 13:20:09 CST</pubDate>
+            <content:encoded>
+                <![CDATA[<html><head><title>Brains, Plato, Talent, Scruton, Games </title><style>
+@media screen and (max-width:480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  .share-button-container {
+    height: 38px;
+  }
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  .post .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post .markup a.spotify-wrap,.post .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post-silhouette {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+  .post-preview>.post-preview-image {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width:370px) {
+  table.post-meta tr td.post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  body .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .markup a.spotify-wrap,body .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 6px;
+  }
+}
+
+
+@media screen and (max-width:420px) {
+  body .subscription-receipt table .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width:480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  table.thread-head .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .footer {
+    outline: #f8f8f8 solid 8px !important;
+  }
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+  table.thread-head .markup a.spotify-wrap,table.thread-head .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+    min-width: 112px;
+  }
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+</style></head><body style="color: #505050; font-family: helvetica; font-kerning: auto;"><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">About Your Craniotomy Mary South | White Review | 27th January 2020 Come for the allure of an FAQ about brain surgery; stay for the pleasure of a well-turned short story. &#8220;You will be awake for a short interval during the craniotomy. There are no pain receptors in the brain. What you might undergo are moments of aphasia or synesthesia, like Kandinsky hearing his paint box hiss. Reports of out-of-body experiences aren&#8217;t uncommon. I&#8217;ve heard it feels as though you are watching your own handwriting uncoiling from someone else&#8217;s pen&#8221; (</div><table width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table width="100%" border="0" cellSpacing="0" cellPadding="0" class="header graphic-header" style="padding: 15px 0;"><tr><td style="text-align: center;"></td><td align="center" style="text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUV2PojAU_TXyJmkLgjz0gREdMcJ-OaPriynlih1Ly9KyLv767YybTDa5Nzc5955zmh7OLDS6H2mnjfUGA_1J1DQKEEZx4tW0TqIzRIEnzOncA7RMSGr7AbxuqKTgzAqt3hl4jkLvQvkMgviMYh6guoYqRgEh1SzkGPO4wsjRnM2JDbUAxYHCb-hHrcCT9GJtZyZBOiErV_YCVa9v7jk-160DOtdVz4Qy004yq6eWSVB2ang_WK2mDWvB0VdWX0FNggzGDebkdTwQec3fNCnu6Z8i47PtYnOrghL9w8cya2Zllpq8lZd6kUfF7iUssiUu3ppbubgJdijv7k7w9avY7pZu9004jXu9z8UX8dDaHjby575EbJ8MuUL-sXjespfFfWnWX8e2kd8Pu2N7t-tfqV0dz874eZ0ffxCWIe4JShBBCJMYJ24mPvbnEUrT-SxaZUGEkuBpEiIzVMYyfiX-_x_j9dTq9orD-YQ8fa4co3lP6uPEBXVysx2UsOMJFKsk1NSzj8Q_8rBjB1TBzUiwFvoH6EIl4TwJkefca-30FP20-As-dcCp"><img width="550" src="https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2c61b63-fd58-48ce-a4c9-c60e4876990e_800x160" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; width: 100%;"></a></td><td style="text-align: center;"></td></tr></table><div class="post-header " style="font-size: 16px; line-height: 26px;"><table cellpadding="0" cellspacing="0" class="post-meta   custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item post-date" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; padding: 7px 12px 7px 0; position: relative; text-decoration: none; text-transform: none; vertical-align: middle;">Jan 27</td><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 0; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVUtlu4jAU_RryBnKcpcmDH1ICJRXJbLQwvCDHuQSX2M44ztDw9eMUqmokX1k6dznnLowaqJUeSKs64_Qd6AOvSOghFz3ETkWqODxC6Dm8Oxw1gKC8IUb34LR92XBGDVdyzHAj5DsngnAZAauCwPdxSAECHx8BeazEcKQopM5Ic6B9xUEyIPAX9KAkOA05GdN2Ey-Z4KV95gSlVhcrZ8aUsEBrrdSUy27aNtSoqaENSDPtmO6NktOaCrDpS6POICdeCsOzy_DrsMPNOXtTOL8m73nKgvX8-VJ6BbrjQ5HWQZEmXSaaUzXPwnzz4ufpws3f6ksxv3C6K642jrPVK19vFtb3g9sa12qb8W_8Vmu9e25-bwtEt3GfSTTb509r-jK_LrrV90HUzc_dZi-uZvUnMcv90RI_rbL9L0xTxCY47I04dKrXDKzsri87Q9n5jguoeC_GdsbB30GmpLGtj9EnqsGilI1r-AQcTjDCCLn4wY3tH8_cWRSiJImCcJl6IYq9x4mPPqnw7P9hO5oYJc6uH03w45fLZtSjiI8Qu3wrQ4hecjMcQNKygYo45nZFHzs2QwtEwqVrwBjQN9AeCvaj2EeOZa-UrSfJF8U_Mz3e7A" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_40,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D20%26stroke%3D%2523999999" width="11" height="20" style="border: none !important; float: left; height: 20px; max-width: 11px; width: auto;" alt=""></a></span></td></tr></table></div><div class="post" style="font-size: 16px; line-height: 26px; padding: 9px 0;"><div class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 12px; word-break: break-word;"><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em; margin-top: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFkE2OwyAMhU8Tdo0IpDRZsGg16jUiftwGNYEMmEa5_UC7GMmSDc_2Jz-jEJ4hHnILCUlOECdnpeC0o5eRWGlH8QDBiUvTIwKsyi0SYwayZb04o9AFXye6gfZklkJorcAAG4U4gzhry00nTM8v_aApN6RiJpWtA29AwhviETyQRc6IW8OvDbuX2Pe9xRn22SFEeDvY2xCfRXg4U4m1ivCbweNynFR6gT2VV6paOpmovAsY1qP0EScZZZR27NKNJY9t1w6CXq_DWdx_uKAjvzU9TVknVObFKlfHsBcnWhNWEmVZ9Or6oWG3f6lMPKsXn5ZixVTymr3DYwKv9AJWEvx6-rkYjw2khz0tgOWk72exjfXD2FNS6DaUfV7-I_4Ax1KNnQ" style="color: #0a0a0a; text-decoration: none;">About Your Craniotomy</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Mary South | White Review | 27th January 2020 </p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Come for the allure of an FAQ about brain surgery; stay for the pleasure of a well-turned short story. &#8220;You will be awake for a short interval during the craniotomy. There are no pain receptors in the brain. What you might undergo are moments of aphasia or synesthesia, like Kandinsky hearing his paint box hiss. Reports of out-of-body experiences aren&#8217;t uncommon. I&#8217;ve heard it feels as though you are watching your own handwriting uncoiling from someone else&#8217;s pen&#8221; (<a href="http://email.substack2.thebrowser.com/c/eJxFkE2OwyAMhU8Tdo0IpDRZsGg16jUiftwGNYEMmEa5_UC7GMmSDc_2Jz-jEJ4hHnILCUlOECdnpeC0o5eRWGlH8QDBiUvTIwKsyi0SYwayZb04o9AFXye6gfZklkJorcAAG4U4gzhry00nTM8v_aApN6RiJpWtA29AwhviETyQRc6IW8OvDbuX2Pe9xRn22SFEeDvY2xCfRXg4U4m1ivCbweNynFR6gT2VV6paOpmovAsY1qP0EScZZZR27NKNJY9t1w6CXq_DWdx_uKAjvzU9TVknVObFKlfHsBcnWhNWEmVZ9Or6oWG3f6lMPKsXn5ZixVTymr3DYwKv9AJWEvx6-rkYjw2khz0tgOWk72exjfXD2FNS6DaUfV7-I_4Ax1KNnQ" style="color: #eb4102; text-decoration: none;">4,200 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_BpyRHmwKTnk0KrqL-wRJWBKVEhQ4mzF36_bHipZtmV7NDMeHcI95cPuqSCrBfIQJqsVF_xk2GQno2fQioUyzBlgc2G1mCuwvfo1jA5Dii-E6HnHFuthFspzPilQ3Ww8V77T-tT_6FF0PTfsRTO4OgWII1j4g3ykCGy1C-JeGnVu5I1iX8KaStqXI6Znm_KdZqGUCoUaoTTl38XhQLJuJGtKGwtWcsm5kCdhqJpWtL3m5zNx365Kc6MuTcdL9QXd-JAtLuBzepLjdiR4tpi2B4ls5OW7IsT95fl9QpYHqluNAY8BovMrTJbh53dvZ3jsYCM8ywqIkD9Deo_setNxRuwk1YVovxT_rAOCxQ" style="color: #0a0a0a; text-decoration: none;">What Is Freedom?</a> </h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Vincent Kavaloski | Philosophy Now | 26th January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Plato&#8217;s allegory of The Cave reimagined &#8212; even somewhat improved, I dare say &#8212; for the digital age. &#8220;The figures on the screens moved according to the commands of distant Programmers. But the watchers knew nothing of the Programmers: they knew only the enticing, bright-lit screens. Having seen nothing else, the people believed the electronic figures and shapes and graphs they were seeing were Reality; and they believed that they were free&#8221; (<a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_BpyRHmwKTnk0KrqL-wRJWBKVEhQ4mzF36_bHipZtmV7NDMeHcI95cPuqSCrBfIQJqsVF_xk2GQno2fQioUyzBlgc2G1mCuwvfo1jA5Dii-E6HnHFuthFspzPilQ3Ww8V77T-tT_6FF0PTfsRTO4OgWII1j4g3ykCGy1C-JeGnVu5I1iX8KaStqXI6Znm_KdZqGUCoUaoTTl38XhQLJuJGtKGwtWcsm5kCdhqJpWtL3m5zNx365Kc6MuTcdL9QXd-JAtLuBzepLjdiR4tpi2B4ls5OW7IsT95fl9QpYHqluNAY8BovMrTJbh53dvZ3jsYCM8ywqIkD9Deo_setNxRuwk1YVovxT_rAOCxQ" style="color: #eb4102; text-decoration: none;">1,240 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFUMGugyAQ_Bq51YBYkAMHm5f-hkFYK6mCgbWNf_-wPTTZZJLdnZnMWIPwiOnQW8xI9gxp8E4LThmVijjtlJhAcOLzMCWA1fhFY9qBbPu4eGvQx3AyWEdbMmvWXqmxkttp5A6E5FIAdUpaOymQoyKnzWB25yFY0PCCdMQAZNEz4pYr3lfNvcy4xEedzWoWXE2obVzLco7vC8aLDy_IWOCS0STct0y8bmhDKWskUwVVzepO0L7vruL-xwVV_Fa1NO9jYdhnU-MMY4rvkvaUJkljXJ-s7arm9jsVxuPM-3kpcYeC6x48HgMEMy7gNMFvb59UeGygA7zzAoiQvstSTdN2qqWkuLtY9IL-WfwDCJKC9g" style="color: #0a0a0a; text-decoration: none;">How To Invest In Startups</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Sam Altman | 13th January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">How to spot winners. Of more general interest than the title might suggest. &#8220;Some characteristics are easier to change than others. For example, I have noticed that people can become much tougher and more ambitious rapidly. But people tend to be either slow movers or fast movers and that seems harder to change. Being a fast mover is a big thing; a somewhat trivial example is that I have almost never made money investing in founders who do not respond quickly to important emails&#8221; (<a href="http://email.substack2.thebrowser.com/c/eJxFUMGugyAQ_Bq51YBYkAMHm5f-hkFYK6mCgbWNf_-wPTTZZJLdnZnMWIPwiOnQW8xI9gxp8E4LThmVijjtlJhAcOLzMCWA1fhFY9qBbPu4eGvQx3AyWEdbMmvWXqmxkttp5A6E5FIAdUpaOymQoyKnzWB25yFY0PCCdMQAZNEz4pYr3lfNvcy4xEedzWoWXE2obVzLco7vC8aLDy_IWOCS0STct0y8bmhDKWskUwVVzepO0L7vruL-xwVV_Fa1NO9jYdhnU-MMY4rvkvaUJkljXJ-s7arm9jsVxuPM-3kpcYeC6x48HgMEMy7gNMFvb59UeGygA7zzAoiQvstSTdN2qqWkuLtY9IL-WfwDCJKC9g" style="color: #eb4102; text-decoration: none;">1,960 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFUMGugyAQ_Bq5aRCU4oFDm5f-hkFYKqmCAWzj37-1PTSBzGbZnWHG6AKPmA61xVzIniGN3irBaUsvA7HKDsKB4MTn0SWAVftFlbQD2fZp8UYXH8O50UrakVlRJ13vBBe873UPmrXCcTC6k67jtr-QU2bUu_UQDCh4QTpiALKouZQtV_xasTueAG-TfIGE9I2JK7Z8zjtkLBil_AS87_mofT2hwAq1rk0MaOCFn3oB8YpRHG3ZpR0Qh6ZtpKDXq-zF_Y8LOvBb1dG8T7lo82RNmWFK8Y0EpyBJqsT12XayYrffE248zgw-IxjBiLjuwZdjhKCnBawi5Zvlx2k5NlBoJi9Q0M23iXGxTg4dJahuI_IF9ZP4B9LSh_Q" style="color: #0a0a0a; text-decoration: none;">Why I Became A Conservative</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Roger Scruton | New Criterion | 1st February 2003</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Ungated as I write. Arguably the best thing that Scruton ever wrote, if you can mentally edit out the two tin-eared paragraphs about sexual relations and sexual harassment. By Scruton&#8217;s own telling, he lost his appetite for radicalism in Paris while watching the 1968 student revolts. The aversion he felt was more of an aesthetic than a conventionally political reaction; the riots were ugly and stupid. He found his philosophy of conservatism a year or two later in the writings of Edmund Burke (<a href="http://email.substack2.thebrowser.com/c/eJxFUMGugyAQ_Bq5aRCU4oFDm5f-hkFYKqmCAWzj37-1PTSBzGbZnWHG6AKPmA61xVzIniGN3irBaUsvA7HKDsKB4MTn0SWAVftFlbQD2fZp8UYXH8O50UrakVlRJ13vBBe873UPmrXCcTC6k67jtr-QU2bUu_UQDCh4QTpiALKouZQtV_xasTueAG-TfIGE9I2JK7Z8zjtkLBil_AS87_mofT2hwAq1rk0MaOCFn3oB8YpRHG3ZpR0Qh6ZtpKDXq-zF_Y8LOvBb1dG8T7lo82RNmWFK8Y0EpyBJqsT12XayYrffE248zgw-IxjBiLjuwZdjhKCnBawi5Zvlx2k5NlBoJi9Q0M23iXGxTg4dJahuI_IF9ZP4B9LSh_Q" style="color: #eb4102; text-decoration: none;">4,220 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFkM2OhCAQhJ9GbhgERT1wmMlmXsPw0ypRwQCu8e0Xx8MmnXRS0FWVT8sEkw-X2H1M6IgQBmsEZ6QibY-MMD0fgTNk4zAGgE3aVaRwANoPtVotk_Xuvqg6UqNZaMY01-3IuBpbw3nbjKxXTddUVFNCenTHDPIwFpwGAb8QLu8ArWJOaY8FexX0k-c8z_JJUN4vsfRhyuqj4DRbt0DAVjqs_JQdsXd4khtEbLwPi_MqYukMnsBBkCsOIA2EmC2QFZTkJhVtq_5uVFZlx8nr1TX888M46dm7qEk8VExSL7RMM6jgzwym1H5DQSS_LVXdFfT9_5QvphvN90tuOeS9Hc6mawAn1QpGoPQg_gJI1w7CwRlXSAnCI2aKtO76mqCcbnz2c-I_4g95MJIe" style="color: #0a0a0a; text-decoration: none;">Games, Doorknobs, General Readers</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Jeffrey Williams | Public Books | 23rd January 2020</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Interview with game designer and tech critic Ian Bogost about the psychology and technology of video  games. &#8220;Games are not like cinema or novels; they&#8217;re more like strange organisms or broken machinery that you&#8217;re trying to put back together. [There&#8217;s] a problem that you&#8217;re trying to solve, for which there&#8217;s no solution, but you struggle toward solving it anyway. What you realise is not how to solve it, but what it feels like to go through that experience and to have that process made evident&#8221; (<a href="http://email.substack2.thebrowser.com/c/eJxFkM2OhCAQhJ9GbhgERT1wmMlmXsPw0ypRwQCu8e0Xx8MmnXRS0FWVT8sEkw-X2H1M6IgQBmsEZ6QibY-MMD0fgTNk4zAGgE3aVaRwANoPtVotk_Xuvqg6UqNZaMY01-3IuBpbw3nbjKxXTddUVFNCenTHDPIwFpwGAb8QLu8ArWJOaY8FexX0k-c8z_JJUN4vsfRhyuqj4DRbt0DAVjqs_JQdsXd4khtEbLwPi_MqYukMnsBBkCsOIA2EmC2QFZTkJhVtq_5uVFZlx8nr1TX888M46dm7qEk8VExSL7RMM6jgzwym1H5DQSS_LVXdFfT9_5QvphvN90tuOeS9Hc6mawAn1QpGoPQg_gJI1w7CwRlXSAnCI2aKtO76mqCcbnz2c-I_4g95MJIe" style="color: #eb4102; text-decoration: none;">2,450 words</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><strong>Video:</strong> <a href="http://email.substack2.thebrowser.com/c/eJxFUNvOgyAMfhq5NAiIcMHFlj97DaNSNzIFA3WLb__X7WJJkzY9fIdOA8I95cNtqSDbC-Q-eKclb3hnmXfe6hm0ZKH0cwZYh7A4zDuwbR-XMA0YUjwvGsMVe7i5a2yr9Dwb64Xt-KhaLYU0IGY7grHspOmH3QeIEzh4QT5SBLa4B-JWKnmpxI3iFVZI9ZRWqiXvVEv4JMIJLjhvBLFQtnVTG80vF9Pq25_U3MprpXjZx4LD9BQ1PmDM6U2mTiiWHab12ShTietvRBf309ZnhVz1lNc9Bjx6iMO4gHcMv-_5iMdjAxfhXRZAhPxt0geEMlZxRuw-EV50P4p_qQp2oQ" style="color: #eb4102; text-decoration: none;">Obst | Jan Eisner</a>. If fruits could move, what sort of movements would they make? (<a href="http://email.substack2.thebrowser.com/c/eJxFUNvOgyAMfhq5NAiIcMHFlj97DaNSNzIFA3WLb__X7WJJkzY9fIdOA8I95cNtqSDbC-Q-eKclb3hnmXfe6hm0ZKH0cwZYh7A4zDuwbR-XMA0YUjwvGsMVe7i5a2yr9Dwb64Xt-KhaLYU0IGY7grHspOmH3QeIEzh4QT5SBLa4B-JWKnmpxI3iFVZI9ZRWqiXvVEv4JMIJLjhvBLFQtnVTG80vF9Pq25_U3MprpXjZx4LD9BQ1PmDM6U2mTiiWHab12ShTietvRBf309ZnhVz1lNc9Bjx6iMO4gHcMv-_5iMdjAxfhXRZAhPxt0geEMlZxRuw-EV50P4p_qQp2oQ" style="color: #eb4102; text-decoration: none;">0m 50s</a>)</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><strong>Audio:</strong> <a href="http://email.substack2.thebrowser.com/c/eJxFUMtugzAQ_Bp8A9mGGHzwIVGVS3tr78iPTXEDNrJNI_L1NUQVkqVZ7Xh3ZkfLBN8-rGL2MaElQuitEazGBLccGWE4uwGrkY39LQBM0o4ihQXQvKjRapmsd9sE6XCDBsG5pAq37U2dWK3rFhvDqASqiDL6RBjaZHq5GAtOg4BfCKt3gEYxpDTHoj4X9JqfJOxZRTvNI2gZU6X9lLsw2-gNxFw-gk0QYhlAmg13O3HYSgePOELaaZ355HPh3WgdlGkAFfwjn1nGRcUk9b38_JBfz5_uHVlBMcWY0JbwjLwiVcfw-dyd2PWtZpjXl6LB_3O0OpZt_lAQyU930nQFvRxUnvjeUtu_ZJd9xmlxNq09OKlGMAKlV_p7NmmdQRwnvJo5YNp0vMEoqxuf9zlxSPwBUdedhw" style="color: #eb4102; text-decoration: none;">Writing, Reading, Creating | a16z</a>. Robert Cottrell joins Sonal Chokshi, Chris Best and Andrew Chen at Andreessen Horowitz to talk about the future of reading and writing (<a href="http://email.substack2.thebrowser.com/c/eJxFUMtugzAQ_Bp8A9mGGHzwIVGVS3tr78iPTXEDNrJNI_L1NUQVkqVZ7Xh3ZkfLBN8-rGL2MaElQuitEazGBLccGWE4uwGrkY39LQBM0o4ihQXQvKjRapmsd9sE6XCDBsG5pAq37U2dWK3rFhvDqASqiDL6RBjaZHq5GAtOg4BfCKt3gEYxpDTHoj4X9JqfJOxZRTvNI2gZU6X9lLsw2-gNxFw-gk0QYhlAmg13O3HYSgePOELaaZ355HPh3WgdlGkAFfwjn1nGRcUk9b38_JBfz5_uHVlBMcWY0JbwjLwiVcfw-dyd2PWtZpjXl6LB_3O0OpZt_lAQyU930nQFvRxUnvjeUtu_ZJd9xmlxNq09OKlGMAKlV_p7NmmdQRwnvJo5YNp0vMEoqxuf9zlxSPwBUdedhw" style="color: #eb4102; text-decoration: none;">40m 37s</a>)      </p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0;"><strong>Afterthought:</strong><br>&#8220;Don&#8217;t attribute to stupidity what can be explained by incentives&#8221;<br>&#8212; Mike Elias</p></div></div><table cellpadding="0" cellspacing="0" class="post-meta big  custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 16px; font-weight: 400; height: 30px; line-height: 30px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 16px; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVUtlu4jAU_RryBnKcpcmDH1ICJRXJbLQwvCDHuQSX2M44ztDw9eMUqmokX1k6dznnLowaqJUeSKs64_Qd6AOvSOghFz3ETkWqODxC6Dm8Oxw1gKC8IUb34LR92XBGDVdyzHAj5DsngnAZAauCwPdxSAECHx8BeazEcKQopM5Ic6B9xUEyIPAX9KAkOA05GdN2Ey-Z4KV95gSlVhcrZ8aUsEBrrdSUy27aNtSoqaENSDPtmO6NktOaCrDpS6POICdeCsOzy_DrsMPNOXtTOL8m73nKgvX8-VJ6BbrjQ5HWQZEmXSaaUzXPwnzz4ufpws3f6ksxv3C6K642jrPVK19vFtb3g9sa12qb8W_8Vmu9e25-bwtEt3GfSTTb509r-jK_LrrV90HUzc_dZi-uZvUnMcv90RI_rbL9L0xTxCY47I04dKrXDKzsri87Q9n5jguoeC_GdsbB30GmpLGtj9EnqsGilI1r-AQcTjDCCLn4wY3tH8_cWRSiJImCcJl6IYq9x4mPPqnw7P9hO5oYJc6uH03w45fLZtSjiI8Qu3wrQ4hecjMcQNKygYo45nZFHzs2QwtEwqVrwBjQN9AeCvaj2EeOZa-UrSfJF8U_Mz3e7A" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_60,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D30%26stroke%3D%2523999999" width="16.5" height="30" style="border: none !important; float: left; height: 30px; max-width: 16.5px; width: auto;" alt=""></a></span></td></tr></table><div class="container-border" style="border-top: 1px solid #f6eddf; box-sizing: border-box; font-size: 16px; line-height: 26px; margin: 32px 0 0; width: 100%;"></div><div class="post-cta" style="font-size: 16px; line-height: 26px; margin: 24px 0 40px;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; margin-top: 0;"><span>You&#8217;re on the free list for <a href="http://email.substack2.thebrowser.com/c/eJxVUMuOwyAM_JpwjIAQCgcOrVb9jYiH06ImEIGzVf5-aXuoVrI0ku3xzNhbhFsuh9lyRbJXKFMMRg6U0ZMmwQQtZ5ADiXWaC8Bq42Kw7EC23S3RW4w5vRhMUUHuxgEExSwPblbjeBJh4FpRFmbvRzcKSV4yk91DhOTBwC-UIycgi7kjbrUbzh2_tsI7uJKfzU7v89oaJBpOOaWMn5huqHvWK0nPZzXK688gqR4unaB1dxWtf_D-_wVSDOb1wYTq-OU7aozbK9J7pSWaGq57inhMkKxbIBiCn9e8jeOxgUnwrAsgQvk0W3oulBaUNPWQ271kvhJ_6kF3xQ" style="color: #eb4102; text-decoration: none;">The Browser</a>. For the full experience, <a href="http://email.substack2.thebrowser.com/c/eJxVUl1vozAQ_DXwdpExH4EHHmhJruSOpL0mTS4vyNib4ARsZMwR8uvPtD1VJ1myNN6Z8c4uJRrOUo1xKztt9x2ogrM4cJGD5pHNYhYFJwhcm3fFSQE0hNexVj3YbV_WnBLNpZgYTog8u4qdyHNPGM_DiIU-cQljFE6Ame96IZQn355sCtIzDoJCDH9AjVKAXceV1m1nuYmFl-boCkolB_OdGZWNAbq-7KjiJVjuUssrCMtNYVw5FL-NB1xfs4vE-T255Sn1fz6uBPke3dki6sunK9-IXyPb77qsqSv2mAX5dufl6cLJL-dh_Tjw46EaDP-23p7H9f0FbdIEGY2Wujnf8NXA9pnOt1Nt1mVi7fzmWZA1a3ncr1XpvqFMoJnsvi0PdUmron8hxE9vwVN22TnHtFRpkMyLRfv6_GN4bZ5LauGg103RyV5R0046taYJvX7iDTDeN1N7U9ifIJVCg9AGnQKkmtg8xggj5OC5E5k7mjmzMEBJEvrBMnUDFLkPlof-aePZ_4naKtayuTpeaOGHryfDOE-u7yVmwsa3aXrB9ViAIGUNLLb1x6q8D1KPLcQChq4GrUF9gGYbsBdGHrKNO5NGT8RfFn8BCHbV2w" style="color: #eb4102; text-decoration: none;">become a paying subscriber.</a></span></p><p class="cta-box" style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUl1vozAQ_DXwdpExH4EHHmhJruSOpL0mTS4vyNib4ARsZMwR8uvPtD1VJ1myNN6Z8c4uJRrOUo1xKztt9x2ogrM4cJGD5pHNYhYFJwhcm3fFSQE0hNexVj3YbV_WnBLNpZgYTog8u4qdyHNPGM_DiIU-cQljFE6Ame96IZQn355sCtIzDoJCDH9AjVKAXceV1m1nuYmFl-boCkolB_OdGZWNAbq-7KjiJVjuUssrCMtNYVw5FL-NB1xfs4vE-T255Sn1fz6uBPke3dki6sunK9-IXyPb77qsqSv2mAX5dufl6cLJL-dh_Tjw46EaDP-23p7H9f0FbdIEGY2Wujnf8NXA9pnOt1Nt1mVi7fzmWZA1a3ncr1XpvqFMoJnsvi0PdUmron8hxE9vwVN22TnHtFRpkMyLRfv6_GN4bZ5LauGg103RyV5R0046taYJvX7iDTDeN1N7U9ifIJVCg9AGnQKkmtg8xggj5OC5E5k7mjmzMEBJEvrBMnUDFLkPlof-aePZ_4naKtayuTpeaOGHryfDOE-u7yVmwsa3aXrB9ViAIGUNLLb1x6q8D1KPLcQChq4GrUF9gGYbsBdGHrKNO5NGT8RfFn8BCHbV2w" class="button primary" style="-moz-box-sizing: content-box; -webkit-box-sizing: content-box; background-color: #f90; border: 0 solid #f90; border-radius: 4px; border-width: 13px 20px 13px 18px; box-sizing: content-box; color: #fff; cursor: pointer; display: inline-block; font-family: Lato,sans-serif; font-size: 17px; font-style: normal; font-weight: 300; height: 24px; line-height: 24px; margin: 0; opacity: 1; outline: 0; padding: 0; text-decoration: none !important; vertical-align: middle;">Subscribe</a></p></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Robert Cottrell, Editor<br>Caroline Crampton, Audio Editor<br>Uri Bram, CEO [<a href="mailto:uri@thebrowser.com" style="color: #eb4102; text-decoration: none;">uri@thebrowser.com</a>]</p><div class="footer" style="background: #f8f8f8 !important; color: #bcbcbc; font-size: 16px; line-height: 26px; padding: 32px; text-align: center;"><p class="small" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 30px;">&#169; 2020 <span>The Browser</span> <a href="http://email.substack2.thebrowser.com/c/eJxVUcuO4jAQ_Jr4tsiPTIgPPgRYVkETEKsRj7lEsdOAhySOYgcIX78Ocxit1FK3urtc7SpVODibbhCtsQ71FrpclyJimOApR6UoeXSCiCFt81MHUBe6Eq7rAbW9rLQqnDbNiCAxDtFFyGgqgTNWQkxKolTMZSSBsVhxCOOTQiNNXvSlhkaBgBt0g2kAVeLiXGsDlgR06cNdQHbm7s-ZKFP7RqFGJl-U2haygvx1SsCWrSlVYV3AFgGNnLlC40sYVkTR3XCg1TX9MjR7Jo9sod7e56v2eNjqzddvslkkj_VHGmaLrU3r6qmGNEqbGTlq_PAznOq7VmynPV5__qmex_3Kfu54JffLVs5XfKLw_eOWpOF6s7fzDNjh1zBf0_a0_ftezG9VQs7X3dMc0m2GkRYUU4wJnRLuM5-QSRzhJInfouWCRZizWRBi20vrCnWlk___jzrhTH0lYRzQ2c_II86jCq8V70fuc9032g05NKNIpUDu29iX7G5oQTRwtxU4B91303tHw5iHGHn20vj3GvFD8Q-Hjbe5" style="color: #bcbcbc; text-decoration: none;"><span style="color: #bcbcbc; text-decoration: underline;">Unsubscribe</span></a><br>Suite 25, 19-21 Crawford Street, London W1H 1PJ</p><p class="small powered-by-substack" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFUMuOwyAM_JpwrAgkKTlwaFX1NyIeTosaIAKzVf5-SXarSkgWY49nPEYhPGLa5BozkpIhTc7KgdOWnkdipR2HGQZOXJ7mBOCVWySmAmQtenFGoYthZ7SCduQphR7F3HLLhKVc9KrXSs-G8V6oXvRdR3aZSRXrIBiQ8ANpiwHIIp-Ia274pWH3-nLRGZV5nUz09at0LNjwe0E_5ViSgYbfPjMNG3bcg3XFV_ww-Q-aGBBCpd7mGBEScZJRRmnLzu1Y63hqT2Kgl4voh_uND3Tk16ajn9XshE_QKb5rLrsVkiRG_2o70bDrt1UZj130GKnBVFnvS3C4TRCUXsBKgn8JH_fjtoIM8M4L4G7qAGuIrBNjR0lVt7HuC_Ir8QtDspEc" style="color: #bcbcbc; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_340,c_limit,f_auto,q_auto:good/https%3A%2F%2Fsubstack.com%2Fimg%2Fpublish-on-substack.png" width="170" style="border: none !important; margin-top: 3px; max-width: 550px;"></a></p></div></div></td><td></td></tr></table><img width="1px" height="1px" alt="" src="http://email.substack2.thebrowser.com/o/eJxFj8GOwyAMRL-mHCMghMCBQ6vV_kZEwGlRE4jAbJW_X9IeehrJ9njeOItwT_kweypIaoE8BW9kTxkdNfHGa7mA7Eko05IBNhtWg7kC2eu8BmcxpHg6mKKCPAxzchyWZQQBVDEByjLrxCIk9XYUAydnzGSrDxAdGPiDfKQIJBhOOaWMj0w31R3rlKTXqxrk708vqe5vF0FLnQta9-QdPmDO6dVwO5c2kg2m7cmEuvDbd9Uc9xP4fdJ4p6ZbjQGPCaKdV_CG4Kf4GwuPHUyEV1kBEfJn2LpxobSgpKX71P5F8434B7C2bD0"></body></html>]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <title>The Listener: Country, Tesla, Toaster, Grenfell, Lincoln</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=16fe1c3553f6ec0f</guid>
+            <description>The Listener: Country, Tesla, Toaster, Grenfell, Lincoln</description>
+            <pubDate>Sun, 26 Jan 2020 06:01:48 CST</pubDate>
+            <content:encoded>
+                <![CDATA[<html><head><title>The Listener: Country, Tesla, Toaster, Grenfell, Lincoln</title><style>
+@media screen and (max-width:480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  .share-button-container {
+    height: 38px;
+  }
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  .post .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post .markup a.spotify-wrap,.post .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post-silhouette {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+  .post-preview>.post-preview-image {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width:370px) {
+  table.post-meta tr td.post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  body .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .markup a.spotify-wrap,body .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 6px;
+  }
+}
+
+
+@media screen and (max-width:420px) {
+  body .subscription-receipt table .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width:480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  table.thread-head .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .footer {
+    outline: #f8f8f8 solid 8px !important;
+  }
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+  table.thread-head .markup a.spotify-wrap,table.thread-head .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+    min-width: 112px;
+  }
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+</style></head><body style="color: #505050; font-family: helvetica; font-kerning: auto;"><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">A weekly selection of podcasts from The Browser</div><table width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table width="100%" border="0" cellSpacing="0" cellPadding="0" class="header graphic-header" style="padding: 15px 0;"><tr><td style="text-align: center;"></td><td align="center" style="text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUdtu4jAU_Jr4rZEvISQPfsiFtLAkVXcpsE8ol0PjJdgodhrC168pK1UrWbI0c2bm6ExdGvhQ_cQvShs0aOgPouE-wwTPQ9TwJvSP4DMk9OHYA5xL0XHTD4AuQ9WJujRCybuCBNhDLQ9K_zgnM_DJHFchYx4cKQPcBJYPfNage8yhHBoBsgYOn9BPSgLqeGvMRTsscmhmn2mh6tVo13FrdbbA5QE-dUIbkNA_1SFzWGbUCaTDUphWpKbbaU-70_KPovktuuZpPVsnq7FiBf6HT0X6Tl43kV6eu7ZJln6-effyNMJ5uhgLMYpyX9zsnKhftmK9WVjuTViPW7Nbilfx8FrvV93vXYHLXTgsJXZlGP-YBz-vn-tBb3VVFtfn1S6Kx_Zt0WVZIFb18Guv91JGARKcYooxoT6hmHiBS1x_ESZJnMYJS9IsoLHjYT1U2pT1ibr_3wH13KjzyeocGn9TVvFxL-ZrxPZysP95kMJMB5Bl1UHDkXkU_HV-M12ASxh1B8ZA_wBth9SbzUKMbHqjrJ_k3xF_AXeguQY"><img width="550" src="https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2c61b63-fd58-48ce-a4c9-c60e4876990e_800x160" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; width: 100%;"></a></td><td style="text-align: center;"></td></tr></table><div class="post-header " style="font-size: 16px; line-height: 26px;"><h3 class="subtitle" style="color: #757575; font-family: Bitter,Georgia,serif; font-size: 19px; font-weight: 400; line-height: 1.16em; margin: 4px 0 0;">A weekly selection of podcasts from The Browser</h3><table cellpadding="0" cellspacing="0" class="post-meta   custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item post-date" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; padding: 7px 12px 7px 0; position: relative; text-decoration: none; text-transform: none; vertical-align: middle;">Jan 26</td><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 0; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVkk2TojAQhn8N3MYKAREOOfChu7rK1Mw66p6sEJohKyQWSUbx128YnZraqpye9Nv99gejGt5lP5CzVNo1Cvojr0joIw_NYrciVRzWEPouV8e6B-gob4nuDbhnU7acUc2lGBVehAK3ITPfx3XNaDQNGWJTPKs88GgUx3WNIy-wMlvmSE3FQTAg8AH9IAW4LWm0PivHTxy8sE83UPbyYu1MmOwsON_hU8uVBgH9E4t9x19oeQLh-DkMK4_h3XDA7Wn5V-LNLblucjZdZ6tL6RfowYcif_Oet4ladm1TZctws30LNnmCNvn8UvALp4fiZuM4-7nj6-3c_r1wm-NW7Zf8md9zrQ-r9s--QHQfm6VAExGnv2bR6_VjbdROlbS4_ljtk_TSvMzbxSLiK2Z-H9RBiCRycGh0d1TS9AysbWVKpSk7PXgHFTfd2M445wdkUtiO9Rjd0B4spWyc-hdwOcEII-Th0MPIC6KJNwnncZaleZr5Wb6IcOoE6KsUnvw_W7cnWnYnq3Nw-v1lFe-jic8Qu2tro-uM4Ho4gqBlCxVx9f1oPleqhzMQARfVgtbQ36G9CxxMpzFybfVK2nyCfJf4Bynz13U" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_40,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D20%26stroke%3D%2523999999" width="11" height="20" style="border: none !important; float: left; height: 20px; max-width: 11px; width: auto;" alt=""></a></span></td></tr></table></div><div class="post" style="font-size: 16px; line-height: 26px; padding: 9px 0;"><div class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 12px; word-break: break-word;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-top: 0;"><em><a href="http://email.substack2.thebrowser.com/c/eJxFUEGOgzAMfA05omAgJYccFrr9BgrBlKiQoMRsxe830EMlS5bGnhmPjSZ8-nCozUdie8TQ21GJkhf8JtmoRikmFCWzsZ8C4qrtoijsyLZ9WKzRZL07GUXDKzarCgUaCVBLGBoQRuhbOQ0CmkZCpUvNTpte76NFZ1DhH4bDO2SLmom2mJU_GTxS0YyLjYQOQ258AphVwIHzAkQBvKiavMjFr-y69t52ZXd_NNBmFY_7EEmbF-RJYQj-HS-BlQVFfn0lXgbtd5QYzzPStZIS9amvu7N09Oj0sOCoGH1ecx1Ox4bK4TsuSIThA6b0UNW15Cy5jz7pOfW1-AdX0HdX" style="color: #eb4102; text-decoration: none;">The Listener,</a></em> the sister publication of <em>The Browser</em>, sends three excellent podcast episodes to subscribers every day. Get your first month free <a href="http://email.substack2.thebrowser.com/c/eJxFUMGugyAQ_Bo5GkBEPXB42tffMAJrS6pgYH2Nf__QHppsssnszszOmgnhEeKhtpCQ7Ani6KySFWW06YhVtpMzyIq4NM4RYJ3cojDuQLZdL85M6II_GaylgjxV1QkxT9xo2Yqma2AGbTnns6xZ3cy0JafNOO3WgTeg4A_iETyQRT0Rt1RUPwW_58InLC4heIilCRkwJ6iJU5xyShmXjFMm2pKV8rcbhv7WD9Vwu7e8LwRNu044mRcvs46O4Z0umZVEhWF9ZV7B--8oMx5nsGsl5xpzX3fv8BjBT3oBqwh-HnSdj8cGysM7LYAI8QPmH3BR1x0l2d2GrOfV1-IfOWF5Yg" style="color: #eb4102; text-decoration: none;">here</a>.</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFkMFyhCAMhp9GbjqIinrgUN1uH6AP4CDEXWYVLMRa3764e9iZzJCE_PnhUxLh5vwhVheQbAH8YLTgBc1p3RItdMsn4AUxYZg8wCLNLNBvQNZtnI2SaJw9FXlDS3IXrQbZTBOomo6sUVrpSteMVlxrWbB6IqfNIDdtwCoQ8Av-cBbILO6Ia0iKj4RdY-z7ns0mIFjrEEKm3BK7q9NKBgwxxTukHnQ6GwuxhNUEpyHlKXppg41Sb2T6101f3waG6ofHIWIEo4zSnPGc0bxssjzjn23fd5euL_rLtWFdUtKwjQGlerAsmoze7RHK-QDiBbrlEXUJ695XUXE7sTxHIpUhnstmDR4DWDnOoAXBF97n5_FYQVjYwwyI4F_NSJCVVdVSEt21i_useFv8A9-dkPM" style="color: #0a0a0a; text-decoration: none;">Buffer Zone</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Episode: &#8220;<a href="http://email.substack2.thebrowser.com/c/eJxFkMFyhCAMhp9GbjqIinrgUN1uH6AP4CDEXWYVLMRa3764e9iZzJCE_PnhUxLh5vwhVheQbAH8YLTgBc1p3RItdMsn4AUxYZg8wCLNLNBvQNZtnI2SaJw9FXlDS3IXrQbZTBOomo6sUVrpSteMVlxrWbB6IqfNIDdtwCoQ8Av-cBbILO6Ia0iKj4RdY-z7ns0mIFjrEEKm3BK7q9NKBgwxxTukHnQ6GwuxhNUEpyHlKXppg41Sb2T6101f3waG6ofHIWIEo4zSnPGc0bxssjzjn23fd5euL_rLtWFdUtKwjQGlerAsmoze7RHK-QDiBbrlEXUJ695XUXE7sTxHIpUhnstmDR4DWDnOoAXBF97n5_FYQVjYwwyI4F_NSJCVVdVSEt21i_useFv8A9-dkPM" style="color: #eb4102; text-decoration: none;">Transnistria</a>&#8221; | Podcast: <a href="http://email.substack2.thebrowser.com/c/eJxFUMuOwyAM_JpwjIA8Gg4cNun2NyIeboNKIAJnq_z9kvZQyZIl2zPjGaMQHjEdcosZyZ4hzc7KvqGMXgSx0or-Dn1DXJ7vCWBVzktMO5Bt194ZhS6GE8EG2pJFDsIIDp1ptGWUGc0MVYOxjWiNuRgryCkzq906CAYk_EE6YgDi5YK45ar5qfitFC6QwHoXoPZO5yPUJq5lTpzklFPKeM84Ze1Qs7r_FdM0Xsepma63gY9VS_OuMyrz5HUh0im-iq-TgSSJcX0WXMXH76ogHqez90kxNpe-7sHhMUNQ2oOVBD8Jvf_HYwMZ4JU9IEL6DEsIvO06QUlRt7HwBfmV-Ae8JXrf" style="color: #eb4102; text-decoration: none;">The Red Line</a> | 51m23s</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Roundtable discussion about Transnistria, a tiny strip of land on the border between Ukraine and Moldova. Described here as &#8220;the last remnant of the Soviet Union in Europe&#8221;, Transnistria is not recognised as a country by most of the world&#8217;s nations, yet mostly operates as one in practical terms, with a GDP, a system of government and trading partners. This strange geopolitical anomaly has ended up as a crucial counterweight and buffer zone in regional disputes, although one pessimistic speaker here says that generally &#8220;everybody loses except Moscow&#8221; (<a href="http://email.substack2.thebrowser.com/c/eJxFkMFyhCAMhp9GbjqIinrgUN1uH6AP4CDEXWYVLMRa3764e9iZzJCE_PnhUxLh5vwhVheQbAH8YLTgBc1p3RItdMsn4AUxYZg8wCLNLNBvQNZtnI2SaJw9FXlDS3IXrQbZTBOomo6sUVrpSteMVlxrWbB6IqfNIDdtwCoQ8Av-cBbILO6Ia0iKj4RdY-z7ns0mIFjrEEKm3BK7q9NKBgwxxTukHnQ6GwuxhNUEpyHlKXppg41Sb2T6101f3waG6ofHIWIEo4zSnPGc0bxssjzjn23fd5euL_rLtWFdUtKwjQGlerAsmoze7RHK-QDiBbrlEXUJ695XUXE7sTxHIpUhnstmDR4DWDnOoAXBF97n5_FYQVjYwwyI4F_NSJCVVdVSEt21i_useFv8A9-dkPM" style="color: #eb4102; text-decoration: none;">51m23s</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFkM1uwyAQhJ8m3GIB_ml84FA7zaGq2kvvFoZNjILBgqWW3744OURCAu0wO7ufkgg3Hzax-IgkRQiD0aIpKaNvLdFCt80VmpKYOFwDwCyNFRgSkCWN1iiJxrvdwU60IpMYlWa1VJQrRq8tbUupVK0lNNC2Wo0l2WMGmbQBp0DAH4TNOyBWTIhLPJTvB37JZ13XwpqI4JxHiIXyc64uXisZMeZnTAsENclwA70rweuk9mGOE1h7bMrvy88voPz6zCoxglNOKeMN45RVp4IVzUfb992568v-fDnx7lDRmMaIUt15gROMwa-Zxp5MgkA_37PvwLuXlB23ncfjS8Yx5HtOzuA2gJOjBS0IPrk-tsZtAeFgjRYQITyLGR2v6rqlJKdrn_s58Yr4B-hijog" style="color: #0a0a0a; text-decoration: none;">Vroom Vroom</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Episode: &#8220;<a href="http://email.substack2.thebrowser.com/c/eJxFkM1uwyAQhJ8m3GIB_ml84FA7zaGq2kvvFoZNjILBgqWW3744OURCAu0wO7ufkgg3Hzax-IgkRQiD0aIpKaNvLdFCt80VmpKYOFwDwCyNFRgSkCWN1iiJxrvdwU60IpMYlWa1VJQrRq8tbUupVK0lNNC2Wo0l2WMGmbQBp0DAH4TNOyBWTIhLPJTvB37JZ13XwpqI4JxHiIXyc64uXisZMeZnTAsENclwA70rweuk9mGOE1h7bMrvy88voPz6zCoxglNOKeMN45RVp4IVzUfb992568v-fDnx7lDRmMaIUt15gROMwa-Zxp5MgkA_37PvwLuXlB23ncfjS8Yx5HtOzuA2gJOjBS0IPrk-tsZtAeFgjRYQITyLGR2v6rqlJKdrn_s58Yr4B-hijog" style="color: #eb4102; text-decoration: none;">Production Hell</a>" | Podcast: <a href="http://email.substack2.thebrowser.com/c/eJxFUEGOgzAMfA05IhMIhUMOC91-A4XElKiQoMQs4vcb2kMlS5bGnhmPtSJ8-nDKzUdie8QwWCPrEgq4tcxI09YT1iWzcZgC4qrsIinsyLZ9XKxWZL27GEUDFZulVuUoGsFNa8TYihKENgoMTHDjBgWwy2ZQu7HoNEr8w3B6h2yRM9EWs_In449UelbhiSbO_si1XxPCrOTAAQpeFxyKqsmLvP5t-767d33Z3x8N77IK4j5GUvrFc5pxDP5IiS4FFiT59ZV4Ge--o8R4XpneKynSkPq6O0vngE6NCxrJ6POb9-V0bigdHnFBIgwfMMXnlRAtsORufNJz8mvxD0UheCI" style="color: #eb4102; text-decoration: none;">Supercharged</a> | 57m32s</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Instalment from a six part series about Tesla, Elon Musk&#8217;s headline-grabbing venture best known for its electric cars. This episode focuses on the production problems that have plagued the company since the launch of its more family friendly, affordable car &#8212; the Model 3 &#8212; in 2016. It was incredibly popular right from the start, but Tesla has struggled to make enough cars to keep pace with demand. This problem has caused knock on financial problems for the company and dented its cool reputation. This well-made series is a little too deferential to Musk, I think, but still very informative (<a href="http://email.substack2.thebrowser.com/c/eJxFkM1uwyAQhJ8m3GIB_ml84FA7zaGq2kvvFoZNjILBgqWW3744OURCAu0wO7ufkgg3Hzax-IgkRQiD0aIpKaNvLdFCt80VmpKYOFwDwCyNFRgSkCWN1iiJxrvdwU60IpMYlWa1VJQrRq8tbUupVK0lNNC2Wo0l2WMGmbQBp0DAH4TNOyBWTIhLPJTvB37JZ13XwpqI4JxHiIXyc64uXisZMeZnTAsENclwA70rweuk9mGOE1h7bMrvy88voPz6zCoxglNOKeMN45RVp4IVzUfb992568v-fDnx7lDRmMaIUt15gROMwa-Zxp5MgkA_37PvwLuXlB23ncfjS8Yx5HtOzuA2gJOjBS0IPrk-tsZtAeFgjRYQITyLGR2v6rqlJKdrn_s58Yr4B-hijog" style="color: #eb4102; text-decoration: none;">57m32s</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFkE9vhCAQxT-N3DSArn8OHFa3e-ul6aE9GZRRySoYGGv99sXdQxMSyBvevJlfLxFG6w6xWo9k8-BarUSeUkaLiiihqnyAPCXat4MDWKSeBboNyLp1s-4lamtOBytpRiYBDEAWvC-zC2SKZyxVAxSsKEKbvM8YOWNauSkNpgcBP-AOa4DMYkJcfZReI34PZ9_3ZNYewRiL4JPeLkFdreqlRx-eyxEvYfS4s9s4YSyDNIIdhnie7aHi8lr9fn18vn_LNlSIFpxyShnPGacsKxOW5G9V09S3ukmb273kdZRRv3UeZf_gCU7QObsHGmcycQLt8gi-iNf_peAYTx7PLwFHG-5lMxqPFozsZlCC4Ivrc2s8VhAGdj8DIriXGNDx7HKpKAnpyoZ-RvxH_AFXZI0Q" style="color: #0a0a0a; text-decoration: none;">Order History</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Episode: &#8220;<a href="http://email.substack2.thebrowser.com/c/eJxFkE9vhCAQxT-N3DSArn8OHFa3e-ul6aE9GZRRySoYGGv99sXdQxMSyBvevJlfLxFG6w6xWo9k8-BarUSeUkaLiiihqnyAPCXat4MDWKSeBboNyLp1s-4lamtOBytpRiYBDEAWvC-zC2SKZyxVAxSsKEKbvM8YOWNauSkNpgcBP-AOa4DMYkJcfZReI34PZ9_3ZNYewRiL4JPeLkFdreqlRx-eyxEvYfS4s9s4YSyDNIIdhnie7aHi8lr9fn18vn_LNlSIFpxyShnPGacsKxOW5G9V09S3ukmb273kdZRRv3UeZf_gCU7QObsHGmcycQLt8gi-iNf_peAYTx7PLwFHG-5lMxqPFozsZlCC4Ivrc2s8VhAGdj8DIriXGNDx7HKpKAnpyoZ-RvxH_AFXZI0Q" style="color: #eb4102; text-decoration: none;">Geoff Lloyd</a>" | Podcast: <a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_BpyRE54FA45LLT9DRQSp40KCUrMVvz9hu6hki3Lj_F4rBXhI8RDbiER2xPGyRnZVsDh0jMjTd9abCvm0mQj4qrcIinuyLZ9XpxW5II_EbyDmj2l5pZbbQF6U8_CVoC2udQamq5v1NwIdtJMajcOvUaJvxiP4JEt8km0paL6KcQ927aoo1RaJSp1WHMhZaeQc4zMSQECgIuWC-B1V_KyvfXjOFyHsRqv904MRQ1pnxMp_RIlPXGO4Z21nctYlBTWV8YVYvi2MuJxqvuMZHFTjuvuHR0TejUvaCSj_y99NNCxofT4TgvSedSnmB8h6qbpgWV2E_I-L78UfxPle5w" style="color: #eb4102; text-decoration: none;">My Mate Bought A Toaster</a> | 48m01s</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Interview podcast that uses guests&#8217; Amazon order histories to access who they are. This episode features Geoff Lloyd, a UK radio DJ and self-confessed socially awkward person. Lloyd first bought something from Amazon in 2003, and is mostly endearingly baffled by the items that show up in his list. He also confesses to the bad habit of &#8220;trying to impose my taste on other people&#8221; by buying them films or books he recommends and shipping them straight to their address. Plus, this is the first time on the show that someone has, in fact, bought the eponymous toaster (<a href="http://email.substack2.thebrowser.com/c/eJxFkE9vhCAQxT-N3DSArn8OHFa3e-ul6aE9GZRRySoYGGv99sXdQxMSyBvevJlfLxFG6w6xWo9k8-BarUSeUkaLiiihqnyAPCXat4MDWKSeBboNyLp1s-4lamtOBytpRiYBDEAWvC-zC2SKZyxVAxSsKEKbvM8YOWNauSkNpgcBP-AOa4DMYkJcfZReI34PZ9_3ZNYewRiL4JPeLkFdreqlRx-eyxEvYfS4s9s4YSyDNIIdhnie7aHi8lr9fn18vn_LNlSIFpxyShnPGacsKxOW5G9V09S3ukmb273kdZRRv3UeZf_gCU7QObsHGmcycQLt8gi-iNf_peAYTx7PLwFHG-5lMxqPFozsZlCC4Ivrc2s8VhAGdj8DIriXGNDx7HKpKAnpyoZ-RvxH_AFXZI0Q" style="color: #eb4102; text-decoration: none;">48m01s</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFkMFuhCAURb9Gdhpg0NEFi47Tabtq_8AgPkcyCAaeNf59cWbRhARyuffdl6MVwt2HXS4-IlkjhM4MsjpRRs8NGeTQVCNUJ2JiNwaAWRkrMaxAlrW3Ris03h0JVlNBJln3gpWiEYM496xhYzWOFFSlKWhVQqXIUdOpdTDgNEj4hbB7B8TKCXGJ2ekt47d0tm0rrIkIznmEWGg_J3Xxg1YRY3riBPk9gBvB2hz9BiGJjPF8mVSEnOUBFh8wH63CnAme_3x9mo9vobtmSU5iJKecUsYrxikTdcGK6r1p28v10p7a663ml0zQuPYRlX7wIvX1wW-Jz7ELCRL9_Ei5jF_-v1LifhB6WhKgLt3z6gzuHTjVWxgkwRfpJwfcF5AOtmgBEcJLTDC5KMuGktQ--DTPyf-KPzQNkqw" style="color: #0a0a0a; text-decoration: none;">Fire Fighting</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Episode: &#8220;<a href="http://email.substack2.thebrowser.com/c/eJxFkMFuhCAURb9Gdhpg0NEFi47Tabtq_8AgPkcyCAaeNf59cWbRhARyuffdl6MVwt2HXS4-IlkjhM4MsjpRRs8NGeTQVCNUJ2JiNwaAWRkrMaxAlrW3Ris03h0JVlNBJln3gpWiEYM496xhYzWOFFSlKWhVQqXIUdOpdTDgNEj4hbB7B8TKCXGJ2ekt47d0tm0rrIkIznmEWGg_J3Xxg1YRY3riBPk9gBvB2hz9BiGJjPF8mVSEnOUBFh8wH63CnAme_3x9mo9vobtmSU5iJKecUsYrxikTdcGK6r1p28v10p7a663ml0zQuPYRlX7wIvX1wW-Jz7ELCRL9_Ei5jF_-v1LifhB6WhKgLt3z6gzuHTjVWxgkwRfpJwfcF5AOtmgBEcJLTDC5KMuGktQ--DTPyf-KPzQNkqw" style="color: #eb4102; text-decoration: none;">112 Phase 1 Report: Flat 142</a>&#8221; | Podcast: <a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_BpyRImhAQ45LHT7GygPt40KBCVmEX-_oT1UsmSN7ZnR2GrCR4iHWkMitiWMo3dKVlzwpmNOuU7eUVbMp_EeEWftJ0VxQ7ZuZvJWkw_LyRAtr9lTQWUAO1GBcVxCbS1ArV0lGt4I29w5O21GvTmPi0WFfxiPsCCb1JNoTUX1U8At177vpTG2tKHcXhmvMTyinmdMJ-BSRtcR8wo4cC5ACuCibktRyt9uGPprP1TD9dZCX9Q8bSaRti8o6Ykmhj2HzMIzi4rC_Mq8AvrvKjMeZ8z3SU455j5vi6djxEWbCZ1i9HnXOwwdK6oF9zQhEcbPMH8E6sul4yy7u5D1FvW1-AeEAn24" style="color: #eb4102; text-decoration: none;">The Grenfell Tower Inquiry with Eddie Mair</a> | 24m46s</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Podcast following the major inquiry into the Grenfell Tower fire in 2017, a disaster in which 72 people were killed when flames engulfed the 24 storey west London tower block. This show publishes every day that the inquiry sits, as well as providing intermittent analysis of its reports as they are produced. Here, the reporters use the tragic story of the family in Flat 142 to explain how both central command and the firefighters on the ground failed residents. Tough listening, but I think this is a vital and worthwhile project that makes a huge public inquiry accessible (<a href="http://email.substack2.thebrowser.com/c/eJxFkMFuhCAURb9Gdhpg0NEFi47Tabtq_8AgPkcyCAaeNf59cWbRhARyuffdl6MVwt2HXS4-IlkjhM4MsjpRRs8NGeTQVCNUJ2JiNwaAWRkrMaxAlrW3Ris03h0JVlNBJln3gpWiEYM496xhYzWOFFSlKWhVQqXIUdOpdTDgNEj4hbB7B8TKCXGJ2ekt47d0tm0rrIkIznmEWGg_J3Xxg1YRY3riBPk9gBvB2hz9BiGJjPF8mVSEnOUBFh8wH63CnAme_3x9mo9vobtmSU5iJKecUsYrxikTdcGK6r1p28v10p7a663ml0zQuPYRlX7wIvX1wW-Jz7ELCRL9_Ei5jF_-v1LifhB6WhKgLt3z6gzuHTjVWxgkwRfpJwfcF5AOtmgBEcJLTDC5KMuGktQ--DTPyf-KPzQNkqw" style="color: #eb4102; text-decoration: none;">24m46s</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;"><a href="http://email.substack2.thebrowser.com/c/eJxFkE1vgzAMhn8NuYGSQPk45FDoep-0w7QLCokpUSFBiRnqfv1Ce6hkyZbj16_zKIlwc_4hVheQbAF8b7Qoc8po1RAtdFOOUObEhH70AIs0s0C_AVm3YTZKonH2ULCaFmQScsylbpRqqJJjNRScjbKQVV2NTTUqqclh08tNG7AKBPyCfzgLZBYT4hqS_Jzwa4x937PZBARrHULIlFtid3VayYAhlqwuTzHhBGkAK9H5kGq53SYEnxYpnH_Wr8_vvy7ncYoYwSmnlPGSccqKOmNZ-dF0XXtpu7y7XGveJgUN2xBQqjvP4trBuz3SOJyJF-iWe9QlvH0_RcXt4PEciTj6mJfNGnz08aJhBi0Ivrg-f42PFYSFPcyA8cpXM6LjxenUUBLdtYv7rHhb_AMH5I1o" style="color: #0a0a0a; text-decoration: none;">Murder Mystery</a></h3><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Episode: &#8220;<a href="http://email.substack2.thebrowser.com/c/eJxFkE1vgzAMhn8NuYGSQPk45FDoep-0w7QLCokpUSFBiRnqfv1Ce6hkyZbj16_zKIlwc_4hVheQbAF8b7Qoc8po1RAtdFOOUObEhH70AIs0s0C_AVm3YTZKonH2ULCaFmQScsylbpRqqJJjNRScjbKQVV2NTTUqqclh08tNG7AKBPyCfzgLZBYT4hqS_Jzwa4x937PZBARrHULIlFtid3VayYAhlqwuTzHhBGkAK9H5kGq53SYEnxYpnH_Wr8_vvy7ncYoYwSmnlPGSccqKOmNZ-dF0XXtpu7y7XGveJgUN2xBQqjvP4trBuz3SOJyJF-iWe9QlvH0_RcXt4PEciTj6mJfNGnz08aJhBi0Ivrg-f42PFYSFPcyA8cpXM6LjxenUUBLdtYv7rHhb_AMH5I1o" style="color: #eb4102; text-decoration: none;">The Senator&#8217;s Daughter</a>" | Podcast: <a href="http://email.substack2.thebrowser.com/c/eJxFUMuOgzAM_BpyrJIAKRxyWOj2N1BCTIkKCUrMVvz9mvZQydLIj5nReDQIj5gOvcWMbM-QBu-0Krng15Y57Vo1gSqZz8OUAFbjF41pB7btdvGjQR_DyRANr9isbT1OxjXCNoarmgO_OmUr6k0JtYWJnTaD2Z2HMIKGP0hHDMAWPSNuuSh_CnmnesXgaHUZ40pdnuMrE4pG1QTMa8kl50IqIbmomou4qN-277tb15f97d7Irqh43m1GMz7lBWewiSQgnYIsaYzrk3iF7L4rYjzOeO8TSjcQrnvweAwQjF3AaYafN71D4LGBDvDKCyBC-gzpE7Kq65YzcneR9IL-WvwDWQN7bw" style="color: #eb4102; text-decoration: none;">1865</a> | 30m37s</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Drama set in 1865 around the assassination of Abraham Lincoln. The series as a whole follows Secretary of War Edwin Stanton as he organises the manhunt for Lincoln&#8217;s killer while also trying to preserve his former boss&#8217;s political legacy in the face of great opposition from new president Andrew Jackson. The whole thing is well worth a listen, being well acted and appropriately scored with epic orchestral music. I like this episode in particular, in which Stanton unravels John Wilkes Booth&#8217;s political connections, including with DC society belle Lucy Hale, who was also involved with Lincoln&#8217;s son Robert (<a href="http://email.substack2.thebrowser.com/c/eJxFkE1vgzAMhn8NuYGSQPk45FDoep-0w7QLCokpUSFBiRnqfv1Ce6hkyZbj16_zKIlwc_4hVheQbAF8b7Qoc8po1RAtdFOOUObEhH70AIs0s0C_AVm3YTZKonH2ULCaFmQScsylbpRqqJJjNRScjbKQVV2NTTUqqclh08tNG7AKBPyCfzgLZBYT4hqS_Jzwa4x937PZBARrHULIlFtid3VayYAhlqwuTzHhBGkAK9H5kGq53SYEnxYpnH_Wr8_vvy7ncYoYwSmnlPGSccqKOmNZ-dF0XXtpu7y7XGveJgUN2xBQqjvP4trBuz3SOJyJF-iWe9QlvH0_RcXt4PEciTj6mJfNGnz08aJhBi0Ivrg-f42PFYSFPcyA8cpXM6LjxenUUBLdtYv7rHhb_AMH5I1o" style="color: #eb4102; text-decoration: none;">30m37s</a>)</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"><strong>Bonus Pick: </strong>a new podcast from the Browser, <em><a href="http://email.substack2.thebrowser.com/c/eJxFUMGugyAQ_Bo5GkBFPHB42tffMAhrJVUwsL7Gv3_YHppsssnszszOGo3wCPFUe0hIjgRxdFaJijLadsQq24kZREVcGucIsGm3KowHkP2YVmc0uuAvBpO0Jouy0kjgrWW86zQIOc8VUArCNjVw2zJy2Yz6sA68AQV_EM_ggaxqQdyL6qfg91yoE0K5uimdvjRhyxBxilNOKeOCccpqWbJS_HbD0N_6oRpud8n7oqbpmBJq8-QlLjDF8MqJLgUSFYbtmXkF77-jzHhcmd4rOdKY-3Z4h-cIXk8rWEXw85v35XjuoDy80gqIED9gjs_rpukoye42ZD2vvhb_Rph4HQ" style="color: #eb4102; text-decoration: none;">Taste</a></em>, is out now. In the first episode, Browser Publisher Uri Bram interviews Browser Editor Robert Cottrell about taste when it comes to reading and writing.</p><div style="font-size: 16px; line-height: 26px;"><hr style="background: #f6eddf; border: none; height: 1px; margin: 30px 0; padding: 0;"></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Get all The Browser&#8217;s audio recommendations as an RSS feed by copying this link and adding it to your podcast app:</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">https://www.listennotes.com/listen/the-audio-browser-E9ASg_xhnky/rss/</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0;">Further instructions <a href="http://email.substack2.thebrowser.com/c/eJxVkE2OgzAMhU9DdkX5AQqLLAY6vQYKiaFRIUGJmYrbT6AjVSMlG9vP33vWCmHyYZerj0i2CKG3RlaCMnptiJGmqUaoBLGxHwPAouwsMWxA1m2YrVZovTsUrKYFecim4kqYUg31SEUDdcEE1HoUTBTX8ko1OTC92owFp0HCD4TdOyCzfCCuMRNfGb-nhw8Ygn8lO7n2Syqs6U-AaN10-evEy7HHXwKkkQWcOc1EYiWnnFLGK8YpK-qc5dV303Xtre1Ed7vXvM0KGrchotJPnv9nkSDRL8-ky3j7aSXFdIQ_R1L2_mBuzuLeg1PDDEYSfB_xjIj7CtLBK87JNIR3Md2JF2XZUJLoxqd9Tn4Qv69gh7I" style="color: #eb4102; text-decoration: none;">here</a>.</p></div></div><table cellpadding="0" cellspacing="0" class="post-meta big  custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 16px; font-weight: 400; height: 30px; line-height: 30px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 16px; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVkk2TojAQhn8N3MYKAREOOfChu7rK1Mw66p6sEJohKyQWSUbx128YnZraqpye9Nv99gejGt5lP5CzVNo1Cvojr0joIw_NYrciVRzWEPouV8e6B-gob4nuDbhnU7acUc2lGBVehAK3ITPfx3XNaDQNGWJTPKs88GgUx3WNIy-wMlvmSE3FQTAg8AH9IAW4LWm0PivHTxy8sE83UPbyYu1MmOwsON_hU8uVBgH9E4t9x19oeQLh-DkMK4_h3XDA7Wn5V-LNLblucjZdZ6tL6RfowYcif_Oet4ladm1TZctws30LNnmCNvn8UvALp4fiZuM4-7nj6-3c_r1wm-NW7Zf8md9zrQ-r9s--QHQfm6VAExGnv2bR6_VjbdROlbS4_ljtk_TSvMzbxSLiK2Z-H9RBiCRycGh0d1TS9AysbWVKpSk7PXgHFTfd2M445wdkUtiO9Rjd0B4spWyc-hdwOcEII-Th0MPIC6KJNwnncZaleZr5Wb6IcOoE6KsUnvw_W7cnWnYnq3Nw-v1lFe-jic8Qu2tro-uM4Ho4gqBlCxVx9f1oPleqhzMQARfVgtbQ36G9CxxMpzFybfVK2nyCfJf4Bynz13U" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_60,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D30%26stroke%3D%2523999999" width="16.5" height="30" style="border: none !important; float: left; height: 30px; max-width: 16.5px; width: auto;" alt=""></a></span></td></tr></table><div class="container-border" style="border-top: 1px solid #f6eddf; box-sizing: border-box; font-size: 16px; line-height: 26px; margin: 32px 0 0; width: 100%;"></div><div class="post-cta" style="font-size: 16px; line-height: 26px; margin: 24px 0 40px;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; margin-top: 0;"><span>You&#8217;re on the free list for <a href="http://email.substack2.thebrowser.com/c/eJxVUMmOwyAM_ZpwjFiyHjhM0vY3IgKmRU0gAmeq_P2Q9lCNZMmS7bdZK4R7iIfcQkKyJ4iTM7IRlNG2J0aavrHQCOLSZCPAqtwiMe5Atn1enFbogj8RrKMVeUjbmrazvKmprkWndG8Za5U1LVMzFUaRU2ZSu3HgNUj4hXgED2SRD8QtFeKn4Ldc-IA5hle2U-qw5gFxklNOKeMN45RVXcnK5tqP43AZRjFebh0fioqmfU6o9JOX_xlIlBjWZ8YVfPiuMuJ-Rnqf5ERT7uvuHR4TeDUvYCTBz2vexvHYQHp4pQUQIX6GOT2v6rqnJKubkPm8_Er8AQ8deBQ" style="color: #eb4102; text-decoration: none;">The Browser</a>. For the full experience, <a href="http://email.substack2.thebrowser.com/c/eJxVUs1uozAYfBq4NTKGEDj4kECyS1qoNkqbtJfIfwEnYCNjlpCnr2m7qlbyaeyZ8cz3UWx4qfSIWtUZt--4PgmGQh94YBG7DLE4PPPQd0V3OmvOGyxqZHTP3bYntaDYCCUnhheBwK3QIiAxXZyDKCA4CjAD_BwH5LwAMYnmEYncyeaEeya4pBzxv1yPSnK3RpUxbef4Swdu7DEVJ1oN9jszqhoLdD3pqBaEO_7GqCuXjp_ycetR-DoeYX3NLgrm9-UtT-n8KdlK_Cu-s3Xck99X8Sx3Izu8dFlTVyzJwnz_EuTpEuTpeijEIN6P1WD5t2JfjsUlH_P9ElqNlvq5eBbbgR0yk-_LoUiyLpOF9yayMGsK9X4oNPFfQSbBbMnwLi8PV9kHWraku8__PK2jxzfzuJH4Fh8f1N087PLq0pYODHvTnDrVa2rjpFM0g-n1G284E30zxZvK_gapkoZLY9GpQGqwKxAEEAAPhh4EXhDNvFm4jpNkla4SP0k3EVw5AfinDWf_N-pqZFRztTwHrn6uLKOcXD-f2Alb36bppTDjiUtMas6Qa75W5XOQZmw5knzoam4M11-g3QYYzOcxcK07U1ZPoh-LD_gu1vU" style="color: #eb4102; text-decoration: none;">become a paying subscriber.</a></span></p><p class="cta-box" style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUs1uozAYfBq4NTKGEDj4kECyS1qoNkqbtJfIfwEnYCNjlpCnr2m7qlbyaeyZ8cz3UWx4qfSIWtUZt--4PgmGQh94YBG7DLE4PPPQd0V3OmvOGyxqZHTP3bYntaDYCCUnhheBwK3QIiAxXZyDKCA4CjAD_BwH5LwAMYnmEYncyeaEeya4pBzxv1yPSnK3RpUxbef4Swdu7DEVJ1oN9jszqhoLdD3pqBaEO_7GqCuXjp_ycetR-DoeYX3NLgrm9-UtT-n8KdlK_Cu-s3Xck99X8Sx3Izu8dFlTVyzJwnz_EuTpEuTpeijEIN6P1WD5t2JfjsUlH_P9ElqNlvq5eBbbgR0yk-_LoUiyLpOF9yayMGsK9X4oNPFfQSbBbMnwLi8PV9kHWraku8__PK2jxzfzuJH4Fh8f1N087PLq0pYODHvTnDrVa2rjpFM0g-n1G284E30zxZvK_gapkoZLY9GpQGqwKxAEEAAPhh4EXhDNvFm4jpNkla4SP0k3EVw5AfinDWf_N-pqZFRztTwHrn6uLKOcXD-f2Alb36bppTDjiUtMas6Qa75W5XOQZmw5knzoam4M11-g3QYYzOcxcK07U1ZPoh-LD_gu1vU" class="button primary" style="-moz-box-sizing: content-box; -webkit-box-sizing: content-box; background-color: #f90; border: 0 solid #f90; border-radius: 4px; border-width: 13px 20px 13px 18px; box-sizing: content-box; color: #fff; cursor: pointer; display: inline-block; font-family: Lato,sans-serif; font-size: 17px; font-style: normal; font-weight: 300; height: 24px; line-height: 24px; margin: 0; opacity: 1; outline: 0; padding: 0; text-decoration: none !important; vertical-align: middle;">Subscribe</a></p></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Robert Cottrell, Editor<br>Caroline Crampton, Audio Editor<br>Uri Bram, CEO [<a href="mailto:uri@thebrowser.com" style="color: #eb4102; text-decoration: none;">uri@thebrowser.com</a>]</p><div class="footer" style="background: #f8f8f8 !important; color: #bcbcbc; font-size: 16px; line-height: 26px; padding: 32px; text-align: center;"><p class="small" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 30px;">&#169; 2020 <span>The Browser</span> <a href="http://email.substack2.thebrowser.com/c/eJxVUU1vozAU_DX41sg2xIGDD3xWpG2qHjYpuSBsTOJAMMVmU_Lr16SHaiVLfprnefM8wysjTmqc6aC0AZMWYylrSlyI4CYANa0D0gjiAqnLZhTiWsmOmnESYJhYJ3llpOoXBvKhB850A2viQ-IhxAleNx4jEDcQMq_hG8Y4AYtMWU21FD0XVPwV46x6ATp6NmbQjhs6OLPHnAUb1c2us-LqaoGKL0q2qKWuWCfKxyqOmw2q5pU2jps4mBjVit6WYt4ijvfzJ-7a_KLw2z38fkv4-jXeDsXnh3y_pOg9CW-7ZMELnV-7O59zkvcRKiT8tj2Yy5vk7l5avjw-d_fisNXHfdCxQzaweBustixKLztySuU9bUL1HIXF8c_hdcri3b2Nn55ebl9Q-vpjV_tAUgwxhAgThCHy_BVakTSI4yiJYjdOMh9Hjgf1xLSpeItX__8fjNSoa2t5Do5-W5ZxWlx4PLF5lPa-Tr00cyn6xaSaAvMT7MN2Mw-C9uKmO2GMGH9Amx321usAAqteKzuvp78S_wBHtrc-" style="color: #bcbcbc; text-decoration: none;"><span style="color: #bcbcbc; text-decoration: underline;">Unsubscribe</span></a><br>Suite 25, 19-21 Crawford Street, London W1H 1PJ</p><p class="small powered-by-substack" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFkMGSgyAQRL9GjhagknjgsOrmNyzEMaEiYMGwKf9-0d1UqrjQTM9rWiuEuw-73HxEkiKE0cxSVJTRS0tmObdiAVERE8clAFhlVokhAdnStBqt0Hh3ONiV1uQhRaObi5hmtjChlIBWs7pVgnMKleZakQMzqjQbcBok_EDYvQOyygfiFovqq-C3fGKaIir9LLW3-aomn7CobgntGH0KGopqeM8UXBy6hdkkm_Uz5L-ovUNw2Tos3iMEYiSnnFLGBeOU1deSleK77ftu6PqqH25X3hU1fa_mJT5gCv6VezmikCDR22f2Fbz7PGXH_YCeI7mYjLU2OYP7CE5NK8yS4F_D5_9x30A6eMUV8Ah1irlEXjdNS0mmzz7vc_KD-AXZwZHA" style="color: #bcbcbc; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_340,c_limit,f_auto,q_auto:good/https%3A%2F%2Fsubstack.com%2Fimg%2Fpublish-on-substack.png" width="170" style="border: none !important; margin-top: 3px; max-width: 550px;"></a></p></div></div></td><td></td></tr></table><img width="1px" height="1px" alt="" src="http://email.substack2.thebrowser.com/o/eJxFj82SgyAQhJ8mHC0YEfTARbP7GhbCJKGiYPGzKd9-MTnkNFUz3dNfG53xHuKh9pAyKQnj7KwSLWVUDsQqO4gbipa4NN8i4qbdqnIsSPayrM7o7II_HaynnDyU5Fx0AFRgz5nUXd8xcRPctJKDlDCQM2bWxTr0BhX-YTyCR-IUUKCUgWBAGe8b1oifYZrG6zi10_W3h_HCaSpLyto8ockPXGJ4VdzGhI1ElcP2rL4LjN9TddxP4Lek8s51bsW7fMzo9bKiVSR_ir-x8rGj8vhKK-aM8bOs3YB33UBJTbeh_vPqG_EPoG1rIw"></body></html>]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <title>Seven Wonders Of The Week</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=16fc8480e679e056</guid>
+            <description>Seven Wonders Of The Week</description>
+            <pubDate>Tue, 21 Jan 2020 07:25:51 CST</pubDate>
+            <content:encoded>
+                <![CDATA[<html><head><title>Seven Wonders Of The Week</title><style>
+@media screen and (max-width:480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  .share-button-container {
+    height: 38px;
+  }
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  .post .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post .markup a.spotify-wrap,.post .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+  .post-preview>.post-preview-image {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (max-width:370px) {
+  table.post-meta tr td.post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  body .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .markup a.spotify-wrap,body .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 6px;
+  }
+}
+
+
+@media screen and (max-width:420px) {
+  body .subscription-receipt table .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width:480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  table.thread-head .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .footer {
+    outline: #f8f8f8 solid 8px !important;
+  }
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+  table.thread-head .markup a.spotify-wrap,table.thread-head .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+    min-width: 112px;
+  }
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+</style></head><body style="color: #505050; font-family: helvetica; font-kerning: auto;"><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">Things we noticed while reading for The Browser</div><table width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><table width="100%" border="0" cellSpacing="0" cellPadding="0" class="header graphic-header" style="padding: 15px 0;"><tr><td style="text-align: center;"></td><td align="center" style="text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUdmO4jAQ_Jr4LchHQsKDH4DAbFgS9uB8inJ0Bg_BRrGzIXz9mmGl0UpuWaqurmp1lbmBd9UO_Ka0QZ2GNhMVHzNMcDBBFa8m4xrGDAmd1S3ANRcNN20H6NYVjShzI5R8TpAQe-jMC8bKvKbEqykt6rAIQwIBpaFf4ZAEdYmeNlneVQJkCRz-QDsoCajhZ2Nu2mFThy7tM2coWtXbdUalulrgZktbunR7JStotatq17LcHuDigs8ctjTqAtJhEQwrUtL9cKTNJf5QNHlM70lU-uv5qi9Yiv_hQxLFfrpd6PjanKt5PE62O7bZnu7JY4HT373Ij-nD8kT5bS_W24WXRD-F1XhUh1hsxEtrfVw1p0OK88OkiyUehWbhnYvv8-VHv3CNF-y6IJsCi-5vzX7jv-XBab0O0h-_hN4hwSmmGBNKCKO-T0ZkFC3HXhTNZssgmEzDGXU8rLtCm7y80NH_R0EtN-p6IV7o0NlXy068P1P6pNiQMvtfOynMkIHMiwYqjswr7c8szHADLqHXDRgD7Qu0gdrVJj5B1r1SVk_yL4u_z9u9Qw"><img width="550" src="https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2c61b63-fd58-48ce-a4c9-c60e4876990e_800x160" class="header-image" style="border: none !important; display: block; height: auto; margin: 0 auto; max-width: 550px; width: 100%;"></a></td><td style="text-align: center;"></td></tr></table><div class="post-header " style="font-size: 16px; line-height: 26px;"><h3 class="subtitle" style="color: #757575; font-family: Bitter,Georgia,serif; font-size: 19px; font-weight: 400; line-height: 1.16em; margin: 4px 0 0;">Things we noticed while reading for The Browser</h3><table cellpadding="0" cellspacing="0" class="post-meta   custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item post-date" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; padding: 7px 12px 7px 0; position: relative; text-decoration: none; text-transform: none; vertical-align: middle;">Jan 21</td><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 15px; font-weight: 400; height: 20px; line-height: 20px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 0; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVUsuSmzAQ_Bq44RLiZQ462Mbe4Bg2m_h5ooQYL1qD5AIRjL8-Yu2trVRJl1bPdGt6GFXwLpuBXGWrzK6FJuMF8R1koyA0C1KE_hl8x-Rtdm4AasoropoOzGuXV5xRxaUYK-wpcs2ShNjBvkc9D86AfG-KzgwzF7vU9V0nZ745ymS0KzgIBgT-QjNIAWZFSqWureHMDLzSR5WQN7LXdiZM1hq46ttqurB6KQpoWkueLc2yeoCLBZ5jOCslLyAMJ4JhbTO8H464usQfEif32S2JmLdZrPvcSdETH5Io9tLtso3rqiwWsZ9sd87r9nRL7kuU_uk5PaZ3zePsx55vtks3id647nEvDjF_5Y9em-O6Oh1SRA9hFws0maqlW-Y_F6uPfmkpN9h1QTYDJ7q9VPtX74UGp80mSH_95u3OwH6n6qyVXcNA2267vFWUXZ54DQXv6vE749CfIJNCgVAju6QNaJSyMYIvwOQEI4yQjW3bwZ5nT-xJtPLdKJrPV0EQzqZzbLjoSwpP_h-02RAl64vtTg08_37SFe-jiU-KDl7bqOtOcDVkIGheQUFM9digz3zVcAUioG8rUAqaB6iXRFsLPdvU6oXU_QT5lvgH4hbavQ" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_40,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D20%26stroke%3D%2523999999" width="11" height="20" style="border: none !important; float: left; height: 20px; max-width: 11px; width: auto;" alt=""></a></span></td></tr></table></div><div class="post" style="font-size: 16px; line-height: 26px; padding: 9px 0;"><div class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 12px; word-break: break-word;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-top: 0;">Migraine was <a href="http://email.substack2.thebrowser.com/c/eJxFUEmugzAMPQ3ZfUQCYVhkUVT1GiiDU6ICQYlTxO1_aBeVLNny8AZrifD04RS7j0hShDA5I9q6olU3ECPM0Fpoa-LiZAPAKt0iMCQge1KL0xKd364L2lcNmYVqKee65bbjqh6sksoOjTW0kf0gqdbkoplkMg42DQLeEE6_AVnEjLjHor4V7JHjOI5ydhGzMvRGnqX2a27LoGf3hlxZkJjCVa0uiz7_ZpCGOMEqVlWUUVozzmlJy_ujbe73cXx03XDrR1Y0VUwqotQvVuIMKvgjA1wEJAj064s2fcHG3yhfPC_fn5Vse8p5TZvDc4JNqgWMIPj938cdnjuIDY64ACKEbzO_KEsbOCWZ3fiMt4kfxT-K7IYM" style="color: #eb4102; text-decoration: none;">first diagnosed in 200 AD by Galen</a>, who called it <em>hemicrania,</em> &#8220;a pain affecting half the head&#8221;</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Chinese crooks are cornering markets in pigs and pork by <a href="http://email.substack2.thebrowser.com/c/eJxFUdGOgyAQ_JrypgFEqw881DT9DYOwKjkEA3jGv7-1vaQJySzLDDsMWmWYQzzlFlIme4I4WCObijJ674iRpmsmaCpi0zBFgFVZJ3PcgWz76KxW2QZ_KVhLBVkkn7jQnTACQDRdyw0dhVaT1nXTibbh5BozqN1Y8Bok_EI8gwfi5JLzlm7V48ZfuI7jKJNet1KHFbcejoSgF-sV4haczVZfLRWxcIBVRQVnnP_TIEGho11R4IpZ-TkVaYugjPVzoaaI1n2RDiQW0-WimELUQKzklFPKOGMVr2tWsvL5asTz2fev-717tD2_CZr2MWWlf3iZFxhjODC2yymJMof1h4n2xvvvESrmK7g3BXMbENfd23wO4NXowEiSPx_wjiefG8jryQ5yhvhpYsZorasZwekm4H1efkf8Afqzm3Q" style="color: #eb4102; text-decoration: none;">using drones to spread swine fever</a> </p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Each year, about 15% of queries on Google have <a href="http://email.substack2.thebrowser.com/c/eJxFkN3OgyAMhq9GzjSAf_OAg5llt2FQqiNTMFBmvPuvbgdf0qQ_tH3LM2mExYdT7T4iSxHCYI1qSi542zGjTNfM0JTMxmEOAJu2q8KQgO1pXO2k0Xp3TYgbr9hLQVNNtWhnXdV12UnQbd2UsoV2HGHknWaXzKCTseAmUPCBcHoHbFUvxD1m5T2TT7LjOIrFf4r0poQCCG4Dh5Q4OCK5adP5ameMOb6AIpN7lxu7WNRrvljtMDKrJJecCylEKetaFKJ4PJvq8ej7Z9t291svs4rHNEbU01sWtGkM_iAGxeQ3FhT67S2qWyb7_yeaWC4K3xaCMJDfkrN4DuD0uIJRDH80v3_Fcwd1Hb0CIoRfkYDRaV0tGKkbT_uc-pf4AyOQii0" style="color: #eb4102; text-decoration: none;">never been searched for before</a></p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">The <a href="http://email.substack2.thebrowser.com/c/eJxNUttu2zAM_RrrzYYuvj7owWmWocA6FPsBQbaYRKgtGbrMyN-PTgt0gEAKFA_PIalZJ7j58JCbj4nkCEFZI1tBGe0GYqQZ2iu0gtiorgFg1XaRKWQgW54WO-tkvTsQrKc1uctmMhO_DrRve9pTaHvWiHqaDRjeiK4T5KBROhsLbgYJfyE8vAOyyHtKWyzEWPALnn3fqw32qw95rXy4YYhTNqBj_DAtmnSH0tibTXopt7xsNpW6dE9FuzVQaqeXR7Sx9NfSu8U6KLG91bt4cIhLTquKPocZCnF-h73gpz8QQYf5jtcXcAlCwdsjbdbrpu3NYSJnDa_bVrO-_PE2vv5SL-Pb-_j687c6BCrGFVraqVp8YVcwNq-IfA7vK4iljxBVAoZGTMPU0fK_yjWlfcNZPxArOeWUMs6Y4E3DKladL219Pp9Ol64bxv7Ei5rGPMWk5w9e4VCm4HdstJr9SoJMfv1gdY8dfT8h4naIeabgIhX6NTubHgqcnhYwkqTPH_HcV3psIB3scYGEyj-DuHSUNjSMILvxWM_Jb4p_LijETw" style="color: #eb4102; text-decoration: none;">average American church sermon lasts for 37 minutes</a> &#8212; but only 14 minutes in Catholic churches</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Japan now has&nbsp;<a href="http://email.substack2.thebrowser.com/c/eJxFUMtuwyAQ_Bpzi8XDzwOHWFEuPbS99WZhs05IbLBgXdd_X-wcghCDlp2dYXqFcHN-k7MLSJYAvjVaFoIyWtZES10XAxSCmNAOHmBSZpToFyDz0o2mV2ic3Rmsohm5y7wSNR2Y1oqVFatEAVlZFYxBrYoh6wayy7Rq0QZsDxJ-wW_OAhnlHXEOiTgn_Br3uq7pQ83KopkgpL1LH3MsW1hDBE5ZHYHuBxN7_fChxng9WKceLIJV3igbTujmU0njOmaL9OcGXx_t3-eovomRnHJKGWdM8DxnKUsv1yK7XJrmWpb1uWp4ktGwdAFV_-Qp3qHzbo05RVMT8RLd9GRZlfDm_RQZtz2poyUG1UacFmtwa6OpbgQtCb4SP_LAbQa5_20ERPCvYgw1WqtzRqK6dnGelW-Jf3V8kkU" style="color: #eb4102; text-decoration: none;">over 70,000 people</a>&nbsp;who are more than 100 years old</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">The <a href="http://email.substack2.thebrowser.com/c/eJxFkE2OwyAMhU8TdomA_LJgMVXVa0QEnISZBCpwJsrtx50uKiEZg5_f02cNwhLTpZ8xIzsypNE73dVc8F4xp53qZuhq5vM4J4Dd-E1jOoA9j2nz1qCP4aUQA2_Yqs0wD2qyk3OKcw7KzoN1vIXGTB2HuWEvm9EczkOwoOEX0hUDsE2viM9c1F-FfNA5z7M683dl406dSejtBpmuaii70sFCWXI5mzVBWMFj6XPAElcoDa00C9VwlXtMUArR9kq2PeeiqB97dEV9R5I5H5YxxHOkSIJ5LbmkESlELdtWVKK6P7rmfr_dHn2vvoabLBqejymjsT-yIqspxZN4vTKypDHuP6IZCnn7fJFieRH7HyFgI9X9CB6vEYKZNnCa4Zv8Pxe8nqADnHkDREjvR4JL0VQrGLm7SPuC_lj8ATdPmMs" style="color: #eb4102; text-decoration: none;">average human-body temperature</a> is 97.5 degrees, not 98.6 degrees </p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0;">The average new American home now has <a href="http://email.substack2.thebrowser.com/c/eJxFUMmuwyAM_JpwjIBs5cDhRVV_I2IxKSqBiKVR_v6R9lDJ0kge2-MZJTKsIZ58DymjkiAuVvOxwwRPDGmu2Whg7JBNi4kAm7CO51gA7UU6q0S2wV8b5IZ79OTjoMBgpiQ1AwNj9CRpB2wa-0H1tGPokllE0Ra8Ag5viGfwgBx_5rynpvtr6KPWcRytCs4JGWLVeIMpXtfOVjnpwlphFdanishyiinGhBLS0WEgLWnvj7G_3-f5MU3s7zbTpsepyJSFetE2P0HGcFSr10EUeQ7bi_S3hs4_qm6sl9nPSPW6VNyKt_lcwAvpQHOUv6F9LOVzB-7hSA5yhvht1lzqa2wgqKrrUO95_pP4B_y-gS4" style="color: #eb4102; text-decoration: none;">more bathrooms than occupants</a></p></div></div><table cellpadding="0" cellspacing="0" class="post-meta big  custom" style="margin: 0 0 10px;"><tr><td class="post-meta-item icon" style="-webkit-font-smoothing: antialiased; color: #757575; font-family: Lato,sans-serif; font-size: 16px; font-weight: 400; height: 30px; line-height: 30px; margin-right: 0; padding: 7px 12px 7px 0; padding-right: 16px; position: relative; text-decoration: none; text-indent: 3px; text-transform: none; vertical-align: middle;"><span><a href="http://email.substack2.thebrowser.com/c/eJxVUsuSmzAQ_Bq44RLiZQ462Mbe4Bg2m_h5ooQYL1qD5AIRjL8-Yu2trVRJl1bPdGt6GFXwLpuBXGWrzK6FJuMF8R1koyA0C1KE_hl8x-Rtdm4AasoropoOzGuXV5xRxaUYK-wpcs2ShNjBvkc9D86AfG-KzgwzF7vU9V0nZ745ymS0KzgIBgT-QjNIAWZFSqWureHMDLzSR5WQN7LXdiZM1hq46ttqurB6KQpoWkueLc2yeoCLBZ5jOCslLyAMJ4JhbTO8H464usQfEif32S2JmLdZrPvcSdETH5Io9tLtso3rqiwWsZ9sd87r9nRL7kuU_uk5PaZ3zePsx55vtks3id647nEvDjF_5Y9em-O6Oh1SRA9hFws0maqlW-Y_F6uPfmkpN9h1QTYDJ7q9VPtX74UGp80mSH_95u3OwH6n6qyVXcNA2267vFWUXZ54DQXv6vE749CfIJNCgVAju6QNaJSyMYIvwOQEI4yQjW3bwZ5nT-xJtPLdKJrPV0EQzqZzbLjoSwpP_h-02RAl64vtTg08_37SFe-jiU-KDl7bqOtOcDVkIGheQUFM9digz3zVcAUioG8rUAqaB6iXRFsLPdvU6oXU_QT5lvgH4hbavQ" style="color: #757575; display: block; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_60,c_scale,f_png,q_auto:good/https%3A%2F%2Fsubstack.com%2Ficon%2FShareIcon%3Fv%3D2%26height%3D30%26stroke%3D%2523999999" width="16.5" height="30" style="border: none !important; float: left; height: 30px; max-width: 16.5px; width: auto;" alt=""></a></span></td></tr></table><div class="container-border" style="border-top: 1px solid #f6eddf; box-sizing: border-box; font-size: 16px; line-height: 26px; margin: 32px 0 0; width: 100%;"></div><div class="post-cta" style="font-size: 16px; line-height: 26px; margin: 24px 0 40px;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; margin-top: 0;"><span>You&#8217;re on the free list for <a href="http://email.substack2.thebrowser.com/c/eJxVUEmugzAMPQ1ZogyMiyyKENdAITFtVEhQ4rTi9j-0i-pLlmx5eIO1Qrj7cMrDRyQpQpitkY2gjLY9MdL0zQqNIDbOawDYld0khgTkSMtmtULr3XXBOlqRh-RCV0Lpfq3bXFHQTPecGtXXjMPSCXLRzCoZC06DhBeE0zsgm3wgHrEQt4JPOfABS_DvLKfUfs8NYiWnnFLGGRO8rlnJynFqqnEchqlt-1s38KKiMS0RlX7y8j8CCRL9_mRVV_DhN8oX98vSZyU7mnPek7N4zuDUsoGRBL-v-QjH8wDp4B03QITwbWb3WVp2SDK78RnPyR_FH5f6d4o" style="color: #eb4102; text-decoration: none;">The Browser</a>. For the full experience, <a href="http://email.substack2.thebrowser.com/c/eJxVUl1zmzAQ_DXwVg-SAMODHmxjt3gCbhPHXy8ekM5YMUgURDH-9RVJOpnO6Gl1t3u7dyzTUKhmoLVqtd210JwFpz5xkDMNbU556F_AJ7Zoz5cGoMpESXXTgV13eSlYpoWSYwcKHNe-0pznQebwwAXuhJhlLiE-DxHwacBdjog9ypyzjguQDCj8gWZQEuySXrWuW4vMLLwyT18hb1RvxpkwVRmg7fKWNSIHi6y0uoG0SATDGjG8Gw64vMVvCieP2T2JmPe0WMvse_jgy7DLf9zERj4PfP_axlV55YvYT7avZLM93pPH0klfenE6XHvTf0-3xZC8zVCy_YUMR81IIjZi3fN9rJNt0aeLuI1lio4i9uMqVad92uRk58TSmZyWq29F3SzFMy8ex-MuQ3UvvQO8BE_kwn5jyH4WHgTktD5a2O90dW5V1zBjJxqt6YzdPvEKuOiq0d4Y9ifIlNQgtUHHAJnObEGxgx0HYYQI9jw0QZNo5btRNJ-vptNwFsyx5Tr_uPHk_0TthmpV3ZAbWHj-9WU6ilH1vcRs2OhWVSeFHs4gs7wETm39cSrvi9RDDVRC35agNTQfoLkGM1roIduoc2X4JP2S-As8a9YP" style="color: #eb4102; text-decoration: none;">become a paying subscriber.</a></span></p><p class="cta-box" style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; font-style: italic; line-height: 26px; margin: 24px 0 0; text-align: center;"><a href="http://email.substack2.thebrowser.com/c/eJxVUl1zmzAQ_DXwVg-SAMODHmxjt3gCbhPHXy8ekM5YMUgURDH-9RVJOpnO6Gl1t3u7dyzTUKhmoLVqtd210JwFpz5xkDMNbU556F_AJ7Zoz5cGoMpESXXTgV13eSlYpoWSYwcKHNe-0pznQebwwAXuhJhlLiE-DxHwacBdjog9ypyzjguQDCj8gWZQEuySXrWuW4vMLLwyT18hb1RvxpkwVRmg7fKWNSIHi6y0uoG0SATDGjG8Gw64vMVvCieP2T2JmPe0WMvse_jgy7DLf9zERj4PfP_axlV55YvYT7avZLM93pPH0klfenE6XHvTf0-3xZC8zVCy_YUMR81IIjZi3fN9rJNt0aeLuI1lio4i9uMqVad92uRk58TSmZyWq29F3SzFMy8ex-MuQ3UvvQO8BE_kwn5jyH4WHgTktD5a2O90dW5V1zBjJxqt6YzdPvEKuOiq0d4Y9ifIlNQgtUHHAJnObEGxgx0HYYQI9jw0QZNo5btRNJ-vptNwFsyx5Tr_uPHk_0TthmpV3ZAbWHj-9WU6ilH1vcRs2OhWVSeFHs4gs7wETm39cSrvi9RDDVRC35agNTQfoLkGM1roIduoc2X4JP2S-As8a9YP" class="button primary" style="-moz-box-sizing: content-box; -webkit-box-sizing: content-box; background-color: #f90; border: 0 solid #f90; border-radius: 4px; border-width: 13px 20px 13px 18px; box-sizing: content-box; color: #fff; cursor: pointer; display: inline-block; font-family: Lato,sans-serif; font-size: 17px; font-style: normal; font-weight: 300; height: 24px; line-height: 24px; margin: 0; opacity: 1; outline: 0; padding: 0; text-decoration: none !important; vertical-align: middle;">Subscribe</a></p></div><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Robert Cottrell, Editor<br>Caroline Crampton, Audio Editor<br>Uri Bram, CEO [<a href="mailto:uri@thebrowser.com" style="color: #eb4102; text-decoration: none;">uri@thebrowser.com</a>]</p><div class="footer" style="background: #f8f8f8 !important; color: #bcbcbc; font-size: 16px; line-height: 26px; padding: 32px; text-align: center;"><p class="small" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 30px;">&#169; 2020 <span>The Browser</span> <a href="http://email.substack2.thebrowser.com/c/eJxVUctu2zAQ_BrxVoOk3gcerKhOrdYOiqa2lYtAkRub1oOCSMWWv760cwgKENjFLocznBHcwlGPMxu0sWgyMFZKssjHBMcpkkym0TtEPlKmeh8BOq5aZscJ0DDVrRLcKt3fESTBAToxEnE_5WGaYBoDB-oHAfZxTFOSJDQkEt1pKj5JBb0ABh8wzroH1LKTtYPx_KVHV-7YE9Sjvjg5C6E7N-DizuQaqQyvW6geUjx_NWgpuLGen3s0srqB3rUwF0TQ3XygbbM-a7q5La-bXIS_noqhPPxWL-fvZHtr6OZ1c93mf826a29iXkfrPiOlwteXfInX6qKEv1MOr96e21u5L8zbLm3r_Wqon4p0cUga-s18lPFRXXNVJLqI_mxbmb3-LLvnTO424f4sj636cWiQYhRTjAklxKdhSBZkka-iIM-zbBXH6TLJqBdgM9XGctHQxf__RyOzumtIkHg0-1o5xPHuwuOKy6NytZt6ZecK-rtJkiH7GezDdjsPwHq4mBashfFz6LJz0tKQIMcutXuvZ18U_wBOpLbt" style="color: #bcbcbc; text-decoration: none;"><span style="color: #bcbcbc; text-decoration: underline;">Unsubscribe</span></a><br>Suite 25, 19-21 Crawford Street, London W1H 1PJ</p><p class="small powered-by-substack" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 0;"><a href="http://email.substack2.thebrowser.com/c/eJxFkM2ugyAUhJ9Glg0_anXBosb4GgbhtCUVMHC4jW9_0XubJmwYzpxvGK0QHiHucgsJSU4QZ2tkKyij154Yafr2Dq0gNs33COCUXSXGDGTLy2q1Qhv84WAdrclT1kKztmtos_DWtJ3RVHCtF93VXa10T8mBmVU2FrwGCT8Q9-CBrPKJuKVK3Co-lZPyklDp10UHV65qCRkrMWV0cwo5aqjE-JmpeHvoDozNruhnyH9RB4_gi3W8h4AQiZWcckoZZ0zwpmEXdhmnth7HYZiu1_7WDbyq6Wc1v-ATlhjepZcjCokSg3uxuqv48H0qjscBPUdKMQXrXPYW9xm8WlYwkuBfw-f_cd9AeninFfAIdYqlxBKtbxgpdBPKPi-_iF9PgpFD" style="color: #bcbcbc; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_340,c_limit,f_auto,q_auto:good/https%3A%2F%2Fsubstack.com%2Fimg%2Fpublish-on-substack.png" width="170" style="border: none !important; margin-top: 3px; max-width: 550px;"></a></p></div></div></td><td></td></tr></table><img width="1px" height="1px" alt="" src="http://email.substack2.thebrowser.com/o/eJxFj8HOgyAQhJ-mHM0uKpYDh9-YvoZBWFtSBQPYxrf_sT30tMnuzM43Rme6h3ioLaTM9kRxdFaJGhA6yayyUswkaubSOEeiVbtF5bgT2_ZpcUZnF_zpwCs07KF4I5FPQszcYM0tR6jnlhsAaFFKAnbGjHq3jrwhRS-KR_DEnOLAAZBjsbUtVlgNN9EMQ9_fuk7-XXt-aSDtU8raPHmVHzTF8C64lQkriyqH9YnN9cL736k47ifwR1J4xzLX3bt8jOT1tJBVLH-Lf7DysZHy9E4L5UzxuyzdCppskZV0G8o_r34R_-lja2c"></body></html>]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <title>So near, and yet so far</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/thebrowser.rss?id=16fb9580de290b35</guid>
+            <description>So near, and yet so far</description>
+            <pubDate>Sat, 18 Jan 2020 09:49:07 CST</pubDate>
+            <content:encoded>
+                <![CDATA[<html><head><title></title><meta charset="utf-8"><style>
+@media screen and (max-width:480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  .share-button-container {
+    height: 38px;
+  }
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  .post .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .post .markup a.spotify-wrap,.post .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+  .post-preview>.post-preview-image {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width:768px) {
+  .post {
+    padding: 15px 0;
+  }
+}
+
+
+@media screen and (max-width:370px) {
+  table.post-meta tr td.post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  body .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .markup a.spotify-wrap,body .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (min-width:500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 6px;
+  }
+}
+
+
+@media screen and (max-width:420px) {
+  body .subscription-receipt table .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width:481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width:480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media all and (-ms-high-contrast:none) {
+  table.thread-head .markup table.image-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  body .footer {
+    outline: #f8f8f8 solid 8px !important;
+  }
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+  table.thread-head .markup a.spotify-wrap,table.thread-head .markup iframe.spotify-wrap {
+    width: auto !important;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+    min-width: 112px;
+  }
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width:540px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+</style></head><body style="color: #505050; font-family: helvetica; font-kerning: auto;"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><div class="post" style="font-size: 16px; line-height: 26px; padding: 9px 0;"><div class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 12px; word-break: break-word;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-top: 0;">Thank you for starting your subscription to the Browser. With our free subscription you&#8217;ll get occasional tastes of our work directly to your inbox, but if you want to get our daily newsletter you'll have to upgrade to our full subscription.</p><h3 style="color: #0a0a0a; font-family: Bitter,Georgia,serif; font-size: 1.375em; font-weight: 400; line-height: 1.16em; margin: 1em 0 .625em;">What you&#8217;ll get:</h3><ul style="margin: 1em 0;"><li style="-webkit-font-smoothing: antialiased; font-size: 16px; line-height: 23px; margin: 3.75px 0 3.75px 7.5px; mso-special-format: bullet;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0;">5 outstanding pieces of reading, each of lasting value</p></li><li style="-webkit-font-smoothing: antialiased; font-size: 16px; line-height: 23px; margin: 3.75px 0 3.75px 7.5px; mso-special-format: bullet;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0;">And a daily video, podcast, and quotable quote.</p></li><li style="-webkit-font-smoothing: antialiased; font-size: 16px; line-height: 23px; margin: 3.75px 0 3.75px 7.5px; mso-special-format: bullet;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0;">Access to all issues in the archives</p></li><li style="-webkit-font-smoothing: antialiased; font-size: 16px; line-height: 23px; margin: 3.75px 0 3.75px 7.5px; mso-special-format: bullet;"><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;">Our eternal appreciation and gratitude</p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"></p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://thebrowser.com/subscribe?token=eyJ1c2VyX2lkIjo2MzAxMDc5LCJnaG9zdE9ubHkiOmZhbHNlLCJpYXQiOjE1NzkzNjI1NDcsImV4cCI6MTU4MTk1NDU0NywiaXNzIjoicHViLTE4MDQiLCJzdWIiOiJjaGVja291dCJ9.APYNUlIiGNIKTQ7myZQUYskmbfGtSWC32ElJPmHHDgk&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;class&quot;:null}" style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; text-align: center;"><a class="button primary" href="http://email.substack1.thebrowser.com/c/eJx1UU1vozAU_DVwW2QbY-DgQwI0IW1Io03SpJfIGBMcPgVGXfj1dborVXuo5NN4Zt57M5wpcWv7iY5NLhs5FCL7NYzpwHvZKdk25jiI_iozSmwAgeubGfU5BMg25XDNeyFqJitqdmNaSc4eigcZegCbBSUYZyQXDkkJZx4hPPdz7BHX8UmOUuibXTuoKxszKRouqFnRQqluMOyFgZ70U4VI-_ZDb2DxttbAv81SYdhPqi1FY9ihmDaQo9N0RlUZ31u0nRd_tiF3XoJNw1b-nEX-mK5Luavfi3SdVBrvLue93N0jmMzlnNxjmIR8iOsT5kFMtocj3h5KjR1BMn1Idk5m7Sv5-iRfDhHehnupPebsLZY7ubmz1enOkA-zYONbi9dLcqxiuUri58Peraf3_fEylHWar9Tvt8BGUbV5rdfr8FaakiKAAIDQgw72gWtBa0kiFARw4QLHsZeeY2DwOFkxXkLr_zTMnqq2LiH2DLT8_tKK26OSL8pXvGrqdLTqx4J1dVdNrsdGqukqGpZWIqN_tbpKU5OzVls29HvKJ6jMv-0" style="background-color: #f90; border: none; border-radius: 4px; box-sizing: border-box; color: #fff; cursor: pointer; display: inline-block; font-family: Lato,sans-serif; font-size: 16px; height: auto; margin: 0; opacity: 1; outline: 0; padding: 6px 20px; text-decoration: none !important;"><span style="text-decoration: none;">Subscribe now</span></a></p></li></ul><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em;"></p><p style="-webkit-font-smoothing: antialiased; color: #0a0a0a; font-size: 16px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0;"></p></div></div><div class="footer" style="background: #f8f8f8 !important; color: #bcbcbc; font-size: 16px; line-height: 26px; padding: 32px; text-align: center;"><p class="small" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 30px;">&#169; 2020 <span>The Browser</span> <a href="http://email.substack1.thebrowser.com/c/eJx1kU1vozAYhH8N3BbZ5vvgA0mairQh29WKhlwQ2AYcwCBslJBfX5M9VHuo5MMre8ZjP0MKxephWvAsKi64bBj9JedSkomPig_CnCWbck6xZwMI_NCkOCQQINvkMq8mxvqCd9gc57LjpFgdqxgGwDEbDErqoAKVtPIpgZAg269gSEhQVV5YMWCOg1R5MVPOBGHY7HCj1CgNOzLQXi_VsHIabvoFFhl6vVGQNUEPlMui7Fj-jDfs_ThQUkhl2DsDeWpomdAjWw46M13OqGvj64COj-h-3BH3fXsYs_MHP11fYPJoH8k1hsmOyLjvHmSJvVhsYMbB_bSLQMxvnNgp135-ee0e2edBXtKwKz_3Y7k9hFZq3-JQvAkv_Mh-v0KWvJWX4z378zdRtzGt62vcRJFzqs8sMDlGAAEAYQBdJwS-Ba2N94K2Wxj5wHXtTeAaDljxq4K00Pr__-aE1dC30AkMtPk-0o56pfCUPIGqZdQw1Y-V6rJyLe5nwdWSM7GSpPifV5dnajEd9JUCf6d8AVOdvKw" style="color: #bcbcbc; text-decoration: none;"><span style="color: #bcbcbc; text-decoration: underline;">Unsubscribe</span></a><br>Suite 25, 19-21 Crawford Street, London W1H 1PJ</p><p class="small powered-by-substack" style="-webkit-font-smoothing: antialiased; color: #bcbcbc; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'; font-size: 13px; line-height: 26px; margin: 0 0 1em; margin-bottom: 0; padding-bottom: 0;"><a href="http://email.substack1.thebrowser.com/c/eJx1UEluwzAMfI10q6HN20GHLM03DEmmayGWZGhBkd9XThvkVIAXDmfI4RiV4SvEhyx-sd6mFeaPVHQy0e7ZBo9LgjjZWXacUNKPeJajoYRxbNO0RACn7CbxXvRmjToUB5kOROBVtgPwBajQTFMqRCfGRYmu10PHezMsFO8h5UmV2YI3IPEm15z3hPgJsVutw0hW5t6Y4GqrdCgZ8VvJbkqhRAOIX18cxLoDdzDb4ir-NPYHmuAz-Cq9LiFkiNhKRhghlA60FSPpG9qcu092udBTT9qWn4cWCfJaTZu8go7hu0ZxWMFR5uDuVAyInd-jqvg6jj4pz8_yY69f5X-zralVb84Vb_NjAq_0BrP81dYUcSXPoa708n3lB5t9lRI" style="color: #bcbcbc; text-decoration: none;"><img src="https://cdn.substack.com/image/fetch/w_340,c_limit,f_auto,q_auto:good/https%3A%2F%2Fsubstack.com%2Fimg%2Fpublish-on-substack.png" width="170" style="border: none !important; margin-top: 3px; max-width: 550px;"></a></p></div></div></td><td></td></tr></table><img width="1px" height="1px" alt="" src="http://email.substack1.thebrowser.com/o/eJx1j8uOhCAQRb-m2Y0pEEQXLNrOfIcpAVvSCoZHJv79YM-iV7Ouc-reqzHbZ4inKn5x3qXVmq9U5qSjO7ILnpRk4-SM6lqgIAdi1KApsJa4NC3R2h3dpshR5s1pvIwLpj1wsl4OAoBkpptRQIsLIpcDdLzlokNJjpDyhMU467VVxCkGDIDSngo-gGxoM3bf7PGgdwlCtGMvbhyuehn1izZ5tXMMP7Vho8NOosphf1He39j4OVXjeZV8I-_AfB41LP87uY6ZKrwX7_I5WY_zZo36c-s4UmET6kuvPim_dqZvtg"></body></html>
+]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>
