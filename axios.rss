@@ -6,9 +6,494 @@
     <channel>
         <title>axios</title>
         <atom:link href="https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 09 Feb 2020 15:05:55 CST</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2020 13:45:35 CST</lastBuildDate>
         <description>axios</description>
         <link>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss</link>
+        
+        <item>
+            <title>Axios Login: Storm over Clearview's face data — Hawley's big FTC plan — Mobile World Congress bailouts</title>
+            <guid>https://raw.githubusercontent.com/tomisarobot/feeds/feeds/axios.rss?id=1702f861a965c274</guid>
+            <description>Axios Login: Storm over Clearview's face data — Hawley's big FTC plan — Mobile World Congress bailouts</description>
+            <pubDate>Mon, 10 Feb 2020 08:33:29 CST</pubDate>
+            <content:encoded>
+                <![CDATA[<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta property="og:title" content="Login" />
+<meta property="og:image" content="https://static.axios.com/img-email/socialcard_axioslogin3.jpg" />
+<meta property="og:description" content="Making sense of the day's biggest tech news with insight into the key players from the Valley to D.C., by Ina Fried" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Login" />
+<meta name="twitter:description" content="Making sense of the day's biggest tech news with insight into the key players from the Valley to D.C., by Ina Fried" />
+<meta property="twitter:image" content="https://static.axios.com/img-email/socialcard_axioslogin3.jpg" />
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<meta name="format-detection" content="address=no">
+<meta name="format-detection" content="email=no">
+<style type="text/css">
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+border-bottom: none !important;
+}
+@font-face {
+font-family: 'atizatext';
+src: url('https://static.axios.com/fonts/atizatext-regular-webfont.eot');
+src: url('https://static.axios.com/fonts/atizatext-regular-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/atizatext-regular-webfont.svg#atizatext') format('svg');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'atizabold';
+src: url('https://static.axios.com/fonts/atizatext-bold-webfont.eot');
+src: url('https://static.axios.com/fonts/atizatext-bold-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/atizatext-bold-webfont.svg#atizatext') format('svg');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'gordita';
+src: url('https://static.axios.com/fonts/gorditaregular-webfont.eot');
+src: url('https://static.axios.com/fonts/gorditaregular-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/gorditaregular-webfont.svg#gorditaregular') format('svg');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'gorditamedium';
+src: url('https://static.axios.com/fonts/gorditamedium-webfont.eot');
+src: url('https://static.axios.com/fonts/gorditamedium-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/gorditamedium-webfont.svg#gorditamedium') format('svg');
+font-weight: 500;
+font-style: normal;
+}
+@font-face {
+font-family: 'gorditabold';
+src: url('https://static.axios.com/fonts/gorditabold-webfont.eot');
+src: url('https://static.axios.com/fonts/gorditabold-webfont.eot?#iefix') format('embedded-opentype'),
+url('https://static.axios.com/fonts/gorditabold-webfont.woff2') format('woff2'),
+url('https://static.axios.com/fonts/gorditabold-webfont.woff') format('woff'),
+url('https://static.axios.com/fonts/gorditabold-webfont.ttf') format('truetype'),
+url('https://static.axios.com/fonts/gorditabold-webfont.svg#gorditabold') format('svg');
+font-weight: 500;
+font-style: normal;
+}
+p {
+margin-top: 0px;
+margin-bottom: 1em;
+}
+p strong {
+font-family: Georgia, serif;
+font-weight: 700;
+}
+.main-header,
+.bodytext {
+font-family: Arial, Helvetica, sans-serif;
+}
+.post-text a {
+border-bottom: 1px solid #008dc8;
+text-decoration: none;
+}
+.post-text a:hover {
+color: #008dc8;
+}
+.post-text ul li {
+margin-bottom: 10px;
+}
+a {
+color: #222222;
+}
+.gmailfix {
+display:none;
+display:none!important;
+}
+@media (max-width: 600px) {
+.hed {
+font-size: 26px !important;
+-webkit-text-size-adjust: 100%;
+}
+.main-header {
+font-size: 34px !important;
+}
+.post-text {
+font-size: 17px !important;
+-webkit-text-size-adjust: none !important;
+}
+}
+</style>
+<link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet">
+<!--[if mso]>
+<style type="text/css">
+.bodytext, .main-header  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
+.post-text {font-family: Georgia, Palatino Linotype, serif !important;}
+.ol-adpad {padding-bottom: 10px !important;}
+a {color: #222222; text-decoration:underline !important;}
+</style>
+<![endif]-->
+<!--[if gte mso 7]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+</head>
+<body style="background-color: #f5f5f5; margin: 0 auto; padding: 0; text-align: center;">
+<div style="display:none;font-size:1px;color:#222222;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+1 big thing: Clearview brings facial recognition concerns into focus | Monday, February 10, 2020
+</div>
+<table cellpadding="0" cellspacing="0" width="100%" style="background-color: #f6f6f6;text-align: center">
+<tr>
+<td style="max-width: 600px;">
+<!--[if mso]>
+<table style="width:600px;"><tr><td>
+<![endif]-->
+<table style="max-width: 600px; width: 100%; margin: 0 auto; text-align: left; background: #fff;" cellspacing="0" cellpadding="0">
+<tr>
+<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="vertical-align: top;">
+<table cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td style="padding-left: 3.5%">
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYXhpb3MuY29tP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cBdf0faf9b" title="AXIOS" target="_blank"><img src="https://static.axios.com/img-email/axios-retina.png" alt="Axios" width="83" border="0"/></a>  <a href="https://link.axios.com/click/19405167.39774/aHR0cDovL3d3dy5heGlvcy5jb20_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cBc4b68f5c"><img src="https://link.axios.com/img/5e114434b43a616dab230c1cbjx4f.uou/c0315b40.gif" alt="" border="0" /></a>
+</td>
+<td style="padding-right: 3.5%;" align="right">
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWxvZ2luLWQxZjg5MjdiLTBjNTQtNDgzMS1hNTc2LWQ0ZmEyNWE5NjhhNC5odG1sP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cBa6655582" target="_blank" class="bodytext" style="color: #222222; font-size: 13px; font-family: 'gordita', Arial, Helvetica, sans-serif;text-decoration:underline;">View in browser</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="30" style="height: 30px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; line-height: 1;">
+<span class="main-header" style="font-size: 44px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #008dc8; letter-spacing: -1px; line-height: 1;">Login</span>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; line-height: 1.5; padding-bottom:35px;padding-top:10px;">
+<span class="bodytext"  style="font-size: 13px; color: #222222; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; ">By
+Ina Fried
+<span style="margin: 0 6px;">&middot;</span>Feb 10, 2020</span>
+</td>
+</tr>
+<tr>
+<td class="post-text" style="font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px; padding: 0 3.5%;">
+<p>That's the shift key, not a snooze button. Nope, that's the space bar. I know, none of us like Mondays. But it's here.</p><p>Today's Login is 1,228 words, a 5-minute read.</p>
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 20px 3.5%; line-height: 1.5;">
+<span class="bodytext hed " style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+1 big thing: Clearview brings facial recognition concerns into focus
+</span>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://images.axios.com/gOEWhzg8D__KsN5zmCbEnG4gFLQ=/0x0:1920x1080/1920x1080/2020/02/10/1581304126440.jpg" width="600" style="width:100%" id="item00" alt="An illustration of a face defined by various pixels">
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0;"></td>
+</tr>
+<tr>
+<td style="padding: 0 3.5%; line-height: 1.3;">
+<span class="bodytext" style="font-size: 13px; color: #848484;">
+<p>Illustration: Aïda Amer/Axios</p>
+</span>
+</td>
+</tr>
+<tr>
+<td height="15" style="height: 15px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
+<p><strong>People warning about</strong> the potentially chilling collision of big data sets and emerging technologies can now point to Clearview, the secretive facial recognition startup that scraped images from some of the largest public internet sites to create a database now used by hundreds of law enforcement agencies across the country. </p><p><strong>Why it matters:</strong> Facial recognition tools have already raised privacy concerns in the U.S. and abroad, particularly when they're used by government, but the controversy over Clearview has shown that both industry and law enforcement are moving faster than the debate. </p><p><strong>To recap:</strong> The issue came to light in mid-January when the New York Times published a <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMC8wMS8xOC90ZWNobm9sb2d5L2NsZWFydmlldy1wcml2YWN5LWZhY2lhbC1yZWNvZ25pdGlvbi5odG1sP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cBcbfb75ad" target="_blank">startling exposé</a> by Kashmir Hill on the company and its database of more than 3 billion images taken from various web sites.</p><p>Since then there have been:</p><ul><li><a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2NsZWFydmlldy10ZWNoLWdpYW50LWZhY2lhbC1yZWNvZ25pdGlvbi1zdGFydHVwLTA5NjFiNTg5LTI0NjItNDZjZi05ZWU0LWRiY2ZkNTI2NjA0OS5odG1sP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cB135a98b3" target="_blank"><strong>Cease and desist letters</strong></a> from Facebook, YouTube, Twitter, Venmo and LinkedIn.</li><li><strong>Class-action lawsuits in Illinois and Virginia</strong> filed against the company.</li><li><strong>Inquiries by Congress</strong> and calls for legislation, including from Rep. Patrick McHenry (R-N.C.)<strong>,</strong> the top Republican on the <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYXhpb3MuY29tL3JlcC1wYXRyaWNrLW1jaGVucnktY2xlYXJ2aWV3LWRhdGEtOGZlODNkNGEtNDU1Zi00YTk3LTg2Y2YtZGExMzMwYWMxZDIzLmh0bWw_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cBec918941" target="_blank">House Financial Services Committee</a>. Sen. Ed Markey (D-Mass.) has also asked Clearview for <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cubWFya2V5LnNlbmF0ZS5nb3YvaW1vL21lZGlhL2RvYy9DbGVhcnZpZXclMjBsZXR0ZXIlMjAyMDIwLnBkZj91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cBb92adafc" target="_blank">documentation</a> of its customers.</li><li><strong>A few bans on police use of Clearview's technology</strong>, including <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMC8wMS8yNC90ZWNobm9sb2d5L2NsZWFydmlldy1haS1uZXctamVyc2V5Lmh0bWw_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cBedc8897a" target="_blank">by the state of New Jersey</a>.</li></ul><p><strong>Clearview remains a tiny company</strong> that was started with seed money from Peter Thiel, the Trump-supporting tech entrepreneur who sits on Facebook's board, and co-founded by a former aide to New York Mayor Rudy Giuliani. </p><ul><li>But Clearview told the Times its database was in use in over 600 law enforcement agencies.</li></ul><p><strong>Between the lines:</strong> In the weeks since the initial Times report, the debate over Clearview, and face recognition technology more broadly, has <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2ZhY2lhbC1zdXJ2ZWlsbGFuY2UtbGVnaXNsYXRpb24tMjAyMC00NzA2MzgzNC1hN2ZiLTQ3YmYtYjUzYy1lNzcwYjBlMTZkMWEuaHRtbD91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cBa94aba53" target="_blank">continued and intensified</a>.</p><ul><li>Proponents cite the crimes, including child sexual abuse, that are being prevented or thwarted <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMC8wMi8wNy9idXNpbmVzcy9jbGVhcnZpZXctZmFjaWFsLXJlY29nbml0aW9uLWNoaWxkLXNleHVhbC1hYnVzZS5odG1sP3NtaWQ9bnl0Y29yZS1pb3Mtc2hhcmUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cB19229d35" target="_blank">by using the technology</a>.</li><li>Opponents warn of the inaccuracy of current technology, especially among women and people of color, and highlight <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYnV6emZlZWRuZXdzLmNvbS9hcnRpY2xlL2Nhcm9saW5laGFza2luczEvY2xlYXJ2aWV3LWFpLWZhY2lhbC1yZWNvZ25pdGlvbi1hdXRob3JpdGFyaWFuLXJlZ2ltZXMtMjI_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cBf6c887ce" target="_blank">the company's international ambitions</a> as reason for additional worry. Critics argue that for every legitimate benefit, there are even scarier uses, such as when the technology finds its way into the hands of authoritarian regimes — or <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYml0Y2htZWRpYS5vcmcvYXJ0aWNsZS92ZXJ5LW9ubGluZS9jbGVhcnZpZXctYWktZmFjaWFsLXJlY29nbml0aW9uLXN0YWxraW5nLXNleGlzbT91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cBae281d99" target="_blank">stalkers</a>.</li></ul><p><strong>What they're saying:</strong></p><ul><li>CEO Hoan Ton-That says his company has the right to use photos published on the internet, making a case similar to the one Google and other search engines made years ago to justify their businesses. "The way we have built our system is to only take publicly available information and index it that way," he said <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vbmV3cy9jbGVhcnZpZXctYWktZ29vZ2xlLXlvdXR1YmUtc2VuZC1jZWFzZS1hbmQtZGVzaXN0LWxldHRlci10by1mYWNpYWwtcmVjb2duaXRpb24tYXBwLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cBe7988e18" target="_blank">in a CBS This Morning interview</a>.</li><li>ACLU Northern California's <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90d2l0dGVyLmNvbS9NYXR0X0NhZ2xlL3N0YXR1cy8xMjI1NjA1MTA4Njc2NzQzMTY4P3M9MjAmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cB99a104ab" target="_blank">Matt Cagle</a>: "Clearview AI built its facial recognition system by exploiting your 'publicly available' social media profile photos. They were able to do this because most social media companies make profile photos public by default and deprive users of the option to hide them."</li></ul><p><strong>Our thought bubble:</strong> We clearly need a conversation about the rules and laws that should govern use of facial recognition. We also need one on what rights people should have over their own likenesses.</p><ul><li>That Clearview's tech could be used so widely with so little notice is one concern. Another is that we might not have much recourse even now, after its exposure. </li></ul><p><strong>Go deeper:</strong> Kashmir Hill is <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90d2l0dGVyLmNvbS9rYXNoaGlsbC9zdGF0dXMvMTIyNjY3NzU0MDkxNzQ3NzM3Nj9zPTIxJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cBcc1fc2d8" target="_blank">expected</a> to discuss the story, its origins and the fallout on today's episode of the Times podcast, "The Daily."</p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;">
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtbG9naW4tZDFmODkyN2ItMGM1NC00ODMxLWE1NzYtZDRmYTI1YTk2OGE0Lmh0bWw_Y2h1bmslM0QwJTI2dXRtX3Rlcm0lM0RmYnNvY2lhbHNoYXJlJTIzc3RvcnkwJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cB500c7ced" style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/facebook@2x.png" alt="Share on Facebook"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0xJTIwYmlnJTIwdGhpbmc6JTIwQ2xlYXJ2aWV3JTIwYnJpbmdzJTIwZmFjaWFsJTIwcmVjb2duaXRpb24lMjBjb25jZXJucyUyMGludG8lMjBmb2N1cyZoYXNodGFncz1sb2dpbiZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWxvZ2luLWQxZjg5MjdiLTBjNTQtNDgzMS1hNTc2LWQ0ZmEyNWE5NjhhNC5odG1sP2NodW5rJTNEMCUyNnV0bV90ZXJtJTNEdHdzb2NpYWxzaGFyZSUyM3N0b3J5MCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cBd980f025" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/twitter@2x.png" alt="Tweet this Story"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWxvZ2luLWQxZjg5MjdiLTBjNTQtNDgzMS1hNTc2LWQ0ZmEyNWE5NjhhNC5odG1sP2NodW5rJTNEMCUyNTI2dXRtX3Rlcm0lMjUzRGxpc29jaWFsc2hhcmUlMjUyM3N0b3J5MCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cBf751eaee" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/linkedin@2x.png" alt="Post to LinkedIn"></a>
+<a href="mailto:?subject=From Axios: 1 big thing: Clearview brings facial recognition concerns into focus&body=tomk148%2Baxios%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A1 big thing: Clearview brings facial recognition concerns into focus%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-login-d1f8927b-0c54-4831-a576-d4fa25a968a4.html%3Fchunk%3D0%26utm_term%3Demshare#story0" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/email@2x.png" alt="Email this Story"></a>
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 20px 3.5%; line-height: 1.5;">
+<span class="bodytext hed " style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+2. Hawley seeks overhaul of the Federal Trade Commission
+</span>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://images.axios.com/RQOJav0n86o2dSr8ALnGSmDA9ZE=/0x0:1920x1080/1920x1080/2020/02/10/1581305617800.jpg" width="600" style="width:100%" id="item01" alt="Sen. Josh Hawley, (R-Mo.)">
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0;"></td>
+</tr>
+<tr>
+<td style="padding: 0 3.5%; line-height: 1.3;">
+<span class="bodytext" style="font-size: 13px; color: #848484;">
+<p>Sen. Josh Hawley, (R-Mo.). Photo: Chip Somodevilla/Getty Images</p>
+</span>
+</td>
+</tr>
+<tr>
+<td height="15" style="height: 15px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
+<p><strong>GOP Sen. Josh Hawley's frustration</strong> with the FTC's policing of the tech industry has prompted him to <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuaGF3bGV5LnNlbmF0ZS5nb3Yvc2l0ZXMvZGVmYXVsdC9maWxlcy8yMDIwLTAyL0hhd2xleS1GVEMtT3ZlcmhhdWwucGRmP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cB41c2ab64" target="_blank">propose</a> taking the more-than-100-year-old agency off of merger reviews and turning what remains into a wing of the Justice Department, Axios' Margaret Harding McGill reports. </p><p><strong>The big picture: </strong>The FTC has been under fire from both Republicans and Democrats calling for tougher action on Big Tech. Hawley's pitch is to hand the agency's competition authority to the Justice Department's antitrust division so that a reimagined FTC could hone its focus on privacy and other digital issues.</p><p><strong>Yes, but: </strong>Relocating the agency, created in 1914, to a branch of the Justice Department is a tall order, and it's unclear if Hawley's idea will gain any support.</p><p><strong>Details:</strong> Hawley says his plan would make the FTC directly accountable to the Justice Department while giving it special authority to address digital markets.</p><ul><li>Rather than a five-member commission, the FTC would be run by a Senate-confirmed director who would report to the DOJ's associate attorney general.</li><li>The DOJ's antitrust division would take over review of any mergers and acquisitions that might otherwise fall to the FTC, ending the overlapping jurisdiction that has been a <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cud3NqLmNvbS9hcnRpY2xlcy9zZW5hdG9yLXF1ZXN0aW9ucy10d28tYWdlbmNpZXMtaW52ZXN0aWdhdGlvbnMtb2YtYmlnLXRlY2gtZmlybXMtMTE1Njg3NTAwODQ_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cBdc55e7fd" target="_blank">source of congressional complaints</a>.</li><li>The proposal instead calls for the creation of a "digital markets research section" within the FTC that would conduct studies of the marketplace and bolster DOJ litigation.</li><li>To increase enforcement, the proposal would give the FTC authority to limit the amount of data firms can collect, enforce new data portability and interoperability requirements, and impose civil penalties for first-time violations of those new rules.</li></ul><p><strong>What they're saying: </strong>"The FTC isn't working," Hawley said in a statement. "It wastes time in turf wars with the DOJ, nobody is accountable for decisions, and it lacks the 'teeth' to get after Big Tech's rampant abuses. Congress needs to do something about it."</p><p><strong>What it doesn't do: </strong>For his proposal, Hawley rejected the idea of creating a brand new agency to police tech companies, saying his overhaul of the FTC is the better answer.</p><p><strong>What's next: </strong>Legislation based on the proposal will come in short order, according to a Hawley aide. </p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;">
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtbG9naW4tZDFmODkyN2ItMGM1NC00ODMxLWE1NzYtZDRmYTI1YTk2OGE0Lmh0bWw_Y2h1bmslM0QxJTI2dXRtX3Rlcm0lM0RmYnNvY2lhbHNoYXJlJTIzc3RvcnkxJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cCbacfdf9f" style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/facebook@2x.png" alt="Share on Facebook"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0yLiUyMEhhd2xleSUyMHNlZWtzJTIwb3ZlcmhhdWwlMjBvZiUyMHRoZSUyMEZlZGVyYWwlMjBUcmFkZSUyMENvbW1pc3Npb24maGFzaHRhZ3M9bG9naW4mdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9uZXdzbGV0dGVycy9heGlvcy1sb2dpbi1kMWY4OTI3Yi0wYzU0LTQ4MzEtYTU3Ni1kNGZhMjVhOTY4YTQuaHRtbD9jaHVuayUzRDElMjZ1dG1fdGVybSUzRHR3c29jaWFsc2hhcmUlMjNzdG9yeTEmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cC5b5be4b8" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/twitter@2x.png" alt="Tweet this Story"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWxvZ2luLWQxZjg5MjdiLTBjNTQtNDgzMS1hNTc2LWQ0ZmEyNWE5NjhhNC5odG1sP2NodW5rJTNEMSUyNTI2dXRtX3Rlcm0lMjUzRGxpc29jaWFsc2hhcmUlMjUyM3N0b3J5MSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cC1e720687" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/linkedin@2x.png" alt="Post to LinkedIn"></a>
+<a href="mailto:?subject=From Axios: 2. Hawley seeks overhaul of the Federal Trade Commission&body=tomk148%2Baxios%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A2. Hawley seeks overhaul of the Federal Trade Commission%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-login-d1f8927b-0c54-4831-a576-d4fa25a968a4.html%3Fchunk%3D1%26utm_term%3Demshare#story1" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/email@2x.png" alt="Email this Story"></a>
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 20px 3.5%; line-height: 1.5;">
+<span class="bodytext hed " style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+3. More companies skip Mobile World Congress
+</span>
+</td>
+</tr>
+<tr>
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
+<p><strong>The list of companies skipping Mobile World Congress</strong> this year continues to grow, a trend that may accelerate now that Ericsson <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2VyaWNzc29uLXB1bGxzLW91dC1vZi1tb2JpbGUtd29ybGQtY29uZ3Jlc3MtYW1pZC12aXJ1cy1jb25jZXJucy01ODQ1YjE5YS1kMWQzLTQ4YTMtYTE2NC0yNzUzOWM3YzYyNzcuaHRtbD91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cB5e5b8a6a" target="_blank">has decided to take a pass</a>. Amazon, LG, Nvidia and Sony have also said they won't be attending due to coronavirus concerns.</p><p><strong>Why it matters:</strong> The best thing about Mobile World Congress is the fact that it brings together the biggest names in the wireless industry. But this year, some of those big names won't be going to Barcelona.</p><p><strong>Driving the news:</strong></p><ul><li>LG was the first big name to announce it was <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYXhpb3MuY29tL3p0ZS1sZy1jb3JvbmF2aXJ1cy1tb2JpbGUtd29ybGQtY29uZ3Jlc3MtNTFjOGE5M2MtZDk4Zi00ZDQyLTgxOTItNjQ0NWIwMDgwMGI4Lmh0bWw_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cB8b3e81d4" target="_blank">skipping the event</a>, followed by Ericsson. ZTE has also canceled a planned Barcelona press conference.</li><li>Since then, Nvidia and Amazon have pulled out.</li><li>GSMA, the show's organizer, has announced a number of new health precautions. Over the weekend, the association said those from the most affected Chinese province would not be able to attend, and attendees who have been in China will need to demonstrate proof they have been outside of China for at least 14 days prior to the event.</li></ul><p><strong>My thought bubble:</strong> Ericsson typically hosts one of the biggest booths at the show and is a central player in the mobile industry. By pulling out, Ericsson has given other companies cover to do the same, and actually puts the pressure on companies to justify why they are sending their employees.</p><p><strong>Go deeper:</strong> <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cudGhldmVyZ2UuY29tLzIwMjAvMi83LzIxMTI4MzA3L2Nvcm9uYXZpcnVzLW91dGJyZWFrLXRlY2gtaW5kdXN0cnktcHJvZHVjdGlvbi1zdXBwbHktY2hhaW4tZGVsYXktaW1wYWN0P3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cB12b24474" target="_blank">All the ways that the coronavirus is affecting the tech industry</a> (The Verge)</p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;">
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtbG9naW4tZDFmODkyN2ItMGM1NC00ODMxLWE1NzYtZDRmYTI1YTk2OGE0Lmh0bWw_Y2h1bmslM0QyJTI2dXRtX3Rlcm0lM0RmYnNvY2lhbHNoYXJlJTIzc3RvcnkyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cD8042f882" style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/facebook@2x.png" alt="Share on Facebook"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0zLiUyME1vcmUlMjBjb21wYW5pZXMlMjBza2lwJTIwTW9iaWxlJTIwV29ybGQlMjBDb25ncmVzcyZoYXNodGFncz1sb2dpbiZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWxvZ2luLWQxZjg5MjdiLTBjNTQtNDgzMS1hNTc2LWQ0ZmEyNWE5NjhhNC5odG1sP2NodW5rJTNEMiUyNnV0bV90ZXJtJTNEdHdzb2NpYWxzaGFyZSUyM3N0b3J5MiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cD395e363a" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/twitter@2x.png" alt="Tweet this Story"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWxvZ2luLWQxZjg5MjdiLTBjNTQtNDgzMS1hNTc2LWQ0ZmEyNWE5NjhhNC5odG1sP2NodW5rJTNEMiUyNTI2dXRtX3Rlcm0lMjUzRGxpc29jaWFsc2hhcmUlMjUyM3N0b3J5MiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cDd5248d6b" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/linkedin@2x.png" alt="Post to LinkedIn"></a>
+<a href="mailto:?subject=From Axios: 3. More companies skip Mobile World Congress&body=tomk148%2Baxios%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A3. More companies skip Mobile World Congress%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-login-d1f8927b-0c54-4831-a576-d4fa25a968a4.html%3Fchunk%3D2%26utm_term%3Demshare#story2" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/email@2x.png" alt="Email this Story"></a>
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 20px 3.5%; line-height: 1.5;">
+<span class="bodytext hed " style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+4. Samsung uses Oscar commercial to confirm new foldable
+</span>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://images.axios.com/UXOuF0sqx7LZ6Pyykl8nYAVg1wQ=/0x674:4032x2942/1920x1080/2020/02/10/1581305806006.jpg" width="600" style="width:100%" id="item03" alt="An image from Samsung's Oscars commercial debuting its new foldable smartphone">
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0;"></td>
+</tr>
+<tr>
+<td style="padding: 0 3.5%; line-height: 1.3;">
+<span class="bodytext" style="font-size: 13px; color: #848484;">
+<p>Photo: Ina Fried/Axios</p>
+</span>
+</td>
+</tr>
+<tr>
+<td height="15" style="height: 15px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
+<p><strong>Samsung just couldn't wait</strong> until Tuesday's Unpacked event to show off its new foldable smartphone. The company used a commercial during the Oscars to <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuZHJvaWQtbGlmZS5jb20vMjAyMC8wMi8wOS9zYW1zdW5nLXJldmVhbHMtZ2FsYXh5LXotZmxpcC1iZWZvcmUtdHVlc2RheXMtYmlnLWV2ZW50Lz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cBbe804711" target="_blank">tease the new phone</a>, which has already been widely leaked.</p><p><strong>The big picture:</strong> Foldables, led by the original Galaxy Fold and Motorola's Razr, are the current novelty of the smartphone market.</p><p>While the new foldable, <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjAtMDItMTAvc2Ftc3VuZy1kZWJ1dHMtbW9yZS1jb21wYWN0LWZvbGRhYmxlLXBob25lLWR1cmluZy1vc2NhcnMtYWQ_dXRtX2NvbnRlbnQ9YnVzaW5lc3MmdXRtX2NhbXBhaWduPXNvY2lhbGZsb3ctb3JnYW5pYyZ1dG1fbWVkaXVtPXNvY2lhbCZjbXBpZD1zb2NpYWxmbG93LXR3aXR0ZXItYnVzaW5lc3MmdXRtX3NvdXJjZT10d2l0dGVyJnN0cmVhbT10b3A/5e114434b43a616dab230c1cB6a1c3bc2" target="_blank">expected to be called the Galaxy Z Flip</a>, is likely to be the toast of the Tuesday event, the mainstay is the next generation of the Galaxy S family, which has also widely leaked, and is expected to be dubbed the Galaxy S20.</p><ul><li>Also over the weekend, T.M. Roh, Samsung's new head of mobile communications, <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly9uZXdzLnNhbXN1bmcuY29tL2dsb2JhbC9lZGl0b3JpYWwtZGF3bi1vZi1hLW5ldy1kZWNhZGUtb2YtZ2FsYXh5P3V0bV9zb3VyY2U9bnJfdHdpdHRlciZ1dG1fbWVkaXVtPXNvY2lhbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cBc2b69d98" target="_blank">published a blog post</a> touting, among other things, the company's work with Google and Microsoft.</li></ul>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;">
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtbG9naW4tZDFmODkyN2ItMGM1NC00ODMxLWE1NzYtZDRmYTI1YTk2OGE0Lmh0bWw_Y2h1bmslM0QzJTI2dXRtX3Rlcm0lM0RmYnNvY2lhbHNoYXJlJTIzc3RvcnkzJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cE602073aa" style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/facebook@2x.png" alt="Share on Facebook"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD00LiUyMFNhbXN1bmclMjB1c2VzJTIwT3NjYXIlMjBjb21tZXJjaWFsJTIwdG8lMjBjb25maXJtJTIwbmV3JTIwZm9sZGFibGUmaGFzaHRhZ3M9bG9naW4mdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9uZXdzbGV0dGVycy9heGlvcy1sb2dpbi1kMWY4OTI3Yi0wYzU0LTQ4MzEtYTU3Ni1kNGZhMjVhOTY4YTQuaHRtbD9jaHVuayUzRDMlMjZ1dG1fdGVybSUzRHR3c29jaWFsc2hhcmUlMjNzdG9yeTMmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cE0648b0cf" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/twitter@2x.png" alt="Tweet this Story"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWxvZ2luLWQxZjg5MjdiLTBjNTQtNDgzMS1hNTc2LWQ0ZmEyNWE5NjhhNC5odG1sP2NodW5rJTNEMyUyNTI2dXRtX3Rlcm0lMjUzRGxpc29jaWFsc2hhcmUlMjUyM3N0b3J5MyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cE5ac2ae08" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/linkedin@2x.png" alt="Post to LinkedIn"></a>
+<a href="mailto:?subject=From Axios: 4. Samsung uses Oscar commercial to confirm new foldable&body=tomk148%2Baxios%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A4. Samsung uses Oscar commercial to confirm new foldable%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-login-d1f8927b-0c54-4831-a576-d4fa25a968a4.html%3Fchunk%3D3%26utm_term%3Demshare#story3" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/email@2x.png" alt="Email this Story"></a>
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 20px 3.5%; line-height: 1.5;">
+<span class="bodytext hed " style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+5. Take Note
+</span>
+</td>
+</tr>
+<tr>
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
+<p><strong>On Tap</strong></p><ul><li><a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cudGhlbWFrZXJzY29uZmVyZW5jZS5jb20_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cB1cbe82c3" target="_blank">Makers conference</a> takes place today through Wednesday in Los Angeles.</li></ul><p><strong>Trading Places</strong></p><ul><li>Technical program manager Bruce Hahne <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYWxwaGFiZXR3b3JrZXJzLm9yZy9yZXNpZ25hdGlvbi1sZXR0ZXIvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cB8a88ea64" target="_blank">publicly resigned from Google</a>, citing several ethical issues with the company, including its treatment of LGBTQ staff, sales to the oil and gas industry and the increased use of Google technology by militaries.</li></ul><p><strong>ICYMI</strong></p><ul><li>How Netflix <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cud3NqLmNvbS9hcnRpY2xlcy9uZXRmbGl4LXNwZW5kcy1iaWctZm9yLW9zY2Fyc3dpbGwtaG9sbHl3b29kLWdpdmUtaW4tMTE1ODA4MTc2MDI_cmVkaXJlY3Q9YW1wJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcCNjbGljaz1odHRwczovL3QuY28vWWhMeHZsekZTUQ/5e114434b43a616dab230c1cB2f209d68" target="_blank">spent $100 million</a> in its Oscars push. (WSJ)</li><li>Nearly a third of U.S. adults say they have <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDIwLzAyLzA2L3Bldy0zMC1vZi11LXMtYWR1bHRzLWhhdmUtdXNlZC1vbmxpbmUtZGF0aW5nLTEyLWZvdW5kLWEtY29tbWl0dGVkLXJlbGF0aW9uc2hpcHMtZnJvbS1pdC8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cB664a67f0" target="_blank">used an online dating service</a>, according to a Pew poll, up from 11% in 2013. (TechCrunch)</li><li>France is the latest country to be <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNvbS9uZXdzL2FydGljbGVzLzIwMjAtMDItMDkvY2hpbmEtd2FybnMtZnJhbmNlLWFnYWluc3QtZXhjbHVkaW5nLWh1YXdlaS1mcm9tLTVnLW5ldHdvcmtzP3NybmQ9dGVjaG5vbG9neS12cCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cB6c4bec50" target="_blank">warned by China</a> of reprisals if Huawei is banned from its 5G networks. (Bloomberg)</li></ul>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;">
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtbG9naW4tZDFmODkyN2ItMGM1NC00ODMxLWE1NzYtZDRmYTI1YTk2OGE0Lmh0bWw_Y2h1bmslM0Q0JTI2dXRtX3Rlcm0lM0RmYnNvY2lhbHNoYXJlJTIzc3Rvcnk0JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cF9bb916dd" style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/facebook@2x.png" alt="Share on Facebook"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD01LiUyMFRha2UlMjBOb3RlJmhhc2h0YWdzPWxvZ2luJnVybD1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtbG9naW4tZDFmODkyN2ItMGM1NC00ODMxLWE1NzYtZDRmYTI1YTk2OGE0Lmh0bWw_Y2h1bmslM0Q0JTI2dXRtX3Rlcm0lM0R0d3NvY2lhbHNoYXJlJTIzc3Rvcnk0JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cFd879c79b" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/twitter@2x.png" alt="Tweet this Story"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWxvZ2luLWQxZjg5MjdiLTBjNTQtNDgzMS1hNTc2LWQ0ZmEyNWE5NjhhNC5odG1sP2NodW5rJTNENCUyNTI2dXRtX3Rlcm0lMjUzRGxpc29jaWFsc2hhcmUlMjUyM3N0b3J5NCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cFbd405f34" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/linkedin@2x.png" alt="Post to LinkedIn"></a>
+<a href="mailto:?subject=From Axios: 5. Take Note&body=tomk148%2Baxios%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A5. Take Note%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-login-d1f8927b-0c54-4831-a576-d4fa25a968a4.html%3Fchunk%3D4%26utm_term%3Demshare#story4" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/email@2x.png" alt="Email this Story"></a>
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 20px 3.5%; line-height: 1.5;">
+<span class="bodytext hed " style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+6. After you Login
+</span>
+</td>
+</tr>
+<tr>
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
+<p>Check out <a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90d2l0dGVyLmNvbS9lc3BuL3N0YXR1cy8xMjI2NjMxMzM0OTY3MzU3NDQwP3M9MjAmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cB2bbcc12f" target="_blank">the best use of a whiteboard</a> ever.</p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;">
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtbG9naW4tZDFmODkyN2ItMGM1NC00ODMxLWE1NzYtZDRmYTI1YTk2OGE0Lmh0bWw_Y2h1bmslM0Q1JTI2dXRtX3Rlcm0lM0RmYnNvY2lhbHNoYXJlJTIzc3Rvcnk1JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cG8a48ed64" style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/facebook@2x.png" alt="Share on Facebook"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD02LiUyMEFmdGVyJTIweW91JTIwTG9naW4maGFzaHRhZ3M9bG9naW4mdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9uZXdzbGV0dGVycy9heGlvcy1sb2dpbi1kMWY4OTI3Yi0wYzU0LTQ4MzEtYTU3Ni1kNGZhMjVhOTY4YTQuaHRtbD9jaHVuayUzRDUlMjZ1dG1fdGVybSUzRHR3c29jaWFsc2hhcmUlMjNzdG9yeTUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cGf9687147" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/twitter@2x.png" alt="Tweet this Story"></a>
+<a href="https://link.axios.com/click/19405167.39774/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWxvZ2luLWQxZjg5MjdiLTBjNTQtNDgzMS1hNTc2LWQ0ZmEyNWE5NjhhNC5odG1sP2NodW5rJTNENSUyNTI2dXRtX3Rlcm0lMjUzRGxpc29jaWFsc2hhcmUlMjUyM3N0b3J5NSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/5e114434b43a616dab230c1cG511864f3" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/linkedin@2x.png" alt="Post to LinkedIn"></a>
+<a href="mailto:?subject=From Axios: 6. After you Login&body=tomk148%2Baxios%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A6. After you Login%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-login-d1f8927b-0c54-4831-a576-d4fa25a968a4.html%3Fchunk%3D5%26utm_term%3Demshare#story5" style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none" target="_blank" src="https://static.axios.com/img-email/social/email@2x.png" alt="Email this Story"></a>
+</td>
+</tr>
+<tr>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+</tr>
+</table>
+<!-- End email content -->
+<!-- Start footer -->
+<table style="max-width:600px; margin: 0 auto; width: 100%;" cellspacing="0" cellpadding="0">
+<tr>
+<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" style="padding: 0 5%; line-height: 1.75;">
+<span class="bodytext" style="font-size: 12px; line-height: 1.75; color: #222222;">
+<p>Axios thanks our partners for supporting our newsletters.
+<br> Sponsorship has no influence on editorial content.</p>
+</span>
+<span class="bodytext" style="font-size: 12px; line-height: 1.75; color: #222222;">
+Axios, 3100 Clarendon B&zwnj;lvd, Suite 1300, Arlington VA 22201
+</span>
+</td>
+</tr>
+<tr>
+<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" style="padding: 0 5%; line-height: 1.2;">
+<span class="bodytext" style="font-size: 12px; line-height: 1.2; color: #222222;">
+You received this email because you signed up for newsletters from Axios.<br>
+<a href="https://link.axios.com/oc/5e114434b43a616dab230c1cbjx4f.uou/8307ccae" style="color: #222222;">Change your preferences or unsubscribe here.</a>
+</span>
+</td>
+</tr>
+<tr>
+<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" style="padding: 0 5%; line-height: 1.2;">
+<span class="bodytext" style="font-size: 12px; line-height: 1.2; color: #222222;">
+Was this email forwarded to you?<br>
+<a href="https://link.axios.com/join/5fx/login-signup?utm_source=forwarded_email" style="color: #222222;">Sign up now</a> to get Axios in your inbox.
+</span>
+</td>
+</tr>
+<tr>
+<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td height="30" align="center">
+<p class="bodytext" style="font-size: 12px; line-height: 1.75; color: #222222;">Follow Axios on social media:</p>
+<a target="_blank" href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2F4aW9zbmV3cy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cB9277d35f"><img src="https://static.axios.com/img-email/facebook@2x.png" height="16" alt="Axios on Facebook" style="border: 0; padding-right: 28px;" /></a>
+<a target="_blank" href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cudHdpdHRlci5jb20vYXhpb3MvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/5e114434b43a616dab230c1cB57222adb"><img src="https://static.axios.com/img-email/twitter@2x.png" height="16" alt="Axios on Twitter" style="border: 0; padding-right: 20px;" /></a>
+<a target="_blank" href="https://link.axios.com/click/19405167.39774/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9heGlvcy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/5e114434b43a616dab230c1cBe1aeee4f"><img src="https://static.axios.com/img-email/instagram@2x.png" height="16" alt="Axios on Instagram" style="border: 0" /></a>
+</td>
+</tr>
+<tr>
+<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
+</tr>
+<!--<tr>
+<td align="center" style="padding: 0 5%; line-height: 1.75;">
+<span class="bodytext"  style="font-size: 12px; line-height: 1.75px; color: #222222;">
+View in browser at <a href="https://link.axios.com/view/5e114434b43a616dab230c1cbjx4f.uou/53693cc6" target="_blank" style="color: #222222; letter-spacing: 1px;">https://link.axios.com/view/5e114434b43a616dab230c1cbjx4f.uou/53693cc6</a>
+</span>
+</td>
+</tr>-->
+<tr>
+<td height="70" style="height: 70px; font-size: 0;">&nbsp;</td>
+</tr>
+</table>
+<!-- End footer -->
+<!--[if mso]>
+</td></tr></table>
+<![endif]-->
+</td></tr></table>
+<div class="gmailfix" style="white-space:nowrap; font:15px courier; line-height:0;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+</body>
+</html>]]>
+            </content:encoded>
+        </item>
         
         <item>
             <title>Axios Login: Team Trump's 5G misfires — Apple makes its debate debut — Netflix' takedown requests detailed</title>
